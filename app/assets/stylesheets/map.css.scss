@@ -1,0 +1,23 @@
+// Place all the styles related to the map controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+html { height: 100% }
+body { height: 100%; margin: 0; padding: 0 }
+#map { height: 100%; }
+header.main {
+  position:absolute;
+  z-index: 10000;
+  left:0;
+  right:0;
+  font-family: "Bembo Std Regular";
+  h1 {
+    text-align: center;
+    margin:0 auto;
+    font-size: 30px;
+    width:200px;
+    background:white;
+    padding:10px;
+    font-weight: normal;
+  }
+}
