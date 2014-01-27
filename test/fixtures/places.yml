@@ -1,9 +1,340 @@
-# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
-
-one:
-  name: MyString
-  description: MyText
-
-two:
-  name: MyString
-  description: MyText
+kelly:
+  name: Kelly Hall
+  lng: -73.181306
+  lat: 44.012034
+hadley:
+  name: Hadley Hall
+  lng: -73.181153
+  lat: 44.011686
+milliken:
+  name: Milliken Hall
+  lng: -73.18113599999998
+  lat: 44.011334
+laforce:
+  name: LaForce Hall
+  lng: -73.18101100000001
+  lat: 44.010493
+ross:
+  name: Ross Commons
+  lng: -73.18097699999998
+  lat: 44.010746
+battell:
+  name: Battell Center
+  lng: -73.177888
+  lat: 44.011375
+pearsons:
+  name: Pearsons Hall
+  lng: -73.18017035722733
+  lat: 44.011158808474974
+adirondack:
+  name: Adirondack House
+  lng: -73.18006306886673
+  lat: 44.01062638641278
+middlebury:
+  name: Middlebury College Bookstore
+  lng: -73.17969268220901
+  lat: 44.00902205706343
+gifford:
+  name: Gifford Hall
+  lng: -73.17899018526077
+  lat: 44.00975058030448
+hillcrest:
+  name: Hillcrest Environmental Center
+  lng: -73.17982167005539
+  lat: 44.00985475175269
+munroe:
+  name: Munroe Hall
+  lng: -73.17779928445816
+  lat: 44.00998593035319
+voter:
+  name: Voter Hall
+  lng: -73.17683905363083
+  lat: 44.0100399449867
+library:
+  name: Library
+  lng: -73.17453771829605
+  lat: 44.00946507243439
+warner:
+  name: Warner Hall
+  lng: -73.1753933429718
+  lat: 44.01016533591054
+painter:
+  name: Painter Hall
+  lng: -73.17592442035675
+  lat: 44.00960589743396
+old:
+  name: Old Chapel
+  lng: -73.17603170871735
+  lat: 44.0090773196804
+starr:
+  name: Starr Hall
+  lng: -73.1760424375534
+  lat: 44.00856995777089
+axinn:
+  name: Axinn Center
+  lng: -73.17572057247162
+  lat: 44.0079507002816
+dke:
+  name: DKE House
+  lng: -73.1760236620903
+  lat: 44.00744911626772
+health:
+  name: Health Center
+  lng: -73.17632675170898
+  lat: 44.006851068246235
+facilities:
+  name: Facilities Building
+  lng: -73.177050948143
+  lat: 44.00735844485871
+mccullough:
+  name: McCullough
+  lng: -73.17724406719208
+  lat: 44.00828058591703
+stewart:
+  name: Stewart Hall
+  lng: -73.17867636680603
+  lat: 44.00799121265146
+hepburn:
+  name: Hepburn
+  lng: -73.17880511283875
+  lat: 44.008546808074534
+mead:
+  name: Mead Chapel
+  lng: -73.17893922328949
+  lat: 44.00911204391095
+spanish:
+  name: Spanish House
+  lng: -73.18046003580093
+  lat: 44.00842527202044
+italian:
+  name: Italian House
+  lng: -73.18052977323532
+  lat: 44.00893263516757
+raj:
+  name: RAJ House
+  lng: -73.18055659532547
+  lat: 44.008051016575386
+xenia:
+  name: Xenia
+  lng: -73.18102866411209
+  lat: 44.00809345803323
+russian:
+  name: Russian House
+  lng: -73.18101793527603
+  lat: 44.00840019312113
+palana:
+  name: PALANA House
+  lng: -73.18098306655884
+  lat: 44.00863940680576
+82:
+  name: 82 Adirondack House
+  lng: -73.18150073289871
+  lat: 44.00881881643609
+osmannex:
+  name: OSM Annex
+  lng: -73.18098843097687
+  lat: 44.00898857988771
+chellis:
+  name: Chellis House
+  lng: -73.18051099777222
+  lat: 44.00940141170841
+tavern:
+  name: Tavern
+  lng: -73.18163752555847
+  lat: 44.00769797963554
+brooker:
+  name: Brooker
+  lng: -73.1815168261528
+  lat: 44.00709993412315
+palmer:
+  name: Palmer
+  lng: -73.18305641412735
+  lat: 44.00740667434884
+ride:
+  name: Ride Mod
+  lng: -73.18376183509827
+  lat: 44.00760730860692
+peary:
+  name: Peary Mod
+  lng: -73.18388789892197
+  lat: 44.007429824490174
+norgay:
+  name: Norgay Mod
+  lng: -73.18407028913498
+  lat: 44.007588016880845
+earhart:
+  name: Earhart Mod
+  lng: -73.18410784006119
+  lat: 44.00781180051781
+cousteau:
+  name: Cousteau Mod
+  lng: -73.18412661552429
+  lat: 44.008022079200366
+prescott:
+  name: Prescott House
+  lng: -73.18275600671768
+  lat: 44.008182199165134
+homer:
+  name: Homer Harris House
+  lng: -73.18350970745087
+  lat: 44.00936475853215
+turner:
+  name: Turner House
+  lng: -73.18242341279984
+  lat: 44.00965991241357
+gigglepit:
+  name: Gigglepit
+  lng: -73.18185478448868
+  lat: 44.00969077809413
+japanese:
+  name: Japanese House
+  lng: -73.18145781755447
+  lat: 44.00976794222521
+lang:
+  name: Lang Hall
+  lng: -73.18133599999999
+  lat: 44.01223
+bihall:
+  name: BiHall
+  lng: -73.18112522363663
+  lat: 44.01346205754973
+freeman:
+  name: Freeman International Center
+  lng: -73.180111348629
+  lat: 44.01400602794143
+atwater:
+  name: Atwater B
+  lng: -73.1779146194458
+  lat: 44.01341190399999
+atwater:
+  name: Atwater A
+  lng: -73.17858248949051
+  lat: 44.01376683590156
+coffrin:
+  name: Coffrin Hall
+  lng: -73.17894995212555
+  lat: 44.013157277631535
+atwater:
+  name: Atwater Dining Hall
+  lng: -73.1772655248642
+  lat: 44.01343119383182
+allen:
+  name: Allen Hall
+  lng: -73.17731380462646
+  lat: 44.01297595212692
+le:
+  name: Le Chateau
+  lng: -73.17783683538437
+  lat: 44.012572790241684
+wright:
+  name: Wright Theater
+  lng: -73.17691147327423
+  lat: 44.012026877674884
+sunderland:
+  name: Sunderland
+  lng: -73.17646354436874
+  lat: 44.01083858418433
+dana:
+  name: Dana Auditorium
+  lng: -73.17626237869263
+  lat: 44.01086173298621
+107:
+  name: 107 Shannon St
+  lng: -73.1752136349678
+  lat: 44.01218698682831
+beach:
+  name: Beach House
+  lng: -73.17429631948471
+  lat: 44.01116845375808
+porter:
+  name: Porter House
+  lng: -73.17437812685966
+  lat: 44.00713562410516
+meeker:
+  name: Meeker House
+  lng: -73.17523643374443
+  lat: 44.00653564371582
+munford:
+  name: Munford House
+  lng: -73.17562535405159
+  lat: 44.00621346524683
+cfa:
+  name: CFA
+  lng: -73.17613899707794
+  lat: 44.00531154914904
+arts:
+  name: Arts Museum
+  lng: -73.17595660686493
+  lat: 44.00491026442387
+nelson:
+  name: Nelson Recreation Center
+  lng: -73.17697800000002
+  lat: 44.004868
+memorial:
+  name: Memorial Field House
+  lng: -73.17753500000003
+  lat: 44.004457
+pepin:
+  name: Pepin Gymnasium
+  lng: -73.17785600000002
+  lat: 44.004181
+fitness:
+  name: Fitness Center
+  lng: -73.17711700000001
+  lat: 44.004073
+natatorium:
+  name: Natatorium
+  lng: -73.17700000000002
+  lat: 44.003393
+kenyon:
+  name: Kenyon Arena
+  lng: -73.17758500000002
+  lat: 44.00301
+kohn:
+  name: Kohn All Weather Field
+  lng: -73.175905
+  lat: 44.003726
+dragone:
+  name: Dragone Track and Field Complex
+  lng: -73.172819
+  lat: 44.004138
+paddle:
+  name: Paddle Tennis
+  lng: -73.17621500000001
+  lat: 44.004469
+youngman:
+  name: Youngman Field at Alumni Stadium
+  lng: -73.17973899999998
+  lat: 44.001659
+twilight:
+  name: Twilight Hall
+  lng: -73.17215859889984
+  lat: 44.010881023647535
+the:
+  name: The Mill
+  lng: -73.17165166139603
+  lat: 44.01044119500993
+carr:
+  name: Carr Hall
+  lng: -73.178254
+  lat: 44.010613
+johnson:
+  name: Johnson
+  lat: 44.011455
+  lng: -73.176544
+snowbowl:
+  name: Snow Bowl
+  lat: 43.939329
+  lng: -72.957984
+alumnicenter:
+  name: Kirk Alumni Center
+  lat: 43.999868
+  lng: -73.181589
+51main:
+  name: 51 Main
+  lat: 44.013561
+  lng: -73.168358
+proctor:
+  name: Proctor
+  lat: 44.009235
+  lng: -73.179924

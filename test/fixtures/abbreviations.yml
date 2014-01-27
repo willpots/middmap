@@ -1,0 +1,26 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  orig_term: "mccardell bicentennial hall"
+  new_term: "bihall"
+two:
+  orig_term: "davis family library"
+  new_term: "library"
+three:
+  orig_term: "mahaney center for the arts"
+  new_term: "cfa"
+four:
+  orig_term: "johnson memorial building"
+  new_term: "johnson"
+five:
+  orig_term: 'robert a. jones &#39;59'
+  new_term: "raj"  
+six:
+  orig_term: "axinn center"
+  new_term: "axinn"
+seven:
+  orig_term: "the college store"
+  new_term: "bookstore"
+eight:
+  orig_term: "middlebury college"
+  new_term: ""

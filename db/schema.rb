@@ -11,10 +11,17 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140123202759) do
+ActiveRecord::Schema.define(version: 20140126020234) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "abbreviations", force: true do |t|
+    t.string   "orig_term"
+    t.string   "new_term"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
 
   create_table "events", force: true do |t|
     t.string   "name"
@@ -22,8 +29,9 @@ ActiveRecord::Schema.define(version: 20140123202759) do
     t.integer  "place_id"
     t.datetime "created_at"
     t.datetime "updated_at"
-    t.datetime "start"
-    t.datetime "end"
+    t.datetime "s_time"
+    t.datetime "e_time"
+    t.string   "raw_location"
   end
 
   create_table "places", force: true do |t|
@@ -33,6 +41,7 @@ ActiveRecord::Schema.define(version: 20140123202759) do
     t.datetime "updated_at"
     t.float    "lat"
     t.float    "lng"
+    t.text     "terms"
   end
 
 end

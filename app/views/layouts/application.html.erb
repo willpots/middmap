@@ -2,17 +2,30 @@
 <html>
 <head>
   <title>Middlebury Now</title>
-  <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
-   <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+  <%= stylesheet_link_tag "application", media: "all", "data-turbolinks-track" => true %>
+  <%= stylesheet_link_tag "jquery-ui", media: "all", "data-turbolinks-track" => true %>
+  <%= stylesheet_link_tag "leaflet", media: "all", "data-turbolinks-track" => true %>
+  <%= stylesheet_link_tag "MarkerCluster", media: "all", "data-turbolinks-track" => true %>
+  <%= stylesheet_link_tag "MarkerCluster.Default", media: "all", "data-turbolinks-track" => true %>
+  <%= stylesheet_link_tag "map", media: "all", "data-turbolinks-track" => true %>
+  <%= stylesheet_link_tag "events", media: "all", "data-turbolinks-track" => true %>
+  <%= stylesheet_link_tag "places", media: "all", "data-turbolinks-track" => true %>
 
   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+  <%= javascript_include_tag "jquery.min", "data-turbolinks-track" => true %>
+  <%= javascript_include_tag "jquery-ui", "data-turbolinks-track" => true %>
+  <%= javascript_include_tag "leaflet", "data-turbolinks-track" => true %>
+  <%= javascript_include_tag "leaflet.markercluster", "data-turbolinks-track" => true %>
+  <%= javascript_include_tag "moment.min", "data-turbolinks-track" => true %>
+  <%= javascript_include_tag "map", "data-turbolinks-track" => true %>
+  <%= javascript_include_tag "events", "data-turbolinks-track" => true %>
+  <%= javascript_include_tag "places", "data-turbolinks-track" => true %>
   <%= csrf_meta_tags %>
 </head>
 <body>
-  <script src="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.js"></script>
-  <script src="http://maps.google.com/maps/api/js?v=3.2&sensor=false"></script>
-  <script src="http://matchingnotes.com/javascripts/leaflet-google.js"></script>
-  <script src="http://cdnjs.cloudflare.com/ajax/libs/moment.js/2.4.0/moment.min.js"></script>
+
 <%= yield %>
 
 

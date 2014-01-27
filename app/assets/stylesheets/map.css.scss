@@ -5,11 +5,14 @@
 html { height: 100% }
 body { height: 100%; margin: 0; padding: 0 }
 #map { height: 100%; }
+
 header.main {
   position:absolute;
-  z-index: 10000;
+  z-index: 1000;
   left:0;
   right:0;
+  margin:0 auto;
+  width:220px;
   font-family: "Bembo Std Regular";
   h1 {
     text-align: center;
@@ -19,5 +22,17 @@ header.main {
     background:white;
     padding:10px;
     font-weight: normal;
+  }
+}
+footer.main {
+  z-index: 1001;
+  position:absolute;
+  bottom:0;
+  height:50px;
+  width:100%;
+  #search {
+    position:absolute;
+    bottom:0;
+    right:0;
   }
 }

@@ -1,8 +1,11 @@
 <header class="main">
   <h1>Middlebury</h1>
+
 </header>
 <div id="map"></div>
-
+<footer class="main">
+  <!-- <input type="text" name="search" id="search"> -->
+</footer>
 
 <script>
   
@@ -14,29 +17,18 @@ function initmap() {
   // create the tile layer with correct attribution
   var osmUrl='http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
   var osmAttrib="";
-  var osm = new L.TileLayer(osmUrl, {minZoom: 8, maxZoom: 26, attribution: osmAttrib});   
+  var osm = new L.TileLayer(osmUrl, {minZoom: 8, maxZoom: 18, attribution: osmAttrib});   
 
   map.setView(new L.LatLng( 44.008867044738814, -73.178),15);
   map.addLayer(osm);
-  var googleLayer = new L.Google('ROADMAP');
-  // map.addLayer(googleLayer);
 
-  reader = new EventReader(function(data) {
-    this.markers = [];
-    for(var i = 0; i < data.count; i++) {
-      var ev = data.events[i]
-      var ll = new L.LatLng(ev.place.lat, ev.place.lng);
-      var marker = new L.Marker(ll);
-      var time = moment(ev.start);
-      marker.bindPopup(ev.name + " - " + ev.description + "<br>" + time.format("M/D h:mm a"));
-      marker.addTo(map);
-    }
-  });
+  reader = new WP.EventReader(null, map);
   reader.fetch();
 
 
 }
-
-initmap();
+$(function() {
+  initmap();
+})
 </script>
 
