@@ -26,45 +26,29 @@ WP.EventReader.prototype.fetch = function() {
 WP.EventReader.prototype.show = function() {
   this.map.addLayer(this.cluster);
 };
-WP.BlackIcon = L.icon({
+WP.icon = L.Icon.extend({
+  options: {
     iconUrl: '/assets/icon.png',
     iconRetinaUrl: '/assets/icon.png',
-    iconSize: [24, 24],
-    iconAnchor: [12, 12],
+    iconSize: [30, 30],
+    iconAnchor: [15, 15],
     popupAnchor: [0,-10],
     shadowUrl: "/assets/icon-shadow.png",
-    shadowAnchor: [11, 11],
-    shadowSize: [24, 24]
+    shadowAnchor: [14, 14],
+    shadowSize: [30, 30]
+  }
 });
-WP.GreenIcon = L.icon({
+WP.GreenIcon = new WP.icon({
     iconUrl: '/assets/icon-green.png',
-    iconRetinaUrl: '/assets/icon-green.png',
-    iconSize: [24, 24],
-    iconAnchor: [12, 12],
-    popupAnchor: [0,-10],
-    shadowUrl: "/assets/icon-shadow.png",
-    shadowAnchor: [11, 11],
-    shadowSize: [24, 24]
+    iconRetinaUrl: '/assets/icon-green.png'
 });
-WP.RedIcon = L.icon({
+WP.RedIcon = new WP.icon({
     iconUrl: '/assets/icon-red.png',
-    iconRetinaUrl: '/assets/icon-red.png',
-    iconSize: [24, 24],
-    iconAnchor: [12, 12],
-    popupAnchor: [0,-10],
-    shadowUrl: "/assets/icon-shadow.png",
-    shadowAnchor: [11, 11],
-    shadowSize: [24, 24]
+    iconRetinaUrl: '/assets/icon-red.png'
 });
-WP.YellowIcon = L.icon({
+WP.YellowIcon = new WP.icon({
     iconUrl: '/assets/icon-yellow.png',
-    iconRetinaUrl: '/assets/icon-yellow.png',
-    iconSize: [24, 24],
-    iconAnchor: [12, 12],
-    popupAnchor: [0,-10],
-    shadowUrl: "/assets/icon-shadow.png",
-    shadowAnchor: [11, 11],
-    shadowSize: [24, 24]
+    iconRetinaUrl: '/assets/icon-yellow.png'
 });
 
 WP.Event = function(data, reader) {
