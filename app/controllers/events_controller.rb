@@ -1,7 +1,6 @@
 require 'feedzirra'
 require 'net/http'
 require 'icalendar'
-include Icalendar
 
 class EventsController < ApplicationController
   include EventsHelper
@@ -57,6 +56,8 @@ class EventsController < ApplicationController
   end
 
   def middbeat
+    include Icalendar
+
     calendar = Net::HTTP.get(URI('http://middbeat.org/wp-rss.php?ec3_ical'))
     cal = Icalendar.parse(calendar)
 
