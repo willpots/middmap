@@ -1,0 +1,4576 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-CALNAME:middbeat
+BEGIN:VEVENT
+SUMMARY:The Moth: Storytelling in the Gamut Room
+URL;VALUE=URI:http://middbeat.org/2013/01/23/moth-at-gamut/
+UID:5-http://middbeat.org/2013/01/23/moth-at-gamut/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20120125T023000Z
+DTEND;VALUE=DATE-TIME:20120125T043000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alpenglow @ Mead Chapel 2.0 ft. Maryse Smith
+URL;VALUE=URI:http://middbeat.org/2013/01/18/alpenglowmead-chapel-2-0-ft-maryse-smith/
+UID:2-http://middbeat.org/2013/01/18/alpenglowmead-chapel-2-0-ft-maryse-smith/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130120T000000Z
+DTEND;VALUE=DATE-TIME:20130120T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Get Your Basketball Tickets NOW!
+URL;VALUE=URI:http://middbeat.org/2013/02/26/get-your-basketball-tickets-now/
+UID:222-http://middbeat.org/2013/02/26/get-your-basketball-tickets-now/
+DESCRIPTION:[by: umathurman]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130203T000000Z
+DTEND;VALUE=DATE-TIME:20130203T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men's Basketball Won't Stop Winning
+URL;VALUE=URI:http://middbeat.org/2013/02/08/mens-basketball-wont-stop-winning/
+UID:8-http://middbeat.org/2013/02/08/mens-basketball-wont-stop-winning/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130209T230000Z
+DTEND;VALUE=DATE-TIME:20130210T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A capella jambo
+URL;VALUE=URI:http://middbeat.org/2013/02/09/a-capella-jambo/
+UID:13-http://middbeat.org/2013/02/09/a-capella-jambo/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130210T050000Z
+DTEND;VALUE=DATE-TIME:20130211T050000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Men's Basketball Won't Stop Winning
+URL;VALUE=URI:http://middbeat.org/2013/02/08/mens-basketball-wont-stop-winning/
+UID:9-http://middbeat.org/2013/02/08/mens-basketball-wont-stop-winning/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130210T190000Z
+DTEND;VALUE=DATE-TIME:20130210T210000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zumba Fitness Sundays
+URL;VALUE=URI:http://middbeat.org/2013/02/09/zumba-fitness-sundays/
+UID:28-http://middbeat.org/2013/02/09/zumba-fitness-sundays/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130211T210000Z
+DTEND;VALUE=DATE-TIME:20130211T220000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Gone Wrong... At Middlebury TONIGHT
+URL;VALUE=URI:http://middbeat.org/2013/02/13/love-gone-wrong-at-middlebury-tonight/
+UID:53-http://middbeat.org/2013/02/13/love-gone-wrong-at-middlebury-tonight/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130213T123000Z
+DTEND;VALUE=DATE-TIME:20130213T140000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Gone Wrong... At Middlebury TONIGHT
+URL;VALUE=URI:http://middbeat.org/2013/02/13/love-gone-wrong-at-middlebury-tonight/
+UID:55-http://middbeat.org/2013/02/13/love-gone-wrong-at-middlebury-tonight/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130213T123000Z
+DTEND;VALUE=DATE-TIME:20130213T140000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop Traffick Weekly Meeting 
+URL;VALUE=URI:http://middbeat.org/2013/02/13/stop-traffick-weekly-meeting/
+UID:60-http://middbeat.org/2013/02/13/stop-traffick-weekly-meeting/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130213T123000Z
+DTEND;VALUE=DATE-TIME:20130213T133000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pre-med info meeting
+URL;VALUE=URI:http://middbeat.org/2013/02/13/pre-med-info-meeting/
+UID:39-http://middbeat.org/2013/02/13/pre-med-info-meeting/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130213T233000Z
+DTEND;VALUE=DATE-TIME:20130214T003000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Middlebury Fermenters Guild\, OSM\, 9pm\, Wednesday 13th.
+URL;VALUE=URI:http://middbeat.org/2013/02/13/middlebury-fermenters-guild-osm-9pm-wednesday-13th/
+UID:58-http://middbeat.org/2013/02/13/middlebury-fermenters-guild-osm-9pm-wednesday-13th/
+DESCRIPTION:[by: yeastczar]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130214T020000Z
+DTEND;VALUE=DATE-TIME:20130214T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TONIGHT: One Billion Rising Dance Party
+URL;VALUE=URI:http://middbeat.org/2013/02/13/onebillionrisin/
+UID:42-http://middbeat.org/2013/02/13/onebillionrisin/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130214T030000Z
+DTEND;VALUE=DATE-TIME:20130214T050000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TONIGHT: One Billion Rising Dance Party
+URL;VALUE=URI:http://middbeat.org/2013/02/13/onebillionrisin/
+UID:44-http://middbeat.org/2013/02/13/onebillionrisin/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130214T030000Z
+DTEND;VALUE=DATE-TIME:20130214T050000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TONIGHT: One Billion Rising Dance Party
+URL;VALUE=URI:http://middbeat.org/2013/02/13/onebillionrisin/
+UID:46-http://middbeat.org/2013/02/13/onebillionrisin/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130214T030000Z
+DTEND;VALUE=DATE-TIME:20130214T050000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TONIGHT: One Billion Rising Dance Party
+URL;VALUE=URI:http://middbeat.org/2013/02/13/onebillionrisin/
+UID:48-http://middbeat.org/2013/02/13/onebillionrisin/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130214T030000Z
+DTEND;VALUE=DATE-TIME:20130214T050000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TONIGHT: One Billion Rising Dance Party
+URL;VALUE=URI:http://middbeat.org/2013/02/13/onebillionrisin/
+UID:50-http://middbeat.org/2013/02/13/onebillionrisin/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130214T030000Z
+DTEND;VALUE=DATE-TIME:20130214T050000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dissipated Eight A Capella Auditions
+URL;VALUE=URI:http://middbeat.org/2013/02/13/dissipated-eight-a-capella-auditions/
+UID:75-http://middbeat.org/2013/02/13/dissipated-eight-a-capella-auditions/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130214T093000Z
+DTEND;VALUE=DATE-TIME:20130214T143000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ES Colloquium: Andrew Schwarz
+URL;VALUE=URI:http://middbeat.org/2013/02/13/es-colloquium-andrew-schwarz/
+UID:73-http://middbeat.org/2013/02/13/es-colloquium-andrew-schwarz/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130214T173000Z
+DTEND;VALUE=DATE-TIME:20130214T173000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Don't Forget Winter Carnival Tickets!
+URL;VALUE=URI:http://middbeat.org/2013/02/09/dont-forget-winter-carnival-tickets/
+UID:18-http://middbeat.org/2013/02/09/dont-forget-winter-carnival-tickets/
+DESCRIPTION:[by: leahfessler]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130214
+DTEND;VALUE=DATE:20130215
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midd Night Thursday at 51 Main
+URL;VALUE=URI:http://middbeat.org/2013/02/08/midd-night-thursday-at-51-main/
+UID:11-http://middbeat.org/2013/02/08/midd-night-thursday-at-51-main/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130214T220000Z
+DTEND;VALUE=DATE-TIME:20130215T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TONIGHT: Winter Carnival Kickoff
+URL;VALUE=URI:http://middbeat.org/2013/02/14/tonight-winter-carnival-kickoff/
+UID:87-http://middbeat.org/2013/02/14/tonight-winter-carnival-kickoff/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130215T010000Z
+DTEND;VALUE=DATE-TIME:20130215T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Get a radio show\, be a Champlain Valley celeb
+URL;VALUE=URI:http://middbeat.org/2013/02/12/get-a-radio-show-be-a-champlain-valley-celeb/
+UID:37-http://middbeat.org/2013/02/12/get-a-radio-show-be-a-champlain-valley-celeb/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130215T023000Z
+DTEND;VALUE=DATE-TIME:20130215T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Northern Lights 
+URL;VALUE=URI:http://middbeat.org/2013/02/12/northern-lights/
+UID:34-http://middbeat.org/2013/02/12/northern-lights/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130215T070000Z
+DTEND;VALUE=DATE-TIME:20130215T100000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Carnival Day 1 Ski Races
+URL;VALUE=URI:http://middbeat.org/2013/02/14/winter-carnival-day-1-ski-races/
+UID:81-http://middbeat.org/2013/02/14/winter-carnival-day-1-ski-races/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130215T091500Z
+DTEND;VALUE=DATE-TIME:20130215T091500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Don't Forget Winter Carnival Tickets!
+URL;VALUE=URI:http://middbeat.org/2013/02/09/dont-forget-winter-carnival-tickets/
+UID:19-http://middbeat.org/2013/02/09/dont-forget-winter-carnival-tickets/
+DESCRIPTION:[by: leahfessler]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130215
+DTEND;VALUE=DATE:20130216
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adam Ferrara: 9 PM Friday\, McCullough
+URL;VALUE=URI:http://middbeat.org/2013/02/14/adam-ferrara-9-pm-friday-mccullough/
+UID:85-http://middbeat.org/2013/02/14/adam-ferrara-9-pm-friday-mccullough/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130216T020000Z
+DTEND;VALUE=DATE-TIME:20130216T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Students to present board of trustees with divestment plan
+URL;VALUE=URI:http://middbeat.org/2013/02/14/students-to-present-board-of-trustees-with-divestment-plan/
+UID:89-http://middbeat.org/2013/02/14/students-to-present-board-of-trustees-with-divestment-plan/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130216T124500Z
+DTEND;VALUE=DATE-TIME:20130216T130000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday Winter Ski Races
+URL;VALUE=URI:http://middbeat.org/2013/02/16/saturday-winter-ski-races/
+UID:101-http://middbeat.org/2013/02/16/saturday-winter-ski-races/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130216T140000Z
+DTEND;VALUE=DATE-TIME:20130217T000000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Don't Forget Winter Carnival Tickets!
+URL;VALUE=URI:http://middbeat.org/2013/02/09/dont-forget-winter-carnival-tickets/
+UID:20-http://middbeat.org/2013/02/09/dont-forget-winter-carnival-tickets/
+DESCRIPTION:[by: leahfessler]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130216
+DTEND;VALUE=DATE:20130217
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midd kids to go to Washington to protest Keystone Pipeline 
+URL;VALUE=URI:http://middbeat.org/2013/02/14/midd-kids-to-go-to-washington-to-protest-keystone-pipeline/
+UID:77-http://middbeat.org/2013/02/14/midd-kids-to-go-to-washington-to-protest-keystone-pipeline/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130217T150000Z
+DTEND;VALUE=DATE-TIME:20130217T150000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midd kids to go to Washington to protest Keystone Pipeline 
+URL;VALUE=URI:http://middbeat.org/2013/02/14/midd-kids-to-go-to-washington-to-protest-keystone-pipeline/
+UID:79-http://middbeat.org/2013/02/14/midd-kids-to-go-to-washington-to-protest-keystone-pipeline/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130217T150000Z
+DTEND;VALUE=DATE-TIME:20130217T150000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Don't Forget Winter Carnival Tickets!
+URL;VALUE=URI:http://middbeat.org/2013/02/09/dont-forget-winter-carnival-tickets/
+UID:21-http://middbeat.org/2013/02/09/dont-forget-winter-carnival-tickets/
+DESCRIPTION:[by: leahfessler]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130217
+DTEND;VALUE=DATE:20130218
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zumba Fitness Sundays
+URL;VALUE=URI:http://middbeat.org/2013/02/09/zumba-fitness-sundays/
+UID:29-http://middbeat.org/2013/02/09/zumba-fitness-sundays/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130217T200000Z
+DTEND;VALUE=DATE-TIME:20130217T220000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Middlebury to do the Harlem Shake in BiHall
+URL;VALUE=URI:http://middbeat.org/2013/02/14/middlebury-to-do-the-harlem-shake-in-bihall/
+UID:103-http://middbeat.org/2013/02/14/middlebury-to-do-the-harlem-shake-in-bihall/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130217T210000Z
+DTEND;VALUE=DATE-TIME:20130217T210000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reclaim Lo Fo
+URL;VALUE=URI:http://middbeat.org/2013/02/17/reclaim-lo-fo/
+UID:99-http://middbeat.org/2013/02/17/reclaim-lo-fo/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130217T230000Z
+DTEND;VALUE=DATE-TIME:20130218T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TEDX TICKETS GO ON SALE MONDAY 2/18
+URL;VALUE=URI:http://middbeat.org/2013/02/16/tedx-tickets-go-on-sale-monday-218/
+UID:105-http://middbeat.org/2013/02/16/tedx-tickets-go-on-sale-monday-218/
+DESCRIPTION:[by: leahfessler]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130218
+DTEND;VALUE=DATE:20130219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blood Drive Monday
+URL;VALUE=URI:http://middbeat.org/2013/02/17/blood-drive-monday/
+UID:91-http://middbeat.org/2013/02/17/blood-drive-monday/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130218T160000Z
+DTEND;VALUE=DATE-TIME:20130218T200000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meditation for Beginners
+URL;VALUE=URI:http://middbeat.org/2013/02/17/meditation-for-beginners/
+UID:95-http://middbeat.org/2013/02/17/meditation-for-beginners/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130218T173000Z
+DTEND;VALUE=DATE-TIME:20130218T180000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riddim Auditions
+URL;VALUE=URI:http://middbeat.org/2013/02/17/riddim-audtions/
+UID:107-http://middbeat.org/2013/02/17/riddim-audtions/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130219T000000Z
+DTEND;VALUE=DATE-TIME:20130219T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meditation for Beginners
+URL;VALUE=URI:http://middbeat.org/2013/02/17/meditation-for-beginners/
+UID:97-http://middbeat.org/2013/02/17/meditation-for-beginners/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130219T010000Z
+DTEND;VALUE=DATE-TIME:20130219T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How Students Learn Panel TODAY
+URL;VALUE=URI:http://middbeat.org/2013/02/19/how-students-learn-panel-today/
+UID:115-http://middbeat.org/2013/02/19/how-students-learn-panel-today/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130219T063000Z
+DTEND;VALUE=DATE-TIME:20130219T063000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meditation for Beginners
+URL;VALUE=URI:http://middbeat.org/2013/02/17/meditation-for-beginners/
+UID:96-http://middbeat.org/2013/02/17/meditation-for-beginners/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130219T173000Z
+DTEND;VALUE=DATE-TIME:20130219T180000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Outside Magazine senior editor to speak about modern heroes' fall from grace
+URL;VALUE=URI:http://middbeat.org/2013/02/19/outside-magazine-senior-editor-abe-streep-04-to-speak-about-modern-heroes-fall-from-grace/
+UID:113-http://middbeat.org/2013/02/19/outside-magazine-senior-editor-abe-streep-04-to-speak-about-modern-heroes-fall-from-grace/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130219T213000Z
+DTEND;VALUE=DATE-TIME:20130219T233000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tomorrow: Middlebrow Improv Show
+URL;VALUE=URI:http://middbeat.org/2013/02/18/tomorrow-middlebrow-improv-show/
+UID:110-http://middbeat.org/2013/02/18/tomorrow-middlebrow-improv-show/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130220T030000Z
+DTEND;VALUE=DATE-TIME:20130220T033000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Independent Scholar Roundtable Discussion
+URL;VALUE=URI:http://middbeat.org/2013/02/19/independent-scholar-roundtable-discussion/
+UID:117-http://middbeat.org/2013/02/19/independent-scholar-roundtable-discussion/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130220T213000Z
+DTEND;VALUE=DATE-TIME:20130220T223000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Students to screen documentary in Burlington
+URL;VALUE=URI:http://middbeat.org/2013/02/19/students-to-screen-documentary-in-burlington/
+UID:119-http://middbeat.org/2013/02/19/students-to-screen-documentary-in-burlington/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130221T000000Z
+DTEND;VALUE=DATE-TIME:20130221T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Students to screen documentary in Burlington
+URL;VALUE=URI:http://middbeat.org/2013/02/19/students-to-screen-documentary-in-burlington/
+UID:121-http://middbeat.org/2013/02/19/students-to-screen-documentary-in-burlington/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130221T000000Z
+DTEND;VALUE=DATE-TIME:20130221T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Human Trafficking Meeting TONIGHT: World Day of Social Justice!
+URL;VALUE=URI:http://middbeat.org/2013/02/20/human-trafficking-meeting-tonight-world-day-of-social-justice/
+UID:125-http://middbeat.org/2013/02/20/human-trafficking-meeting-tonight-world-day-of-social-justice/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130221T003000Z
+DTEND;VALUE=DATE-TIME:20130221T013000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ES Colloquium: Trees and Methane
+URL;VALUE=URI:http://middbeat.org/2013/02/20/es-colloquium-trees-and-methane/
+UID:129-http://middbeat.org/2013/02/20/es-colloquium-trees-and-methane/
+DESCRIPTION:[by: macslappy]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130221T173000Z
+DTEND;VALUE=DATE-TIME:20130221T173000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Students discuss female power in politics
+URL;VALUE=URI:http://middbeat.org/2013/02/20/students-discuss-female-power-in-politics/
+UID:134-http://middbeat.org/2013/02/20/students-discuss-female-power-in-politics/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130221T173000Z
+DTEND;VALUE=DATE-TIME:20130221T183000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Students discuss female power in politics
+URL;VALUE=URI:http://middbeat.org/2013/02/20/students-discuss-female-power-in-politics/
+UID:136-http://middbeat.org/2013/02/20/students-discuss-female-power-in-politics/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130221T173000Z
+DTEND;VALUE=DATE-TIME:20130221T183000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Students discuss female power in politics
+URL;VALUE=URI:http://middbeat.org/2013/02/20/students-discuss-female-power-in-politics/
+UID:138-http://middbeat.org/2013/02/20/students-discuss-female-power-in-politics/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130221T173000Z
+DTEND;VALUE=DATE-TIME:20130221T183000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Disability\, Dis-Location and the School-to-Prison Pipeline" Guest Lecture Today
+URL;VALUE=URI:http://middbeat.org/2013/02/21/disability-dis-location-and-the-school-to-prison-pipeline-guest-lecture/
+UID:145-http://middbeat.org/2013/02/21/disability-dis-location-and-the-school-to-prison-pipeline-guest-lecture/
+DESCRIPTION:[by: zee]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130221T233000Z
+DTEND;VALUE=DATE-TIME:20130222T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TONIGHT: Diversity in Muslim Identity
+URL;VALUE=URI:http://middbeat.org/2013/02/20/tonight-diversity-in-muslim-identity/
+UID:131-http://middbeat.org/2013/02/20/tonight-diversity-in-muslim-identity/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130222T000000Z
+DTEND;VALUE=DATE-TIME:20130222T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trivia Night: TONIGHT
+URL;VALUE=URI:http://middbeat.org/2013/02/21/trivia-night-tonight/
+UID:152-http://middbeat.org/2013/02/21/trivia-night-tonight/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130222T020000Z
+DTEND;VALUE=DATE-TIME:20130222T040000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Moth: Rude Awakenings this THURSDAY
+URL;VALUE=URI:http://middbeat.org/2013/02/19/the-moth-rude-awakenings-this-thursday/
+UID:123-http://middbeat.org/2013/02/19/the-moth-rude-awakenings-this-thursday/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130222T023000Z
+DTEND;VALUE=DATE-TIME:20130222T033000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:24 Hour Play Festival 
+URL;VALUE=URI:http://middbeat.org/2013/02/12/24-hour-play-festival/
+UID:31-http://middbeat.org/2013/02/12/24-hour-play-festival/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130222T050000Z
+DTEND;VALUE=DATE-TIME:20130223T050000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buddy Meets the Strivers: A Spoken Word Event
+URL;VALUE=URI:http://middbeat.org/2013/02/13/buddy-meets-the-strivers-a-spoken-word-event/
+UID:64-http://middbeat.org/2013/02/13/buddy-meets-the-strivers-a-spoken-word-event/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130223T010000Z
+DTEND;VALUE=DATE-TIME:20130223T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buddy Meets the Strivers: A Spoken Word Event
+URL;VALUE=URI:http://middbeat.org/2013/02/13/buddy-meets-the-strivers-a-spoken-word-event/
+UID:66-http://middbeat.org/2013/02/13/buddy-meets-the-strivers-a-spoken-word-event/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130223T010000Z
+DTEND;VALUE=DATE-TIME:20130223T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buddy Meets the Strivers: A Spoken Word Event
+URL;VALUE=URI:http://middbeat.org/2013/02/13/buddy-meets-the-strivers-a-spoken-word-event/
+UID:68-http://middbeat.org/2013/02/13/buddy-meets-the-strivers-a-spoken-word-event/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130223T010000Z
+DTEND;VALUE=DATE-TIME:20130223T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buddy Meets the Strivers: A Spoken Word Event
+URL;VALUE=URI:http://middbeat.org/2013/02/13/buddy-meets-the-strivers-a-spoken-word-event/
+UID:70-http://middbeat.org/2013/02/13/buddy-meets-the-strivers-a-spoken-word-event/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130223T010000Z
+DTEND;VALUE=DATE-TIME:20130223T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buddy Meets the Strivers Poetry Extravaganza Friday
+URL;VALUE=URI:http://middbeat.org/2013/02/21/buddy-meets-the-strivers-poetry-extravaganza-friday/
+UID:141-http://middbeat.org/2013/02/21/buddy-meets-the-strivers-poetry-extravaganza-friday/
+DESCRIPTION:[by: macslappy]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130223T010000Z
+DTEND;VALUE=DATE-TIME:20130223T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mamajamas A Capella Concert FRIDAY
+URL;VALUE=URI:http://middbeat.org/2013/02/21/mamajamas-a-capella-concert-friday/
+UID:150-http://middbeat.org/2013/02/21/mamajamas-a-capella-concert-friday/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130223T010000Z
+DTEND;VALUE=DATE-TIME:20130223T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midd vs. Williams Basketball Semi Finals Fan Bus
+URL;VALUE=URI:http://middbeat.org/2013/02/20/midd-vs-amherst-basketball-semi-finals-fan-bus/
+UID:127-http://middbeat.org/2013/02/20/midd-vs-amherst-basketball-semi-finals-fan-bus/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130223T160000Z
+DTEND;VALUE=DATE-TIME:20130223T160000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:International Film Series - The Intouchables
+URL;VALUE=URI:http://middbeat.org/2013/02/23/international-film-series-the-intouchables/
+UID:165-http://middbeat.org/2013/02/23/international-film-series-the-intouchables/
+DESCRIPTION:[by: zee]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130223T200000Z
+DTEND;VALUE=DATE-TIME:20130223T200000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flying Words Project TONIGHT
+URL;VALUE=URI:http://middbeat.org/2013/02/23/flying-words-project-tonight/
+UID:158-http://middbeat.org/2013/02/23/flying-words-project-tonight/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130224T003000Z
+DTEND;VALUE=DATE-TIME:20130224T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:International Film Series - The Intouchables
+URL;VALUE=URI:http://middbeat.org/2013/02/23/international-film-series-the-intouchables/
+UID:166-http://middbeat.org/2013/02/23/international-film-series-the-intouchables/
+DESCRIPTION:[by: zee]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130224T010000Z
+DTEND;VALUE=DATE-TIME:20130224T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:dancehall carnivàl at the mill 
+URL;VALUE=URI:http://middbeat.org/2013/02/22/dancehall-carnival-at-the-mill/
+UID:154-http://middbeat.org/2013/02/22/dancehall-carnival-at-the-mill/
+DESCRIPTION:[by: lieutenantthebrain]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130224T033000Z
+DTEND;VALUE=DATE-TIME:20130224T170000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Middbeat Featured on The Campus Voice Radio Show SUNDAY
+URL;VALUE=URI:http://middbeat.org/2013/02/21/middbeat-featured-on-the-campus-voice-radio-show-sunday/
+UID:148-http://middbeat.org/2013/02/21/middbeat-featured-on-the-campus-voice-radio-show-sunday/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130224T190000Z
+DTEND;VALUE=DATE-TIME:20130224T193000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Middbeat on WRMC part II
+URL;VALUE=URI:http://middbeat.org/2013/02/24/middbeat-on-wrmc-part-ii/
+UID:168-http://middbeat.org/2013/02/24/middbeat-on-wrmc-part-ii/
+DESCRIPTION:[by: macslappy]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130224T223000Z
+DTEND;VALUE=DATE-TIME:20130224T223000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:50% Off All Crossroad Smoothies NOW
+URL;VALUE=URI:http://middbeat.org/2013/02/24/50-off-all-crossroad-smoothies-now/
+UID:172-http://middbeat.org/2013/02/24/50-off-all-crossroad-smoothies-now/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130225T010000Z
+DTEND;VALUE=DATE-TIME:20130225T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meditation for Beginners
+URL;VALUE=URI:http://middbeat.org/2013/02/17/meditation-for-beginners/
+UID:183-http://middbeat.org/2013/02/17/meditation-for-beginners/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130225T173000Z
+DTEND;VALUE=DATE-TIME:20130225T173000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Enemies of the State: Pussy Riot and the New Russian Protest Rock
+URL;VALUE=URI:http://middbeat.org/2013/02/25/enemies-of-the-state-pussy-riot-and-the-new-russian-protest-rock/
+UID:174-http://middbeat.org/2013/02/25/enemies-of-the-state-pussy-riot-and-the-new-russian-protest-rock/
+DESCRIPTION:[by: zee]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130225T213000Z
+DTEND;VALUE=DATE-TIME:20130225T213000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weybridge Meals
+URL;VALUE=URI:http://middbeat.org/2013/02/27/weybridge-meals/
+UID:218-http://middbeat.org/2013/02/27/weybridge-meals/
+DESCRIPTION:[by: macslappy]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130225T233000Z
+DTEND;VALUE=DATE-TIME:20130226T003000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meditation for Beginners
+URL;VALUE=URI:http://middbeat.org/2013/02/17/meditation-for-beginners/
+UID:184-http://middbeat.org/2013/02/17/meditation-for-beginners/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130226T173000Z
+DTEND;VALUE=DATE-TIME:20130226T173000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TODAY: RAJ Center Guest Lecture 
+URL;VALUE=URI:http://middbeat.org/2013/02/26/today-raj-center-guest-lecture/
+UID:206-http://middbeat.org/2013/02/26/today-raj-center-guest-lecture/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130226T213000Z
+DTEND;VALUE=DATE-TIME:20130226T223000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TODAY: RAJ Center Guest Lecture 
+URL;VALUE=URI:http://middbeat.org/2013/02/26/today-raj-center-guest-lecture/
+UID:208-http://middbeat.org/2013/02/26/today-raj-center-guest-lecture/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130226T213000Z
+DTEND;VALUE=DATE-TIME:20130226T223000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Git Yer Gear
+URL;VALUE=URI:http://middbeat.org/2013/02/26/git-yer-gear/
+UID:213-http://middbeat.org/2013/02/26/git-yer-gear/
+DESCRIPTION:[by: macslappy]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130226T213000Z
+DTEND;VALUE=DATE-TIME:20130227T003000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girl Scout Cookie Booth in Ross Basement
+URL;VALUE=URI:http://middbeat.org/2013/02/26/girl-scout-cookie-booth-in-ross-basement/
+UID:194-http://middbeat.org/2013/02/26/girl-scout-cookie-booth-in-ross-basement/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130226T220000Z
+DTEND;VALUE=DATE-TIME:20130227T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girl Scout Cookie Booth in Ross Basement
+URL;VALUE=URI:http://middbeat.org/2013/02/26/girl-scout-cookie-booth-in-ross-basement/
+UID:200-http://middbeat.org/2013/02/26/girl-scout-cookie-booth-in-ross-basement/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130226T220000Z
+DTEND;VALUE=DATE-TIME:20130227T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAKERS: Women Who Make America Screening TONIGHT
+URL;VALUE=URI:http://middbeat.org/2013/02/26/makers-women-who-make-america-screening-tonight/
+UID:204-http://middbeat.org/2013/02/26/makers-women-who-make-america-screening-tonight/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130227T010000Z
+DTEND;VALUE=DATE-TIME:20130227T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Otter Nonsense presents "The Scared is Fucking Scary"
+URL;VALUE=URI:http://middbeat.org/2013/02/24/otter-nonsense-makes-fun-of-scared-of-scared/
+UID:170-http://middbeat.org/2013/02/24/otter-nonsense-makes-fun-of-scared-of-scared/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130227T030000Z
+DTEND;VALUE=DATE-TIME:20130228T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vintage Jewelry Sale at Bookstore
+URL;VALUE=URI:http://middbeat.org/2013/02/26/vintage-jewelry-sale-at-bookstore/
+UID:227-http://middbeat.org/2013/02/26/vintage-jewelry-sale-at-bookstore/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130227T133000Z
+DTEND;VALUE=DATE-TIME:20130227T220000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THIS WEEK: Improv Auditions
+URL;VALUE=URI:http://middbeat.org/2013/02/27/this-week-improv-auditions/
+UID:234-http://middbeat.org/2013/02/27/this-week-improv-auditions/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130227T213000Z
+DTEND;VALUE=DATE-TIME:20130302T213000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girl Scout Cookie Booth in Ross Basement
+URL;VALUE=URI:http://middbeat.org/2013/02/26/girl-scout-cookie-booth-in-ross-basement/
+UID:195-http://middbeat.org/2013/02/26/girl-scout-cookie-booth-in-ross-basement/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130227T220000Z
+DTEND;VALUE=DATE-TIME:20130228T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girl Scout Cookie Booth in Ross Basement
+URL;VALUE=URI:http://middbeat.org/2013/02/26/girl-scout-cookie-booth-in-ross-basement/
+UID:201-http://middbeat.org/2013/02/26/girl-scout-cookie-booth-in-ross-basement/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130227T220000Z
+DTEND;VALUE=DATE-TIME:20130228T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weybridge Meals
+URL;VALUE=URI:http://middbeat.org/2013/02/27/weybridge-meals/
+UID:219-http://middbeat.org/2013/02/27/weybridge-meals/
+DESCRIPTION:[by: macslappy]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130227T233000Z
+DTEND;VALUE=DATE-TIME:20130228T003000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Banana Pancakes and Acoustic Set in Gamut Room 10-12 Tonight
+URL;VALUE=URI:http://middbeat.org/2013/02/27/banana-pancakes-and-acoustic-set-in-gamut-room-10-12-tonight/
+UID:238-http://middbeat.org/2013/02/27/banana-pancakes-and-acoustic-set-in-gamut-room-10-12-tonight/
+DESCRIPTION:[by: zee]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130228T030000Z
+DTEND;VALUE=DATE-TIME:20130228T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vintage Jewelry Sale at Bookstore
+URL;VALUE=URI:http://middbeat.org/2013/02/26/vintage-jewelry-sale-at-bookstore/
+UID:228-http://middbeat.org/2013/02/26/vintage-jewelry-sale-at-bookstore/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130228T133000Z
+DTEND;VALUE=DATE-TIME:20130228T220000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:David Abram: The Commonwealth of Breath
+URL;VALUE=URI:http://middbeat.org/2013/02/27/david-abram-the-commonwealth-of-breath/
+UID:232-http://middbeat.org/2013/02/27/david-abram-the-commonwealth-of-breath/
+DESCRIPTION:[by: macslappy]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130228T173000Z
+DTEND;VALUE=DATE-TIME:20130228T182000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCRE Symposium: No Place Like Home? Imagining Race\, Ethnicity and Migration
+URL;VALUE=URI:http://middbeat.org/2013/02/28/ccre-symposium-no-place-like-home-imagining-race-ethnicity-and-migration/
+UID:255-http://middbeat.org/2013/02/28/ccre-symposium-no-place-like-home-imagining-race-ethnicity-and-migration/
+DESCRIPTION:[by: admin]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130228
+DTEND;VALUE=DATE:20130301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCRE Symposium: No Place Like Home? Imagining Race\, Ethnicity and Migration
+URL;VALUE=URI:http://middbeat.org/2013/02/28/ccre-symposium-no-place-like-home-imagining-race-ethnicity-and-migration/
+UID:259-http://middbeat.org/2013/02/28/ccre-symposium-no-place-like-home-imagining-race-ethnicity-and-migration/
+DESCRIPTION:[by: admin]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130228
+DTEND;VALUE=DATE:20130301
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philosopher of Science on Urban Social Movements Today @ 430 
+URL;VALUE=URI:http://middbeat.org/2013/02/28/philosopher-of-science-on-urban-social-movements/
+UID:248-http://middbeat.org/2013/02/28/philosopher-of-science-on-urban-social-movements/
+DESCRIPTION:[by: zee]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130228T212500Z
+DTEND;VALUE=DATE-TIME:20130228T212500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:David Abram: The Commonwealth of Breath
+URL;VALUE=URI:http://middbeat.org/2013/02/27/david-abram-the-commonwealth-of-breath/
+UID:210-http://middbeat.org/2013/02/27/david-abram-the-commonwealth-of-breath/
+DESCRIPTION:[by: macslappy]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130228T213000Z
+DTEND;VALUE=DATE-TIME:20130228T230000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Git Yer Gear
+URL;VALUE=URI:http://middbeat.org/2013/02/26/git-yer-gear/
+UID:214-http://middbeat.org/2013/02/26/git-yer-gear/
+DESCRIPTION:[by: macslappy]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130228T213000Z
+DTEND;VALUE=DATE-TIME:20130301T003000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TOMORROW: Right to Know GMO Action Forum
+URL;VALUE=URI:http://middbeat.org/2013/02/27/tomorrow-right-to-know-gmo-action-forum/
+UID:236-http://middbeat.org/2013/02/27/tomorrow-right-to-know-gmo-action-forum/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130228T233000Z
+DTEND;VALUE=DATE-TIME:20130301T013000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celebrating Black History: A Film Screening
+URL;VALUE=URI:http://middbeat.org/2013/02/27/celebrating-black-history-a-film-screening/
+UID:240-http://middbeat.org/2013/02/27/celebrating-black-history-a-film-screening/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130228T233000Z
+DTEND;VALUE=DATE-TIME:20130301T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celebrating Black History: A Film Screening
+URL;VALUE=URI:http://middbeat.org/2013/02/27/celebrating-black-history-a-film-screening/
+UID:242-http://middbeat.org/2013/02/27/celebrating-black-history-a-film-screening/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130228T233000Z
+DTEND;VALUE=DATE-TIME:20130301T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Celebrating Black History: A Film Screening
+URL;VALUE=URI:http://middbeat.org/2013/02/27/celebrating-black-history-a-film-screening/
+UID:244-http://middbeat.org/2013/02/27/celebrating-black-history-a-film-screening/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130228T233000Z
+DTEND;VALUE=DATE-TIME:20130301T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Education Under Fire Screening
+URL;VALUE=URI:http://middbeat.org/2013/02/27/education-under-fire-screening/
+UID:230-http://middbeat.org/2013/02/27/education-under-fire-screening/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130301T000000Z
+DTEND;VALUE=DATE-TIME:20130301T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:James Burde: The Creative Process in Architecture
+URL;VALUE=URI:http://middbeat.org/2013/02/28/james-burde-the-creative-process-in-architecture/
+UID:250-http://middbeat.org/2013/02/28/james-burde-the-creative-process-in-architecture/
+DESCRIPTION:[by: macslappy]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130301T000000Z
+DTEND;VALUE=DATE-TIME:20130301T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Strings\, Bass\, Pipes\, Intimacy - Will Cuneo 
+URL;VALUE=URI:http://middbeat.org/2013/02/28/strings-bass-pipes-intimacy-will-cuneo/
+UID:252-http://middbeat.org/2013/02/28/strings-bass-pipes-intimacy-will-cuneo/
+DESCRIPTION:[by: zee]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130301T003000Z
+DTEND;VALUE=DATE-TIME:20130301T003000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atwater Suite BCG Art Open House
+URL;VALUE=URI:http://middbeat.org/2013/02/26/atwater-suite-bcg-art-open-house/
+UID:224-http://middbeat.org/2013/02/26/atwater-suite-bcg-art-open-house/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130301T020000Z
+DTEND;VALUE=DATE-TIME:20130301T040000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:International and Global Studies Colloquium
+URL;VALUE=URI:http://middbeat.org/2013/02/28/international-and-global-studies-colloquium-student-presentations/
+UID:246-http://middbeat.org/2013/02/28/international-and-global-studies-colloquium-student-presentations/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130301T171500Z
+DTEND;VALUE=DATE-TIME:20130301T181500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Julia Alvarez and Bill Eichner Present Alta Gracia Friday Talk
+URL;VALUE=URI:http://middbeat.org/2013/03/01/julia-alvarez-and-bill-eichner-present-alta-gracia-friday-talk/
+UID:264-http://middbeat.org/2013/03/01/julia-alvarez-and-bill-eichner-present-alta-gracia-friday-talk/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130301T173000Z
+DTEND;VALUE=DATE-TIME:20130301T183000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCRE Symposium: No Place Like Home? Imagining Race\, Ethnicity and Migration
+URL;VALUE=URI:http://middbeat.org/2013/02/28/ccre-symposium-no-place-like-home-imagining-race-ethnicity-and-migration/
+UID:256-http://middbeat.org/2013/02/28/ccre-symposium-no-place-like-home-imagining-race-ethnicity-and-migration/
+DESCRIPTION:[by: admin]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130301
+DTEND;VALUE=DATE:20130302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CCRE Symposium: No Place Like Home? Imagining Race\, Ethnicity and Migration
+URL;VALUE=URI:http://middbeat.org/2013/02/28/ccre-symposium-no-place-like-home-imagining-race-ethnicity-and-migration/
+UID:260-http://middbeat.org/2013/02/28/ccre-symposium-no-place-like-home-imagining-race-ethnicity-and-migration/
+DESCRIPTION:[by: admin]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130301
+DTEND;VALUE=DATE:20130302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Blue Laws Perform at Munford
+URL;VALUE=URI:http://middbeat.org/2013/02/28/the-blue-laws-perform-at-munford/
+UID:262-http://middbeat.org/2013/02/28/the-blue-laws-perform-at-munford/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130302T030000Z
+DTEND;VALUE=DATE-TIME:20130302T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weybridge Meals
+URL;VALUE=URI:http://middbeat.org/2013/02/27/weybridge-meals/
+UID:220-http://middbeat.org/2013/02/27/weybridge-meals/
+DESCRIPTION:[by: macslappy]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130302T160000Z
+DTEND;VALUE=DATE-TIME:20130302T170000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Palmer Coffee House Today
+URL;VALUE=URI:http://middbeat.org/2013/03/02/palmer-coffee-house-today/
+UID:266-http://middbeat.org/2013/03/02/palmer-coffee-house-today/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130302T200000Z
+DTEND;VALUE=DATE-TIME:20130302T220000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hypnotist "Mind Games" Show Tonight
+URL;VALUE=URI:http://middbeat.org/2013/03/02/hypnotist-mind-games-show-tonight/
+UID:268-http://middbeat.org/2013/03/02/hypnotist-mind-games-show-tonight/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130303T010000Z
+DTEND;VALUE=DATE-TIME:20130303T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women's Hockey Advances to Finals. We Should Be There.
+URL;VALUE=URI:http://middbeat.org/2013/03/02/womens-hockey-advances-to-finals-we-should-be-there/
+UID:270-http://middbeat.org/2013/03/02/womens-hockey-advances-to-finals-we-should-be-there/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130303T190000Z
+DTEND;VALUE=DATE-TIME:20130303T190000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women's Hockey Advances to Finals. We Should Be There.
+URL;VALUE=URI:http://middbeat.org/2013/03/02/womens-hockey-advances-to-finals-we-should-be-there/
+UID:272-http://middbeat.org/2013/03/02/womens-hockey-advances-to-finals-we-should-be-there/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130303T190000Z
+DTEND;VALUE=DATE-TIME:20130303T190000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Classical Piano Concert
+URL;VALUE=URI:http://middbeat.org/2013/03/03/classical-piano-concert/
+UID:274-http://middbeat.org/2013/03/03/classical-piano-concert/
+DESCRIPTION:[by: rickytickytembo]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130304T010000Z
+DTEND;VALUE=DATE-TIME:20130304T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:March Fo[u]rth (for Divestment and Climate Justice)
+URL;VALUE=URI:http://middbeat.org/2013/03/03/march-fourth-for-divestment-and-climate-justice/
+UID:276-http://middbeat.org/2013/03/03/march-fourth-for-divestment-and-climate-justice/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130304
+DTEND;VALUE=DATE:20130305
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meditation for Beginners
+URL;VALUE=URI:http://middbeat.org/2013/02/17/meditation-for-beginners/
+UID:185-http://middbeat.org/2013/02/17/meditation-for-beginners/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130304T173000Z
+DTEND;VALUE=DATE-TIME:20130304T173000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meditation for Beginners
+URL;VALUE=URI:http://middbeat.org/2013/02/17/meditation-for-beginners/
+UID:190-http://middbeat.org/2013/02/17/meditation-for-beginners/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130305T010000Z
+DTEND;VALUE=DATE-TIME:20130305T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bread for the Journey
+URL;VALUE=URI:http://middbeat.org/2013/03/04/bread-for-the-jounrey/
+UID:278-http://middbeat.org/2013/03/04/bread-for-the-jounrey/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130305T203000Z
+DTEND;VALUE=DATE-TIME:20130306T000000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girl Scout Cookie Booth in Ross Basement
+URL;VALUE=URI:http://middbeat.org/2013/02/26/girl-scout-cookie-booth-in-ross-basement/
+UID:196-http://middbeat.org/2013/02/26/girl-scout-cookie-booth-in-ross-basement/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130305T220000Z
+DTEND;VALUE=DATE-TIME:20130306T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girl Scout Cookie Booth in Ross Basement
+URL;VALUE=URI:http://middbeat.org/2013/02/26/girl-scout-cookie-booth-in-ross-basement/
+UID:202-http://middbeat.org/2013/02/26/girl-scout-cookie-booth-in-ross-basement/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130305T220000Z
+DTEND;VALUE=DATE-TIME:20130306T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TOMORROW\, 3/6: Beyond Divestment Summit
+URL;VALUE=URI:http://middbeat.org/2013/03/05/tomorrow-36-beyond-divestment-summit/
+UID:292-http://middbeat.org/2013/03/05/tomorrow-36-beyond-divestment-summit/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130306T030000Z
+DTEND;VALUE=DATE-TIME:20130306T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NCAA Skiing Championships Begin Today
+URL;VALUE=URI:http://middbeat.org/2013/03/06/ncaa-skiing-championships-begin-tomorrow/
+UID:295-http://middbeat.org/2013/03/06/ncaa-skiing-championships-begin-tomorrow/
+DESCRIPTION:[by: watts]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130306
+DTEND;VALUE=DATE:20130310
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TOMORROW\, 3/6: Beyond Divestment Summit
+URL;VALUE=URI:http://middbeat.org/2013/03/05/tomorrow-36-beyond-divestment-summit/
+UID:291-http://middbeat.org/2013/03/05/tomorrow-36-beyond-divestment-summit/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130306T173000Z
+DTEND;VALUE=DATE-TIME:20130307T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Food\, Art\, Music\, Nature) Tonight @ CFA!
+URL;VALUE=URI:http://middbeat.org/2013/03/06/food-art-music-nature-tonight-cfa/
+UID:299-http://middbeat.org/2013/03/06/food-art-music-nature-tonight-cfa/
+DESCRIPTION:[by: zee]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130307T000000Z
+DTEND;VALUE=DATE-TIME:20130307T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Political Student Groups Meet Tonight
+URL;VALUE=URI:http://middbeat.org/2013/03/06/political-student-groups-meet-tonight/
+UID:297-http://middbeat.org/2013/03/06/political-student-groups-meet-tonight/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130307T010000Z
+DTEND;VALUE=DATE-TIME:20130307T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:This Weekend with MMC
+URL;VALUE=URI:http://middbeat.org/2013/03/07/this-weekend-with-mmc/
+UID:308-http://middbeat.org/2013/03/07/this-weekend-with-mmc/
+DESCRIPTION:[by: macslappy]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130307T213000Z
+DTEND;VALUE=DATE-TIME:20130308T003000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:German Artists during Nazi Rule 
+URL;VALUE=URI:http://middbeat.org/2013/03/07/german-artists-during-nazi-rule/
+UID:315-http://middbeat.org/2013/03/07/german-artists-during-nazi-rule/
+DESCRIPTION:[by: zee]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130307T213000Z
+DTEND;VALUE=DATE-TIME:20130307T213000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:David Breashears: Himalayan Glacier Melt
+URL;VALUE=URI:http://middbeat.org/2013/03/07/david-breashears-himalayan-glacier-melt/
+UID:313-http://middbeat.org/2013/03/07/david-breashears-himalayan-glacier-melt/
+DESCRIPTION:[by: macslappy]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130308T000000Z
+DTEND;VALUE=DATE-TIME:20130308T000000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Student Run Play: The Aliens
+URL;VALUE=URI:http://middbeat.org/2013/03/05/student-run-play-the-aliens/
+UID:286-http://middbeat.org/2013/03/05/student-run-play-the-aliens/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130308T010000Z
+DTEND;VALUE=DATE-TIME:20130308T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tonight: The Middlebury Moth: TURNING TABLES 
+URL;VALUE=URI:http://middbeat.org/2013/03/07/tonight-the-middlebury-moth-turning-tables/
+UID:301-http://middbeat.org/2013/03/07/tonight-the-middlebury-moth-turning-tables/
+DESCRIPTION:[by: zee]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130308T023000Z
+DTEND;VALUE=DATE-TIME:20130308T033000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kate Clopeck: From Rocket Science to Rural Ghana
+URL;VALUE=URI:http://middbeat.org/2013/03/07/kate-clopeck-from-rocket-science-to-rural-ghana/
+UID:318-http://middbeat.org/2013/03/07/kate-clopeck-from-rocket-science-to-rural-ghana/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130308T063000Z
+DTEND;VALUE=DATE-TIME:20130308T063000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:REMINDER: Middbeat Photo Contest
+URL;VALUE=URI:http://middbeat.org/2013/03/05/reminder-middbeat-photo-contest/
+UID:282-http://middbeat.org/2013/03/05/reminder-middbeat-photo-contest/
+DESCRIPTION:[by: macslappy]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130308T165900Z
+DTEND;VALUE=DATE-TIME:20130308T165900Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Steve Trombulak: Conserving Culture and Wildlife
+URL;VALUE=URI:http://middbeat.org/2013/03/04/steve-trombulak-conserving-culture-and-wildlife/
+UID:280-http://middbeat.org/2013/03/04/steve-trombulak-conserving-culture-and-wildlife/
+DESCRIPTION:[by: macslappy]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130308T171500Z
+DTEND;VALUE=DATE-TIME:20130308T171500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:This Weekend with MMC
+URL;VALUE=URI:http://middbeat.org/2013/03/07/this-weekend-with-mmc/
+UID:307-http://middbeat.org/2013/03/07/this-weekend-with-mmc/
+DESCRIPTION:[by: macslappy]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130308T180000Z
+DTEND;VALUE=DATE-TIME:20130308T220000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Student Run Play: The Aliens
+URL;VALUE=URI:http://middbeat.org/2013/03/05/student-run-play-the-aliens/
+UID:287-http://middbeat.org/2013/03/05/student-run-play-the-aliens/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130309T010000Z
+DTEND;VALUE=DATE-TIME:20130309T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:International Film Series: Nostalgia for the Light
+URL;VALUE=URI:http://middbeat.org/2013/03/09/international-film-series-nostalgia-for-the-light/
+UID:322-http://middbeat.org/2013/03/09/international-film-series-nostalgia-for-the-light/
+DESCRIPTION:[by: zee]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130309T010000Z
+DTEND;VALUE=DATE-TIME:20130309T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5th Annual Chili Festival! 
+URL;VALUE=URI:http://middbeat.org/2013/03/08/5th-annual-chili-festival/
+UID:324-http://middbeat.org/2013/03/08/5th-annual-chili-festival/
+DESCRIPTION:[by: lgordy]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130309T183000Z
+DTEND;VALUE=DATE-TIME:20130309T223000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:International Film Series: Nostalgia for the Light
+URL;VALUE=URI:http://middbeat.org/2013/03/09/international-film-series-nostalgia-for-the-light/
+UID:321-http://middbeat.org/2013/03/09/international-film-series-nostalgia-for-the-light/
+DESCRIPTION:[by: zee]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130309T200000Z
+DTEND;VALUE=DATE-TIME:20130309T200000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Student Run Play: The Aliens
+URL;VALUE=URI:http://middbeat.org/2013/03/05/student-run-play-the-aliens/
+UID:288-http://middbeat.org/2013/03/05/student-run-play-the-aliens/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130310T010000Z
+DTEND;VALUE=DATE-TIME:20130310T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everybody's Mind to be Blown
+URL;VALUE=URI:http://middbeat.org/2013/03/09/phill-niblock-with-neil-leonard/
+UID:334-http://middbeat.org/2013/03/09/phill-niblock-with-neil-leonard/
+DESCRIPTION:[by: lieutenantthebrain]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130310T230000Z
+DTEND;VALUE=DATE-TIME:20130310T230000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meditation for Beginners
+URL;VALUE=URI:http://middbeat.org/2013/02/17/meditation-for-beginners/
+UID:186-http://middbeat.org/2013/02/17/meditation-for-beginners/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130311T163000Z
+DTEND;VALUE=DATE-TIME:20130311T163000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Xi Chuan Poetry Reading
+URL;VALUE=URI:http://middbeat.org/2013/03/11/xi-chuan-poetry-reading-3/
+UID:342-http://middbeat.org/2013/03/11/xi-chuan-poetry-reading-3/
+DESCRIPTION:[by: macslappy]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130311T220000Z
+DTEND;VALUE=DATE-TIME:20130311T230000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meditation for Beginners
+URL;VALUE=URI:http://middbeat.org/2013/02/17/meditation-for-beginners/
+UID:187-http://middbeat.org/2013/02/17/meditation-for-beginners/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130312T163000Z
+DTEND;VALUE=DATE-TIME:20130312T163000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:This Weekend with MMC
+URL;VALUE=URI:http://middbeat.org/2013/03/07/this-weekend-with-mmc/
+UID:309-http://middbeat.org/2013/03/07/this-weekend-with-mmc/
+DESCRIPTION:[by: macslappy]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130312T203000Z
+DTEND;VALUE=DATE-TIME:20130312T233000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TOMORROW 3/12: Sexual Assault Oversight Committee Info Session
+URL;VALUE=URI:http://middbeat.org/2013/03/11/tomorrow-sexual-assault-oversight-committee-info-session/
+UID:344-http://middbeat.org/2013/03/11/tomorrow-sexual-assault-oversight-committee-info-session/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130312T203000Z
+DTEND;VALUE=DATE-TIME:20130312T203000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TOMORROW 3/12: Sexual Assault Oversight Committee Info Session
+URL;VALUE=URI:http://middbeat.org/2013/03/11/tomorrow-sexual-assault-oversight-committee-info-session/
+UID:346-http://middbeat.org/2013/03/11/tomorrow-sexual-assault-oversight-committee-info-session/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130312T203000Z
+DTEND;VALUE=DATE-TIME:20130312T203000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TOMORROW 3/12: Sexual Assault Oversight Committee Info Session
+URL;VALUE=URI:http://middbeat.org/2013/03/11/tomorrow-sexual-assault-oversight-committee-info-session/
+UID:348-http://middbeat.org/2013/03/11/tomorrow-sexual-assault-oversight-committee-info-session/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130312T203000Z
+DTEND;VALUE=DATE-TIME:20130312T203000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burger and Brew Tuesday 51 Main
+URL;VALUE=URI:http://middbeat.org/2013/03/12/burger-and-brew-tuesday-51-main/
+UID:358-http://middbeat.org/2013/03/12/burger-and-brew-tuesday-51-main/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130312T210000Z
+DTEND;VALUE=DATE-TIME:20130313T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Living in Emergency Screening
+URL;VALUE=URI:http://middbeat.org/2013/03/11/living-in-emergency-screening/
+UID:326-http://middbeat.org/2013/03/11/living-in-emergency-screening/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130313T000000Z
+DTEND;VALUE=DATE-TIME:20130313T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Living in Emergency Screening
+URL;VALUE=URI:http://middbeat.org/2013/03/11/living-in-emergency-screening/
+UID:328-http://middbeat.org/2013/03/11/living-in-emergency-screening/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130313T000000Z
+DTEND;VALUE=DATE-TIME:20130313T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ambassador Dennis Ross to Speak in Mead Chapel
+URL;VALUE=URI:http://middbeat.org/2013/03/11/ambassador-dennis-ross-to-speak-in-mead-chapel/
+UID:350-http://middbeat.org/2013/03/11/ambassador-dennis-ross-to-speak-in-mead-chapel/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130313T000000Z
+DTEND;VALUE=DATE-TIME:20130313T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Puppy Chow Sale
+URL;VALUE=URI:http://middbeat.org/2013/03/12/puppy-chow-sale/
+UID:332-http://middbeat.org/2013/03/12/puppy-chow-sale/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130313T003000Z
+DTEND;VALUE=DATE-TIME:20130313T023000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Politics of Freshwater: Access and Identity in a Changing Environment
+URL;VALUE=URI:http://middbeat.org/2013/03/13/the-politics-of-freshwater-access-and-identity-in-a-changing-environment/
+UID:369-http://middbeat.org/2013/03/13/the-politics-of-freshwater-access-and-identity-in-a-changing-environment/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130313T203000Z
+DTEND;VALUE=DATE-TIME:20130313T203000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Politics of Freshwater: Access and Identity in a Changing Environment
+URL;VALUE=URI:http://middbeat.org/2013/03/13/the-politics-of-freshwater-access-and-identity-in-a-changing-environment/
+UID:370-http://middbeat.org/2013/03/13/the-politics-of-freshwater-access-and-identity-in-a-changing-environment/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130313T230100Z
+DTEND;VALUE=DATE-TIME:20130313T230100Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Politics of Freshwater: Access and Identity in a Changing Environment
+URL;VALUE=URI:http://middbeat.org/2013/03/13/the-politics-of-freshwater-access-and-identity-in-a-changing-environment/
+UID:364-http://middbeat.org/2013/03/13/the-politics-of-freshwater-access-and-identity-in-a-changing-environment/
+DESCRIPTION:[by: leahfessler]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130314
+DTEND;VALUE=DATE:20130315
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Translingual Lecture Series: Prof. Huda Fakhreddine
+URL;VALUE=URI:http://middbeat.org/2013/03/12/translingual-lecture-series-prof-huda-fakhreddine/
+UID:352-http://middbeat.org/2013/03/12/translingual-lecture-series-prof-huda-fakhreddine/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130314T210000Z
+DTEND;VALUE=DATE-TIME:20130314T230000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Translingual Lecture Series: Prof. Huda Fakhreddine
+URL;VALUE=URI:http://middbeat.org/2013/03/12/translingual-lecture-series-prof-huda-fakhreddine/
+UID:354-http://middbeat.org/2013/03/12/translingual-lecture-series-prof-huda-fakhreddine/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130314T210000Z
+DTEND;VALUE=DATE-TIME:20130314T230000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Translingual Lecture Series: Prof. Huda Fakhreddine
+URL;VALUE=URI:http://middbeat.org/2013/03/12/translingual-lecture-series-prof-huda-fakhreddine/
+UID:356-http://middbeat.org/2013/03/12/translingual-lecture-series-prof-huda-fakhreddine/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130314T210000Z
+DTEND;VALUE=DATE-TIME:20130314T230000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Politics of Freshwater: Access and Identity in a Changing Environment
+URL;VALUE=URI:http://middbeat.org/2013/03/13/the-politics-of-freshwater-access-and-identity-in-a-changing-environment/
+UID:365-http://middbeat.org/2013/03/13/the-politics-of-freshwater-access-and-identity-in-a-changing-environment/
+DESCRIPTION:[by: leahfessler]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130315
+DTEND;VALUE=DATE:20130316
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DROP PERIOD ENDS FRIDAY
+URL;VALUE=URI:http://middbeat.org/2013/03/13/drop-period-ends-friday/
+UID:372-http://middbeat.org/2013/03/13/drop-period-ends-friday/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130315T160000Z
+DTEND;VALUE=DATE-TIME:20130315T210000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Challah's Back! 
+URL;VALUE=URI:http://middbeat.org/2013/03/14/challahs-back/
+UID:374-http://middbeat.org/2013/03/14/challahs-back/
+DESCRIPTION:[by: umathurman]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130315T160000Z
+DTEND;VALUE=DATE-TIME:20130315T180000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dissipated Eight Concert TONIGHT
+URL;VALUE=URI:http://middbeat.org/2013/03/15/dissipated-eight-concert-tonight/
+UID:388-http://middbeat.org/2013/03/15/dissipated-eight-concert-tonight/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130316T000000Z
+DTEND;VALUE=DATE-TIME:20130316T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Opulence of Integrity 
+URL;VALUE=URI:http://middbeat.org/2013/03/14/the-opulence-of-integrity/
+UID:385-http://middbeat.org/2013/03/14/the-opulence-of-integrity/
+DESCRIPTION:[by: zee]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130316T000000Z
+DTEND;VALUE=DATE-TIME:20130316T000000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orchestra Concert to Feature Sax Solo
+URL;VALUE=URI:http://middbeat.org/2013/03/15/orchestra-concert-to-feature-sax-solo/
+UID:390-http://middbeat.org/2013/03/15/orchestra-concert-to-feature-sax-solo/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130316T000000Z
+DTEND;VALUE=DATE-TIME:20130316T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viva Ross Vegas 2013
+URL;VALUE=URI:http://middbeat.org/2013/03/14/viva-ross-vegas-2013/
+UID:376-http://middbeat.org/2013/03/14/viva-ross-vegas-2013/
+DESCRIPTION:[by: lgordy]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130316T020000Z
+DTEND;VALUE=DATE-TIME:20130316T060000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Viva Ross Vegas 2013
+URL;VALUE=URI:http://middbeat.org/2013/03/14/viva-ross-vegas-2013/
+UID:378-http://middbeat.org/2013/03/14/viva-ross-vegas-2013/
+DESCRIPTION:[by: lgordy]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130316T020000Z
+DTEND;VALUE=DATE-TIME:20130316T060000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Typhoon and TGFM Power Trio at Meeker Tonight
+URL;VALUE=URI:http://middbeat.org/2013/03/15/typhoon-and-tgfm-power-trio-at-meeker-tonight/
+UID:404-http://middbeat.org/2013/03/15/typhoon-and-tgfm-power-trio-at-meeker-tonight/
+DESCRIPTION:[by: mitchito12]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130316T023000Z
+DTEND;VALUE=DATE-TIME:20130316T040000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Politics of Freshwater: Access and Identity in a Changing Environment
+URL;VALUE=URI:http://middbeat.org/2013/03/13/the-politics-of-freshwater-access-and-identity-in-a-changing-environment/
+UID:366-http://middbeat.org/2013/03/13/the-politics-of-freshwater-access-and-identity-in-a-changing-environment/
+DESCRIPTION:[by: leahfessler]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130316
+DTEND;VALUE=DATE:20130317
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ST. PALMER'S DAY
+URL;VALUE=URI:http://middbeat.org/2013/03/16/st-palmers-day/
+UID:412-http://middbeat.org/2013/03/16/st-palmers-day/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130316T160000Z
+DTEND;VALUE=DATE-TIME:20130316T160000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ceramics Open Studio Hours
+URL;VALUE=URI:http://middbeat.org/2013/03/16/ceramics-open-studio-hours/
+UID:408-http://middbeat.org/2013/03/16/ceramics-open-studio-hours/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130316T190000Z
+DTEND;VALUE=DATE-TIME:20130316T210000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GET THE LAST BASKETBALL TICKETS NOW!
+URL;VALUE=URI:http://middbeat.org/2013/03/15/get-the-last-basketball-tickets-now/
+UID:392-http://middbeat.org/2013/03/15/get-the-last-basketball-tickets-now/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130316T210000Z
+DTEND;VALUE=DATE-TIME:20130316T230000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Opulence of Integrity 
+URL;VALUE=URI:http://middbeat.org/2013/03/14/the-opulence-of-integrity/
+UID:382-http://middbeat.org/2013/03/14/the-opulence-of-integrity/
+DESCRIPTION:[by: zee]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130317T000000Z
+DTEND;VALUE=DATE-TIME:20130317T000000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saturday: Feature Cuts @ The Bunker 
+URL;VALUE=URI:http://middbeat.org/2013/03/15/saturday-feature-cuts-the-bunker/
+UID:394-http://middbeat.org/2013/03/15/saturday-feature-cuts-the-bunker/
+DESCRIPTION:[by: umathurman]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130317T020000Z
+DTEND;VALUE=DATE-TIME:20130317T050000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Divaman's 10th Annual St. Patricks Day Concert
+URL;VALUE=URI:http://middbeat.org/2013/03/17/divamans-10th-annual-st-patricks-day-concert/
+UID:414-http://middbeat.org/2013/03/17/divamans-10th-annual-st-patricks-day-concert/
+DESCRIPTION:[by: youngballs]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130317T200000Z
+DTEND;VALUE=DATE-TIME:20130317T200000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Airplane Lessons?
+URL;VALUE=URI:http://middbeat.org/2013/03/16/airplane-lessons/
+UID:336-http://middbeat.org/2013/03/16/airplane-lessons/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130318T000000Z
+DTEND;VALUE=DATE-TIME:20130318T000000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Middlebrow Presents: Paddy O'Furniture\, TONIGHT 10 PM
+URL;VALUE=URI:http://middbeat.org/2013/03/18/middlebrow-presents-paddy-ofurniture-tonight-10-pm/
+UID:434-http://middbeat.org/2013/03/18/middlebrow-presents-paddy-ofurniture-tonight-10-pm/
+DESCRIPTION:[by: watts]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130318T040000Z
+DTEND;VALUE=DATE-TIME:20130318T040000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nominate Your Favorite Faculty Member for Appreciation Award
+URL;VALUE=URI:http://middbeat.org/2013/03/18/nominate-your-favorite-faculty-member-for-appreciation-award/
+UID:424-http://middbeat.org/2013/03/18/nominate-your-favorite-faculty-member-for-appreciation-award/
+DESCRIPTION:[by: leahfessler]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130318
+DTEND;VALUE=DATE:20130319
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meditation for Beginners
+URL;VALUE=URI:http://middbeat.org/2013/02/17/meditation-for-beginners/
+UID:188-http://middbeat.org/2013/02/17/meditation-for-beginners/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130318T163000Z
+DTEND;VALUE=DATE-TIME:20130318T163000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atwater Easter/Passover Dinner Tonight!
+URL;VALUE=URI:http://middbeat.org/2013/03/18/atwater-easterpassover-dinner-tonight/
+UID:430-http://middbeat.org/2013/03/18/atwater-easterpassover-dinner-tonight/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130318T220000Z
+DTEND;VALUE=DATE-TIME:20130319T000000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sledding Tonight
+URL;VALUE=URI:http://middbeat.org/2013/03/19/sledding-tonight/
+UID:436-http://middbeat.org/2013/03/19/sledding-tonight/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130319T040000Z
+DTEND;VALUE=DATE-TIME:20130319T040000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nominate Your Favorite Faculty Member for Appreciation Award
+URL;VALUE=URI:http://middbeat.org/2013/03/18/nominate-your-favorite-faculty-member-for-appreciation-award/
+UID:425-http://middbeat.org/2013/03/18/nominate-your-favorite-faculty-member-for-appreciation-award/
+DESCRIPTION:[by: leahfessler]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130319
+DTEND;VALUE=DATE:20130320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meditation for Beginners
+URL;VALUE=URI:http://middbeat.org/2013/02/17/meditation-for-beginners/
+UID:189-http://middbeat.org/2013/02/17/meditation-for-beginners/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130319T163000Z
+DTEND;VALUE=DATE-TIME:20130319T163000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nominate Your Favorite Faculty Member for Appreciation Award
+URL;VALUE=URI:http://middbeat.org/2013/03/18/nominate-your-favorite-faculty-member-for-appreciation-award/
+UID:426-http://middbeat.org/2013/03/18/nominate-your-favorite-faculty-member-for-appreciation-award/
+DESCRIPTION:[by: leahfessler]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130320
+DTEND;VALUE=DATE:20130321
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Editors of n+1 Literary Magazine Give Talk
+URL;VALUE=URI:http://middbeat.org/2013/03/20/editors-of-n1-literary-magazine-give-talk/
+UID:440-http://middbeat.org/2013/03/20/editors-of-n1-literary-magazine-give-talk/
+DESCRIPTION:[by: turpentine]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130320T170000Z
+DTEND;VALUE=DATE-TIME:20130320T170000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ceramics Open Studio Hours
+URL;VALUE=URI:http://middbeat.org/2013/03/16/ceramics-open-studio-hours/
+UID:409-http://middbeat.org/2013/03/16/ceramics-open-studio-hours/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130320T230000Z
+DTEND;VALUE=DATE-TIME:20130321T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fred Beckey: Dirtbag Climber Talks About The Life You Want to Live
+URL;VALUE=URI:http://middbeat.org/2013/03/18/fred-beckey-dirtbag-climber-talks-about-the-life-you-want-to-live/
+UID:432-http://middbeat.org/2013/03/18/fred-beckey-dirtbag-climber-talks-about-the-life-you-want-to-live/
+DESCRIPTION:[by: macslappy]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130320T230000Z
+DTEND;VALUE=DATE-TIME:20130321T003000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verbal Onslaught Thursday
+URL;VALUE=URI:http://middbeat.org/2013/03/19/verbal-onslaught-thursday/
+UID:416-http://middbeat.org/2013/03/19/verbal-onslaught-thursday/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130321T003000Z
+DTEND;VALUE=DATE-TIME:20130321T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verbal Onslaught Thursday
+URL;VALUE=URI:http://middbeat.org/2013/03/19/verbal-onslaught-thursday/
+UID:418-http://middbeat.org/2013/03/19/verbal-onslaught-thursday/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130321T003000Z
+DTEND;VALUE=DATE-TIME:20130321T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nominate Your Favorite Faculty Member for Appreciation Award
+URL;VALUE=URI:http://middbeat.org/2013/03/18/nominate-your-favorite-faculty-member-for-appreciation-award/
+UID:427-http://middbeat.org/2013/03/18/nominate-your-favorite-faculty-member-for-appreciation-award/
+DESCRIPTION:[by: leahfessler]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130321
+DTEND;VALUE=DATE:20130322
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Editors of n+1 Literary Magazine Give Talk
+URL;VALUE=URI:http://middbeat.org/2013/03/20/editors-of-n1-literary-magazine-give-talk/
+UID:439-http://middbeat.org/2013/03/20/editors-of-n1-literary-magazine-give-talk/
+DESCRIPTION:[by: turpentine]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130321T203000Z
+DTEND;VALUE=DATE-TIME:20130321T220000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5 Broken Cameras Screening Thursday
+URL;VALUE=URI:http://middbeat.org/2013/03/20/5-broken-cameras-screening-thursday/
+UID:442-http://middbeat.org/2013/03/20/5-broken-cameras-screening-thursday/
+DESCRIPTION:[by: macslappy]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130321T203000Z
+DTEND;VALUE=DATE-TIME:20130321T221500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gap Year Students Organization Constitution Meeting
+URL;VALUE=URI:http://middbeat.org/2013/03/20/gap-year-students-organization-constitution-meeting/
+UID:444-http://middbeat.org/2013/03/20/gap-year-students-organization-constitution-meeting/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130321T230000Z
+DTEND;VALUE=DATE-TIME:20130322T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tonight: The Middlebury Moth: COINCIDENCE...I THINK NOT!
+URL;VALUE=URI:http://middbeat.org/2013/03/21/tonight-the-middlebury-moth-coincidence-i-think-not/
+UID:446-http://middbeat.org/2013/03/21/tonight-the-middlebury-moth-coincidence-i-think-not/
+DESCRIPTION:[by: zee]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130322T013000Z
+DTEND;VALUE=DATE-TIME:20130322T013000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MOTHA FUCKIN SNOW BALL FIGHT
+URL;VALUE=URI:http://middbeat.org/2013/03/21/motha-fuckin-snow-ball-fight/
+UID:448-http://middbeat.org/2013/03/21/motha-fuckin-snow-ball-fight/
+DESCRIPTION:[by: zee]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130322T030000Z
+DTEND;VALUE=DATE-TIME:20130322T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nominate Your Favorite Faculty Member for Appreciation Award
+URL;VALUE=URI:http://middbeat.org/2013/03/18/nominate-your-favorite-faculty-member-for-appreciation-award/
+UID:428-http://middbeat.org/2013/03/18/nominate-your-favorite-faculty-member-for-appreciation-award/
+DESCRIPTION:[by: leahfessler]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130322
+DTEND;VALUE=DATE:20130323
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ceramics Open Studio Hours
+URL;VALUE=URI:http://middbeat.org/2013/03/16/ceramics-open-studio-hours/
+UID:410-http://middbeat.org/2013/03/16/ceramics-open-studio-hours/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130322T210000Z
+DTEND;VALUE=DATE-TIME:20130323T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Islam in Turkey
+URL;VALUE=URI:http://middbeat.org/2013/04/01/islam-in-turkey/
+UID:450-http://middbeat.org/2013/04/01/islam-in-turkey/
+DESCRIPTION:[by: pringles]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130402T203000Z
+DTEND;VALUE=DATE-TIME:20130402T213000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Noodle Night Tuesday!
+URL;VALUE=URI:http://middbeat.org/2013/04/01/noodle-night-tuesday/
+UID:452-http://middbeat.org/2013/04/01/noodle-night-tuesday/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130403T010000Z
+DTEND;VALUE=DATE-TIME:20130403T023000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GLOBEMED Talk: Prof. Erick Gong
+URL;VALUE=URI:http://middbeat.org/2013/04/02/globemed-talk-prof-erick-gong/
+UID:458-http://middbeat.org/2013/04/02/globemed-talk-prof-erick-gong/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130403T163000Z
+DTEND;VALUE=DATE-TIME:20130403T173000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BULLY Screening Tonight
+URL;VALUE=URI:http://middbeat.org/2013/04/03/bully-screening-tonight/
+UID:460-http://middbeat.org/2013/04/03/bully-screening-tonight/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130403T230000Z
+DTEND;VALUE=DATE-TIME:20130404T013000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solar Decathalon Construction Kick-Off Party
+URL;VALUE=URI:http://middbeat.org/2013/04/02/solar-decathalon-construction-kick-off-party/
+UID:454-http://middbeat.org/2013/04/02/solar-decathalon-construction-kick-off-party/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130404T203000Z
+DTEND;VALUE=DATE-TIME:20130404T223000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Solar Decathalon Construction Kick-Off Party
+URL;VALUE=URI:http://middbeat.org/2013/04/02/solar-decathalon-construction-kick-off-party/
+UID:456-http://middbeat.org/2013/04/02/solar-decathalon-construction-kick-off-party/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130404T203000Z
+DTEND;VALUE=DATE-TIME:20130404T223000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TONIGHT: Atwater Suite BCG is Back in Action
+URL;VALUE=URI:http://middbeat.org/2013/04/04/tonight-atwater-suite-bcg-is-back-in-action/
+UID:462-http://middbeat.org/2013/04/04/tonight-atwater-suite-bcg-is-back-in-action/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130405T010000Z
+DTEND;VALUE=DATE-TIME:20130405T033000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TONIGHT: Atwater Suite BCG is Back in Action
+URL;VALUE=URI:http://middbeat.org/2013/04/04/tonight-atwater-suite-bcg-is-back-in-action/
+UID:464-http://middbeat.org/2013/04/04/tonight-atwater-suite-bcg-is-back-in-action/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130405T010000Z
+DTEND;VALUE=DATE-TIME:20130405T033000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TONIGHT: Atwater Suite BCG is Back in Action
+URL;VALUE=URI:http://middbeat.org/2013/04/04/tonight-atwater-suite-bcg-is-back-in-action/
+UID:466-http://middbeat.org/2013/04/04/tonight-atwater-suite-bcg-is-back-in-action/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130405T010000Z
+DTEND;VALUE=DATE-TIME:20130405T033000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sepomana: WRMC's Spring Concert Boasts Loaded Lineup
+URL;VALUE=URI:http://middbeat.org/2013/04/04/sepomana-tomorrow/
+UID:470-http://middbeat.org/2013/04/04/sepomana-tomorrow/
+DESCRIPTION:[by: macslappy]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130405T040000Z
+DTEND;VALUE=DATE-TIME:20130406T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FRIDAY: Eat Real [free!] BBQ!
+URL;VALUE=URI:http://middbeat.org/2013/04/04/friday-eat-real-free-bbq/
+UID:468-http://middbeat.org/2013/04/04/friday-eat-real-free-bbq/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130405T160000Z
+DTEND;VALUE=DATE-TIME:20130405T173000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screening: Roadmap to Apartheid
+URL;VALUE=URI:http://middbeat.org/2013/04/05/screening-roadmap-to-apartheid/
+UID:472-http://middbeat.org/2013/04/05/screening-roadmap-to-apartheid/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130405T203000Z
+DTEND;VALUE=DATE-TIME:20130405T223000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sepomana after party @ the Mill 
+URL;VALUE=URI:http://middbeat.org/2013/04/05/sepomana-after-party-the-mill/
+UID:476-http://middbeat.org/2013/04/05/sepomana-after-party-the-mill/
+DESCRIPTION:[by: njbrwn]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130406T035900Z
+DTEND;VALUE=DATE-TIME:20130406T090000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cafe Con Leche: A Night of Latin Dancing
+URL;VALUE=URI:http://middbeat.org/2013/04/06/cafe-con-leche-a-night-of-latin-dancing/
+UID:488-http://middbeat.org/2013/04/06/cafe-con-leche-a-night-of-latin-dancing/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130406T040000Z
+DTEND;VALUE=DATE-TIME:20130407T060000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Munford High School Sock Hop
+URL;VALUE=URI:http://middbeat.org/2013/04/06/munford-high-school-sock-hop/
+UID:490-http://middbeat.org/2013/04/06/munford-high-school-sock-hop/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130406T040000Z
+DTEND;VALUE=DATE-TIME:20130407T040000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SATURDAY: Raise the Volume Benefit Concert
+URL;VALUE=URI:http://middbeat.org/2013/04/05/saturday-raise-the-volume-benefit-concert/
+UID:480-http://middbeat.org/2013/04/05/saturday-raise-the-volume-benefit-concert/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130407T000000Z
+DTEND;VALUE=DATE-TIME:20130407T013000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stand Up Comedy and PULSE Percussion Group: Hepburn Zoo\, Friday 8 PM\, Saturday 9PM
+URL;VALUE=URI:http://middbeat.org/2013/04/05/stand-up-comedy-and-pulse-percussion-group-hepburn-zoo-friday-8-pm-saturday-9pm/
+UID:482-http://middbeat.org/2013/04/05/stand-up-comedy-and-pulse-percussion-group-hepburn-zoo-friday-8-pm-saturday-9pm/
+DESCRIPTION:[by: watts]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130407T010000Z
+DTEND;VALUE=DATE-TIME:20130407T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brenton Duvall & Beau Young Prince at the BUNKER
+URL;VALUE=URI:http://middbeat.org/2013/04/06/brenton-duvall-beau-young-prince-at-the-bunker/
+UID:484-http://middbeat.org/2013/04/06/brenton-duvall-beau-young-prince-at-the-bunker/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130407T023000Z
+DTEND;VALUE=DATE-TIME:20130407T043000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brenton Duvall & Beau Young Prince at the BUNKER
+URL;VALUE=URI:http://middbeat.org/2013/04/06/brenton-duvall-beau-young-prince-at-the-bunker/
+UID:486-http://middbeat.org/2013/04/06/brenton-duvall-beau-young-prince-at-the-bunker/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130407T023000Z
+DTEND;VALUE=DATE-TIME:20130407T043000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Body Parts Symposium This Week
+URL;VALUE=URI:http://middbeat.org/2013/04/08/body-parts-symposium-this-week/
+UID:496-http://middbeat.org/2013/04/08/body-parts-symposium-this-week/
+DESCRIPTION:[by: leahfessler]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130408
+DTEND;VALUE=DATE:20130409
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:This Weekend with MMC
+URL;VALUE=URI:http://middbeat.org/2013/03/07/this-weekend-with-mmc/
+UID:310-http://middbeat.org/2013/03/07/this-weekend-with-mmc/
+DESCRIPTION:[by: macslappy]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130409T130000Z
+DTEND;VALUE=DATE-TIME:20130409T150000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Body Parts Symposium This Week
+URL;VALUE=URI:http://middbeat.org/2013/04/08/body-parts-symposium-this-week/
+UID:497-http://middbeat.org/2013/04/08/body-parts-symposium-this-week/
+DESCRIPTION:[by: leahfessler]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130409
+DTEND;VALUE=DATE:20130410
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Food Week
+URL;VALUE=URI:http://middbeat.org/2013/04/10/real-food-week/
+UID:517-http://middbeat.org/2013/04/10/real-food-week/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130410
+DTEND;VALUE=DATE:20130411
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Play Festival: Undressing Cinderella
+URL;VALUE=URI:http://middbeat.org/2013/04/10/new-play-festival-undressing-cinderella/
+UID:507-http://middbeat.org/2013/04/10/new-play-festival-undressing-cinderella/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130411T000000Z
+DTEND;VALUE=DATE-TIME:20130411T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Body Parts Symposium This Week
+URL;VALUE=URI:http://middbeat.org/2013/04/08/body-parts-symposium-this-week/
+UID:498-http://middbeat.org/2013/04/08/body-parts-symposium-this-week/
+DESCRIPTION:[by: leahfessler]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130410
+DTEND;VALUE=DATE:20130411
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture: Joseph Massad "Re-turning Rights" 
+URL;VALUE=URI:http://middbeat.org/2013/04/10/lecture-joseph-massad-re-turning-rights/
+UID:524-http://middbeat.org/2013/04/10/lecture-joseph-massad-re-turning-rights/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130411T203000Z
+DTEND;VALUE=DATE-TIME:20130411T223000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture: Joseph Massad "Re-turning Rights" 
+URL;VALUE=URI:http://middbeat.org/2013/04/10/lecture-joseph-massad-re-turning-rights/
+UID:526-http://middbeat.org/2013/04/10/lecture-joseph-massad-re-turning-rights/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130411T203000Z
+DTEND;VALUE=DATE-TIME:20130411T223000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Food Week
+URL;VALUE=URI:http://middbeat.org/2013/04/10/real-food-week/
+UID:518-http://middbeat.org/2013/04/10/real-food-week/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130411
+DTEND;VALUE=DATE:20130412
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TODAY: VT Gas Pipeline Opposition Meeting
+URL;VALUE=URI:http://middbeat.org/2013/04/11/today-vt-gas-pipeline-opposition-meeting/
+UID:528-http://middbeat.org/2013/04/11/today-vt-gas-pipeline-opposition-meeting/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130411T223000Z
+DTEND;VALUE=DATE-TIME:20130411T223000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Play Festival: Undressing Cinderella
+URL;VALUE=URI:http://middbeat.org/2013/04/10/new-play-festival-undressing-cinderella/
+UID:508-http://middbeat.org/2013/04/10/new-play-festival-undressing-cinderella/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130412T000000Z
+DTEND;VALUE=DATE-TIME:20130412T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAlt Leader Info Meeting 
+URL;VALUE=URI:http://middbeat.org/2013/04/11/malt-leader-info-meeting/
+UID:530-http://middbeat.org/2013/04/11/malt-leader-info-meeting/
+DESCRIPTION:[by: lgordy]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130412T000000Z
+DTEND;VALUE=DATE-TIME:20130412T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Body Parts Symposium This Week
+URL;VALUE=URI:http://middbeat.org/2013/04/08/body-parts-symposium-this-week/
+UID:499-http://middbeat.org/2013/04/08/body-parts-symposium-this-week/
+DESCRIPTION:[by: leahfessler]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130411
+DTEND;VALUE=DATE:20130412
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atwater Suite BCG This THURSDAY
+URL;VALUE=URI:http://middbeat.org/2013/04/10/atwater-suite-bcg-this-thursday/
+UID:502-http://middbeat.org/2013/04/10/atwater-suite-bcg-this-thursday/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130412T010000Z
+DTEND;VALUE=DATE-TIME:20130412T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dr. Feelgoods and Billiards at the Grille
+URL;VALUE=URI:http://middbeat.org/2013/02/22/dr-feelgoods-and-billiards-at-the-grille/
+UID:156-http://middbeat.org/2013/02/22/dr-feelgoods-and-billiards-at-the-grille/
+DESCRIPTION:[by: lieutenantthebrain]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130412T040000Z
+DTEND;VALUE=DATE-TIME:20130413T060000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Food Week
+URL;VALUE=URI:http://middbeat.org/2013/04/10/real-food-week/
+UID:519-http://middbeat.org/2013/04/10/real-food-week/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130412
+DTEND;VALUE=DATE:20130413
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MCAB Spring Concert: Timeflies
+URL;VALUE=URI:http://middbeat.org/2013/02/21/mcab-spring-concert-timeflies/
+UID:143-http://middbeat.org/2013/02/21/mcab-spring-concert-timeflies/
+DESCRIPTION:[by: admin]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130413T000000Z
+DTEND;VALUE=DATE-TIME:20130413T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Play Festival: Undressing Cinderella
+URL;VALUE=URI:http://middbeat.org/2013/04/10/new-play-festival-undressing-cinderella/
+UID:509-http://middbeat.org/2013/04/10/new-play-festival-undressing-cinderella/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130413T000000Z
+DTEND;VALUE=DATE-TIME:20130413T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Body Parts Symposium This Week
+URL;VALUE=URI:http://middbeat.org/2013/04/08/body-parts-symposium-this-week/
+UID:500-http://middbeat.org/2013/04/08/body-parts-symposium-this-week/
+DESCRIPTION:[by: leahfessler]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130412
+DTEND;VALUE=DATE:20130413
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Play Festival: Undressing Cinderella
+URL;VALUE=URI:http://middbeat.org/2013/04/10/new-play-festival-undressing-cinderella/
+UID:510-http://middbeat.org/2013/04/10/new-play-festival-undressing-cinderella/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130414T000000Z
+DTEND;VALUE=DATE-TIME:20130414T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring Fever Dance Benefit
+URL;VALUE=URI:http://middbeat.org/2013/04/12/spring-fever-dance-benefit/
+UID:532-http://middbeat.org/2013/04/12/spring-fever-dance-benefit/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130414T000000Z
+DTEND;VALUE=DATE-TIME:20130414T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Don't Forget to Apply for Internship Funding!
+URL;VALUE=URI:http://middbeat.org/2013/04/05/dont-forget-to-apply-for-internship-funding/
+UID:478-http://middbeat.org/2013/04/05/dont-forget-to-apply-for-internship-funding/
+DESCRIPTION:[by: umathurman]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130415
+DTEND;VALUE=DATE:20130416
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Food Week
+URL;VALUE=URI:http://middbeat.org/2013/04/10/real-food-week/
+UID:520-http://middbeat.org/2013/04/10/real-food-week/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130415
+DTEND;VALUE=DATE:20130416
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TODAY: Celebrating the 50th Anniversary of "Letter from Birmingham Jail"
+URL;VALUE=URI:http://middbeat.org/2013/04/16/today-celebrating-the-50th-anniversary-of-letter-from-birmingham-jail/
+UID:542-http://middbeat.org/2013/04/16/today-celebrating-the-50th-anniversary-of-letter-from-birmingham-jail/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130416T162000Z
+DTEND;VALUE=DATE-TIME:20130416T162000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Public Speaking Workshop
+URL;VALUE=URI:http://middbeat.org/2013/04/15/public-speaking-workshop/
+UID:536-http://middbeat.org/2013/04/15/public-speaking-workshop/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130416T203000Z
+DTEND;VALUE=DATE-TIME:20130416T223000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Food Week
+URL;VALUE=URI:http://middbeat.org/2013/04/10/real-food-week/
+UID:521-http://middbeat.org/2013/04/10/real-food-week/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130416
+DTEND;VALUE=DATE:20130417
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Attack of the Prospies!!
+URL;VALUE=URI:http://middbeat.org/2013/04/15/attack-of-the-prospies/
+UID:534-http://middbeat.org/2013/04/15/attack-of-the-prospies/
+DESCRIPTION:[by: umathurman]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130417
+DTEND;VALUE=DATE:20130420
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buddhist Society Meeting
+URL;VALUE=URI:http://middbeat.org/2013/04/17/buddhist-society-meeting/
+UID:552-http://middbeat.org/2013/04/17/buddhist-society-meeting/
+DESCRIPTION:[by: macslappy]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130417T203000Z
+DTEND;VALUE=DATE-TIME:20130417T203000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Food Week
+URL;VALUE=URI:http://middbeat.org/2013/04/10/real-food-week/
+UID:522-http://middbeat.org/2013/04/10/real-food-week/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130417
+DTEND;VALUE=DATE:20130418
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EatReal Panel Discussion Tonight
+URL;VALUE=URI:http://middbeat.org/2013/04/17/eatreal-panel-discussion-tonight/
+UID:550-http://middbeat.org/2013/04/17/eatreal-panel-discussion-tonight/
+DESCRIPTION:[by: macslappy]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130417T223000Z
+DTEND;VALUE=DATE-TIME:20130417T233000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Island President: National Screening
+URL;VALUE=URI:http://middbeat.org/2013/04/16/the-island-president-national-screening/
+UID:548-http://middbeat.org/2013/04/16/the-island-president-national-screening/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130417T230000Z
+DTEND;VALUE=DATE-TIME:20130418T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Life and Legacy of Margaret Thatcher: A Debate
+URL;VALUE=URI:http://middbeat.org/2013/04/16/the-life-and-legacy-of-margaret-thatcher-a-debate/
+UID:544-http://middbeat.org/2013/04/16/the-life-and-legacy-of-margaret-thatcher-a-debate/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130418T001500Z
+DTEND;VALUE=DATE-TIME:20130418T011500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Life and Legacy of Margaret Thatcher: A Debate
+URL;VALUE=URI:http://middbeat.org/2013/04/16/the-life-and-legacy-of-margaret-thatcher-a-debate/
+UID:546-http://middbeat.org/2013/04/16/the-life-and-legacy-of-margaret-thatcher-a-debate/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130418T001500Z
+DTEND;VALUE=DATE-TIME:20130418T011500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thank God For Mississippi at Crossroads TONIGHT
+URL;VALUE=URI:http://middbeat.org/2013/04/17/thank-god-for-mississippi-at-crossroads-tonight/
+UID:556-http://middbeat.org/2013/04/17/thank-god-for-mississippi-at-crossroads-tonight/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130418T023000Z
+DTEND;VALUE=DATE-TIME:20130418T023000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smallville actress opens Spring Symposium
+URL;VALUE=URI:http://middbeat.org/2013/04/18/smallville-actress-opens-spring-symposium/
+UID:560-http://middbeat.org/2013/04/18/smallville-actress-opens-spring-symposium/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130418T230000Z
+DTEND;VALUE=DATE-TIME:20130419T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Moth on Thursday: New Beginnings
+URL;VALUE=URI:http://middbeat.org/2013/04/17/the-moth-on-thursday-new-beginnings/
+UID:554-http://middbeat.org/2013/04/17/the-moth-on-thursday-new-beginnings/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130419T013000Z
+DTEND;VALUE=DATE-TIME:20130419T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RICKY CHEN\, in concert
+URL;VALUE=URI:http://middbeat.org/2013/04/17/ricky-chen-in-concert/
+UID:558-http://middbeat.org/2013/04/17/ricky-chen-in-concert/
+DESCRIPTION:[by: pringles]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130419T040000Z
+DTEND;VALUE=DATE-TIME:20130420T000000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring Symposium Under Way
+URL;VALUE=URI:http://middbeat.org/2013/04/19/spring-symposium-under-way/
+UID:568-http://middbeat.org/2013/04/19/spring-symposium-under-way/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130419
+DTEND;VALUE=DATE:20130420
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Formerly Untold: Senior Thesis Dance Concert
+URL;VALUE=URI:http://middbeat.org/2013/04/19/the-formerly-untold-senior-thesis-dance-concert/
+UID:565-http://middbeat.org/2013/04/19/the-formerly-untold-senior-thesis-dance-concert/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130420T000000Z
+DTEND;VALUE=DATE-TIME:20130420T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Friday: the Stepkids and Mokaad will funk you back to the 70s. 
+URL;VALUE=URI:http://middbeat.org/2013/04/16/friday-the-stepkids-and-mokaad-will-funk-you-back-to-the-70s/
+UID:538-http://middbeat.org/2013/04/16/friday-the-stepkids-and-mokaad-will-funk-you-back-to-the-70s/
+DESCRIPTION:[by: zee]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130420T011500Z
+DTEND;VALUE=DATE-TIME:20130420T011500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Friday: the Stepkids and Mokaad will funk you back to the 70s. 
+URL;VALUE=URI:http://middbeat.org/2013/04/16/friday-the-stepkids-and-mokaad-will-funk-you-back-to-the-70s/
+UID:540-http://middbeat.org/2013/04/16/friday-the-stepkids-and-mokaad-will-funk-you-back-to-the-70s/
+DESCRIPTION:[by: zee]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130420T011500Z
+DTEND;VALUE=DATE-TIME:20130420T011500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:This Weekend: Ultimate Frisbee Hosts Sectionals
+URL;VALUE=URI:http://middbeat.org/2013/04/19/this-weekend-ultimate-frisbee-hosts-sectionals/
+UID:570-http://middbeat.org/2013/04/19/this-weekend-ultimate-frisbee-hosts-sectionals/
+DESCRIPTION:[by: cailey]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130420
+DTEND;VALUE=DATE:20130421
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:This Weekend: Ultimate Frisbee Hosts Sectionals
+URL;VALUE=URI:http://middbeat.org/2013/04/19/this-weekend-ultimate-frisbee-hosts-sectionals/
+UID:572-http://middbeat.org/2013/04/19/this-weekend-ultimate-frisbee-hosts-sectionals/
+DESCRIPTION:[by: cailey]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130420
+DTEND;VALUE=DATE:20130421
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:This Weekend: Ultimate Frisbee Hosts Sectionals
+URL;VALUE=URI:http://middbeat.org/2013/04/19/this-weekend-ultimate-frisbee-hosts-sectionals/
+UID:574-http://middbeat.org/2013/04/19/this-weekend-ultimate-frisbee-hosts-sectionals/
+DESCRIPTION:[by: cailey]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130420
+DTEND;VALUE=DATE:20130421
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:This Weekend: Ultimate Frisbee Hosts Sectionals
+URL;VALUE=URI:http://middbeat.org/2013/04/19/this-weekend-ultimate-frisbee-hosts-sectionals/
+UID:576-http://middbeat.org/2013/04/19/this-weekend-ultimate-frisbee-hosts-sectionals/
+DESCRIPTION:[by: cailey]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130420
+DTEND;VALUE=DATE:20130421
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:This Weekend: Ultimate Frisbee Hosts Sectionals
+URL;VALUE=URI:http://middbeat.org/2013/04/19/this-weekend-ultimate-frisbee-hosts-sectionals/
+UID:578-http://middbeat.org/2013/04/19/this-weekend-ultimate-frisbee-hosts-sectionals/
+DESCRIPTION:[by: cailey]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130420
+DTEND;VALUE=DATE:20130421
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:This Weekend: Ultimate Frisbee Hosts Sectionals
+URL;VALUE=URI:http://middbeat.org/2013/04/19/this-weekend-ultimate-frisbee-hosts-sectionals/
+UID:580-http://middbeat.org/2013/04/19/this-weekend-ultimate-frisbee-hosts-sectionals/
+DESCRIPTION:[by: cailey]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130420
+DTEND;VALUE=DATE:20130421
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:This Weekend: Ultimate Frisbee Hosts Sectionals
+URL;VALUE=URI:http://middbeat.org/2013/04/19/this-weekend-ultimate-frisbee-hosts-sectionals/
+UID:582-http://middbeat.org/2013/04/19/this-weekend-ultimate-frisbee-hosts-sectionals/
+DESCRIPTION:[by: cailey]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130420
+DTEND;VALUE=DATE:20130421
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Formerly Untold: Senior Thesis Dance Concert
+URL;VALUE=URI:http://middbeat.org/2013/04/19/the-formerly-untold-senior-thesis-dance-concert/
+UID:566-http://middbeat.org/2013/04/19/the-formerly-untold-senior-thesis-dance-concert/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130421T000000Z
+DTEND;VALUE=DATE-TIME:20130421T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MCAB Spring Formal
+URL;VALUE=URI:http://middbeat.org/2013/04/19/mcab-spring-formal/
+UID:562-http://middbeat.org/2013/04/19/mcab-spring-formal/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130421T020000Z
+DTEND;VALUE=DATE-TIME:20130421T060000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Live blog] Hundreds Turn Out For 'It Happens Here': Stories of Sexual Assault
+URL;VALUE=URI:http://middbeat.org/2013/04/22/hundreds-turn-out-for-it-happens-here/
+UID:586-http://middbeat.org/2013/04/22/hundreds-turn-out-for-it-happens-here/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130422T230000Z
+DTEND;VALUE=DATE-TIME:20130423T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop Traffick Lecture AND Atwater Dinner
+URL;VALUE=URI:http://middbeat.org/2013/04/23/stop-traffick-lecture-and-atwater-dinner/
+UID:591-http://middbeat.org/2013/04/23/stop-traffick-lecture-and-atwater-dinner/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130423T203000Z
+DTEND;VALUE=DATE-TIME:20130423T220000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop Traffick Lecture AND Atwater Dinner
+URL;VALUE=URI:http://middbeat.org/2013/04/23/stop-traffick-lecture-and-atwater-dinner/
+UID:595-http://middbeat.org/2013/04/23/stop-traffick-lecture-and-atwater-dinner/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130423T203000Z
+DTEND;VALUE=DATE-TIME:20130423T220000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Middlebrow Improv Comedy\, Tuesday 10 PM Pearsons Lounge
+URL;VALUE=URI:http://middbeat.org/2013/04/22/middlebrow-improv-comedy-tuesday-10-pm-pearsons-lounge/
+UID:588-http://middbeat.org/2013/04/22/middlebrow-improv-comedy-tuesday-10-pm-pearsons-lounge/
+DESCRIPTION:[by: watts]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130424T020000Z
+DTEND;VALUE=DATE-TIME:20130424T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Charter House Benefit Dinner Tomorrow
+URL;VALUE=URI:http://middbeat.org/2013/04/23/charter-house-benefit-dinner-tomorrow/
+UID:602-http://middbeat.org/2013/04/23/charter-house-benefit-dinner-tomorrow/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130424T150000Z
+DTEND;VALUE=DATE-TIME:20130425T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blood Drive Today!
+URL;VALUE=URI:http://middbeat.org/2013/04/24/blood-drive-today/
+UID:610-http://middbeat.org/2013/04/24/blood-drive-today/
+DESCRIPTION:[by: umathurman]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130424T170000Z
+DTEND;VALUE=DATE-TIME:20130424T210000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:College: What it Was\, Is\, and Should Be (Lecture)
+URL;VALUE=URI:http://middbeat.org/2013/04/23/college-what-it-was-is-and-should-be-lecture/
+UID:604-http://middbeat.org/2013/04/23/college-what-it-was-is-and-should-be-lecture/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130424T203000Z
+DTEND;VALUE=DATE-TIME:20130424T223000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop Traffick Lecture AND Atwater Dinner
+URL;VALUE=URI:http://middbeat.org/2013/04/23/stop-traffick-lecture-and-atwater-dinner/
+UID:592-http://middbeat.org/2013/04/23/stop-traffick-lecture-and-atwater-dinner/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130424T220000Z
+DTEND;VALUE=DATE-TIME:20130424T233000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop Traffick Lecture AND Atwater Dinner
+URL;VALUE=URI:http://middbeat.org/2013/04/23/stop-traffick-lecture-and-atwater-dinner/
+UID:596-http://middbeat.org/2013/04/23/stop-traffick-lecture-and-atwater-dinner/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130424T220000Z
+DTEND;VALUE=DATE-TIME:20130424T233000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Student Piano Recital
+URL;VALUE=URI:http://middbeat.org/2013/04/24/student-piano-recital/
+UID:606-http://middbeat.org/2013/04/24/student-piano-recital/
+DESCRIPTION:[by: macslappy]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130424T223000Z
+DTEND;VALUE=DATE-TIME:20130425T000000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Chasing Ice" Screening
+URL;VALUE=URI:http://middbeat.org/2013/04/23/chasing-ice-screening/
+UID:598-http://middbeat.org/2013/04/23/chasing-ice-screening/
+DESCRIPTION:[by: umathurman]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130424T230000Z
+DTEND;VALUE=DATE-TIME:20130424T230000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Chasing Ice" Screening
+URL;VALUE=URI:http://middbeat.org/2013/04/23/chasing-ice-screening/
+UID:600-http://middbeat.org/2013/04/23/chasing-ice-screening/
+DESCRIPTION:[by: umathurman]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130424T230000Z
+DTEND;VALUE=DATE-TIME:20130424T230000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SGA Presidential Debate
+URL;VALUE=URI:http://middbeat.org/2013/04/24/sga-presidential-debate/
+UID:608-http://middbeat.org/2013/04/24/sga-presidential-debate/
+DESCRIPTION:[by: zee]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130424T233000Z
+DTEND;VALUE=DATE-TIME:20130424T233000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TONIGHT: Gasland Screening
+URL;VALUE=URI:http://middbeat.org/2013/04/25/tonight-gasland-screening/
+UID:622-http://middbeat.org/2013/04/25/tonight-gasland-screening/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130425T230000Z
+DTEND;VALUE=DATE-TIME:20130425T230000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sounds\, Alterations: Delicacy and Prejudices
+URL;VALUE=URI:http://middbeat.org/2013/04/24/sounds-alterations-delicacy-and-prejudices/
+UID:614-http://middbeat.org/2013/04/24/sounds-alterations-delicacy-and-prejudices/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130426T000000Z
+DTEND;VALUE=DATE-TIME:20130427T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Penultimate Thursday at Suite BCG
+URL;VALUE=URI:http://middbeat.org/2013/04/25/penultimate-thursday-at-suite-bcg/
+UID:618-http://middbeat.org/2013/04/25/penultimate-thursday-at-suite-bcg/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130426T010000Z
+DTEND;VALUE=DATE-TIME:20130426T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blackbird Release Party
+URL;VALUE=URI:http://middbeat.org/2013/04/25/blackbird-release-party/
+UID:620-http://middbeat.org/2013/04/25/blackbird-release-party/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130426T010000Z
+DTEND;VALUE=DATE-TIME:20130426T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TONIGHT: Polar Bearing with MMC!
+URL;VALUE=URI:http://middbeat.org/2013/04/25/tonight-polar-bearing-with-mmc/
+UID:624-http://middbeat.org/2013/04/25/tonight-polar-bearing-with-mmc/
+DESCRIPTION:[by: umathurman]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130426T020000Z
+DTEND;VALUE=DATE-TIME:20130426T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sounds\, Alterations: Delicacy and Prejudices
+URL;VALUE=URI:http://middbeat.org/2013/04/24/sounds-alterations-delicacy-and-prejudices/
+UID:615-http://middbeat.org/2013/04/24/sounds-alterations-delicacy-and-prejudices/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130427T020000Z
+DTEND;VALUE=DATE-TIME:20130427T050000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Rowdy Roast is Here
+URL;VALUE=URI:http://middbeat.org/2013/04/26/the-rowdy-roast-is-here/
+UID:626-http://middbeat.org/2013/04/26/the-rowdy-roast-is-here/
+DESCRIPTION:[by: pringles]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130427T173000Z
+DTEND;VALUE=DATE-TIME:20130427T220000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROWDY ROAST
+URL;VALUE=URI:http://middbeat.org/2013/04/24/rowdy-roast-2/
+UID:584-http://middbeat.org/2013/04/24/rowdy-roast-2/
+DESCRIPTION:[by: pringles]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130427T183000Z
+DTEND;VALUE=DATE-TIME:20130427T223000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TONIGHT: Midd Masti Performance in McCullough
+URL;VALUE=URI:http://middbeat.org/2013/04/27/tonight-midd-masti-performance-in-mccullough/
+UID:628-http://middbeat.org/2013/04/27/tonight-midd-masti-performance-in-mccullough/
+DESCRIPTION:[by: macslappy]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130428T013000Z
+DTEND;VALUE=DATE-TIME:20130428T023000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sounds\, Alterations: Delicacy and Prejudices
+URL;VALUE=URI:http://middbeat.org/2013/04/24/sounds-alterations-delicacy-and-prejudices/
+UID:616-http://middbeat.org/2013/04/24/sounds-alterations-delicacy-and-prejudices/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130428T020000Z
+DTEND;VALUE=DATE-TIME:20130428T050000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grace Brown of Project Unbreakable
+URL;VALUE=URI:http://middbeat.org/2013/04/29/grace-brown-of-project-unbreakable/
+UID:630-http://middbeat.org/2013/04/29/grace-brown-of-project-unbreakable/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130429T230000Z
+DTEND;VALUE=DATE-TIME:20130430T003000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flesh Memory I Art and Performance I M Gallery 
+URL;VALUE=URI:http://middbeat.org/2013/04/29/flesh-memory-i-art-and-performance-i-m-gallery/
+UID:632-http://middbeat.org/2013/04/29/flesh-memory-i-art-and-performance-i-m-gallery/
+DESCRIPTION:[by: zee]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130429T230000Z
+DTEND;VALUE=DATE-TIME:20130429T230000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Songs from Musicals You'll Never See
+URL;VALUE=URI:http://middbeat.org/2013/05/01/songs-from-musicals-youll-never-see/
+UID:634-http://middbeat.org/2013/05/01/songs-from-musicals-youll-never-see/
+DESCRIPTION:[by: lieutenantthebrain]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130501T230000Z
+DTEND;VALUE=DATE-TIME:20130502T000000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Apparently this guy is a big deal...
+URL;VALUE=URI:http://middbeat.org/2013/05/01/apparently-this-guy-is-a-big-deal/
+UID:636-http://middbeat.org/2013/05/01/apparently-this-guy-is-a-big-deal/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130502T203000Z
+DTEND;VALUE=DATE-TIME:20130502T223000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kapital Flow and Milk Chocolate Take 51 Main
+URL;VALUE=URI:http://middbeat.org/2013/05/02/kapital-flow-and-milk-chocolate-take-51-main/
+UID:640-http://middbeat.org/2013/05/02/kapital-flow-and-milk-chocolate-take-51-main/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130502T220000Z
+DTEND;VALUE=DATE-TIME:20130503T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MLK Spiritual Choir Spring Concert
+URL;VALUE=URI:http://middbeat.org/2013/05/03/mlk-spiritual-choir-spring-concert/
+UID:644-http://middbeat.org/2013/05/03/mlk-spiritual-choir-spring-concert/
+DESCRIPTION:[by: lieutenantthebrain]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130503T120000Z
+DTEND;VALUE=DATE-TIME:20130503T140000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MLK Spiritual Choir Spring Concert
+URL;VALUE=URI:http://middbeat.org/2013/05/03/mlk-spiritual-choir-spring-concert/
+UID:646-http://middbeat.org/2013/05/03/mlk-spiritual-choir-spring-concert/
+DESCRIPTION:[by: lieutenantthebrain]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130503T120000Z
+DTEND;VALUE=DATE-TIME:20130503T140000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alpenglow + A Smorgasbord Of Other Cool Shit: Tommorow in Johnson Pit
+URL;VALUE=URI:http://middbeat.org/2013/05/02/alpenglow-a-smorgasbord-of-other-cool-shit-tonight-in-johnson-pit/
+UID:638-http://middbeat.org/2013/05/02/alpenglow-a-smorgasbord-of-other-cool-shit-tonight-in-johnson-pit/
+DESCRIPTION:[by: turpentine]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130504T010000Z
+DTEND;VALUE=DATE-TIME:20130504T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TONIGHT: Atwater Roller Rink 
+URL;VALUE=URI:http://middbeat.org/2013/05/04/tonight-atwater-roller-rink/
+UID:650-http://middbeat.org/2013/05/04/tonight-atwater-roller-rink/
+DESCRIPTION:[by: macslappy]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130504T040000Z
+DTEND;VALUE=DATE-TIME:20130504T040000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holy Moley: Midd Does Holi
+URL;VALUE=URI:http://middbeat.org/2013/05/03/holy-moley-midd-does-holi-2/
+UID:642-http://middbeat.org/2013/05/03/holy-moley-midd-does-holi-2/
+DESCRIPTION:[by: karebear]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130504T180000Z
+DTEND;VALUE=DATE-TIME:20130504T180000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pre-release Screening: Syrup
+URL;VALUE=URI:http://middbeat.org/2013/05/03/pre-release-screening-syrup/
+UID:648-http://middbeat.org/2013/05/03/pre-release-screening-syrup/
+DESCRIPTION:[by: lieutenantthebrain]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130505T193000Z
+DTEND;VALUE=DATE-TIME:20130506T000000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TOMORROW\, 5/7: Anti-Pipeline Day of Action
+URL;VALUE=URI:http://middbeat.org/2013/05/06/tomorrow-57-anti-pipeline-day-of-action/
+UID:658-http://middbeat.org/2013/05/06/tomorrow-57-anti-pipeline-day-of-action/
+DESCRIPTION:[by: cailey]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130507
+DTEND;VALUE=DATE:20130508
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taste of Addison County
+URL;VALUE=URI:http://middbeat.org/2013/05/05/taste-of-addison-county/
+UID:652-http://middbeat.org/2013/05/05/taste-of-addison-county/
+DESCRIPTION:[by: zee]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130507T160000Z
+DTEND;VALUE=DATE-TIME:20130507T160000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MCAB Speakers Committee Presents: Mike Feinberg\, Co-Founder of KIPP Charter Schools
+URL;VALUE=URI:http://middbeat.org/2013/05/06/mcab-speakers-committee-presents-mike-feinberg-co-founder-of-kipp-charter-schools/
+UID:656-http://middbeat.org/2013/05/06/mcab-speakers-committee-presents-mike-feinberg-co-founder-of-kipp-charter-schools/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130508T010000Z
+DTEND;VALUE=DATE-TIME:20130508T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:This Weekend with MMC
+URL;VALUE=URI:http://middbeat.org/2013/03/07/this-weekend-with-mmc/
+UID:311-http://middbeat.org/2013/03/07/this-weekend-with-mmc/
+DESCRIPTION:[by: macslappy]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130509T130000Z
+DTEND;VALUE=DATE-TIME:20130509T150000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:18+ Two Bros Bar Night THURSDAY
+URL;VALUE=URI:http://middbeat.org/2013/05/08/18-two-bros-bar-night-thursday/
+UID:662-http://middbeat.org/2013/05/08/18-two-bros-bar-night-thursday/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130510T000000Z
+DTEND;VALUE=DATE-TIME:20130510T000000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tonight\, Thursday\, On Tap Spring Show! 
+URL;VALUE=URI:http://middbeat.org/2013/05/09/tonight-thursday-on-tap-spring-show/
+UID:666-http://middbeat.org/2013/05/09/tonight-thursday-on-tap-spring-show/
+DESCRIPTION:[by: zee]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130510T000000Z
+DTEND;VALUE=DATE-TIME:20130510T000000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midd Mayhem Concert Friday
+URL;VALUE=URI:http://middbeat.org/2013/05/07/midd-mayhem-concert-friday/
+UID:660-http://middbeat.org/2013/05/07/midd-mayhem-concert-friday/
+DESCRIPTION:[by: macslappy]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130510T224500Z
+DTEND;VALUE=DATE-TIME:20130510T224500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:François Clemmons Sings A Joyous Farewell\, TONIGHT
+URL;VALUE=URI:http://middbeat.org/2013/05/10/francois-clemmons-sings-a-joyous-farewell-tonight/
+UID:670-http://middbeat.org/2013/05/10/francois-clemmons-sings-a-joyous-farewell-tonight/
+DESCRIPTION:[by: yeastczar]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130511T000000Z
+DTEND;VALUE=DATE-TIME:20130511T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:François Clemmons Sings A Joyous Farewell\, TONIGHT
+URL;VALUE=URI:http://middbeat.org/2013/05/10/francois-clemmons-sings-a-joyous-farewell-tonight/
+UID:674-http://middbeat.org/2013/05/10/francois-clemmons-sings-a-joyous-farewell-tonight/
+DESCRIPTION:[by: yeastczar]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130511T000000Z
+DTEND;VALUE=DATE-TIME:20130511T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:François Clemmons Sings A Joyous Farewell\, TONIGHT
+URL;VALUE=URI:http://middbeat.org/2013/05/10/francois-clemmons-sings-a-joyous-farewell-tonight/
+UID:676-http://middbeat.org/2013/05/10/francois-clemmons-sings-a-joyous-farewell-tonight/
+DESCRIPTION:[by: yeastczar]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130511T000000Z
+DTEND;VALUE=DATE-TIME:20130511T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:François Clemmons Sings A Joyous Farewell\, TONIGHT
+URL;VALUE=URI:http://middbeat.org/2013/05/10/francois-clemmons-sings-a-joyous-farewell-tonight/
+UID:678-http://middbeat.org/2013/05/10/francois-clemmons-sings-a-joyous-farewell-tonight/
+DESCRIPTION:[by: yeastczar]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130511T000000Z
+DTEND;VALUE=DATE-TIME:20130511T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:François Clemmons Sings A Joyous Farewell\, TONIGHT
+URL;VALUE=URI:http://middbeat.org/2013/05/10/francois-clemmons-sings-a-joyous-farewell-tonight/
+UID:680-http://middbeat.org/2013/05/10/francois-clemmons-sings-a-joyous-farewell-tonight/
+DESCRIPTION:[by: yeastczar]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130511T000000Z
+DTEND;VALUE=DATE-TIME:20130511T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TONIGHT: Outdoor Movie on Battell Beach
+URL;VALUE=URI:http://middbeat.org/2013/05/10/tonight-outdoor-movie-on-battell-beach/
+UID:672-http://middbeat.org/2013/05/10/tonight-outdoor-movie-on-battell-beach/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130511T003000Z
+DTEND;VALUE=DATE-TIME:20130511T023000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last Chance To Nominate Feminist of the Year
+URL;VALUE=URI:http://middbeat.org/2013/05/06/last-chance-to-nominate-feminist-of-the-year/
+UID:654-http://middbeat.org/2013/05/06/last-chance-to-nominate-feminist-of-the-year/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130511T180000Z
+DTEND;VALUE=DATE-TIME:20130511T200000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weybridge Feast\, TODAY 5pm
+URL;VALUE=URI:http://middbeat.org/2013/05/12/weybridge-feast-today-5pm/
+UID:682-http://middbeat.org/2013/05/12/weybridge-feast-today-5pm/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130512T210000Z
+DTEND;VALUE=DATE-TIME:20130512T230000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Old Stone Mill Tenant Showcase TODAY
+URL;VALUE=URI:http://middbeat.org/2013/05/13/old-stone-mill-tenant-showcase-today/
+UID:684-http://middbeat.org/2013/05/13/old-stone-mill-tenant-showcase-today/
+DESCRIPTION:[by: pringles]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130513T083000Z
+DTEND;VALUE=DATE-TIME:20130513T103000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Old Stone Mill Tenant Showcase TODAY
+URL;VALUE=URI:http://middbeat.org/2013/05/13/old-stone-mill-tenant-showcase-today/
+UID:686-http://middbeat.org/2013/05/13/old-stone-mill-tenant-showcase-today/
+DESCRIPTION:[by: pringles]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130513T083000Z
+DTEND;VALUE=DATE-TIME:20130513T103000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Deal Lobster Dinner
+URL;VALUE=URI:http://middbeat.org/2013/05/13/real-deal-lobster-dinner/
+UID:688-http://middbeat.org/2013/05/13/real-deal-lobster-dinner/
+DESCRIPTION:[by: karebear]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130513T210000Z
+DTEND;VALUE=DATE-TIME:20130513T230000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Studio Art Show Monday (tonight) 7PM 
+URL;VALUE=URI:http://middbeat.org/2013/05/13/studio-art-show-monday-tonight-7pm/
+UID:691-http://middbeat.org/2013/05/13/studio-art-show-monday-tonight-7pm/
+DESCRIPTION:[by: turpentine]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130513T230000Z
+DTEND;VALUE=DATE-TIME:20130514T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mamajamas Final Concert SUNDAY 5/12
+URL;VALUE=URI:http://middbeat.org/2013/05/11/mamajamas-final-concert-sunday-512/
+UID:664-http://middbeat.org/2013/05/11/mamajamas-final-concert-sunday-512/
+DESCRIPTION:[by: wawaweewa]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130514T001500Z
+DTEND;VALUE=DATE-TIME:20130514T011500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HAMSTER BATTLE ON BATTELL TOMORROW 2PM
+URL;VALUE=URI:http://middbeat.org/2013/05/13/hamster-battle-on-battell-tomorrow-2pm/
+UID:694-http://middbeat.org/2013/05/13/hamster-battle-on-battell-tomorrow-2pm/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130514T180000Z
+DTEND;VALUE=DATE-TIME:20130514T190000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HOW DID YOU GET HERE SHOWCASE SNEAKPEAK
+URL;VALUE=URI:http://middbeat.org/2013/05/09/how-did-you-get-here-showcase-sneakpeak/
+UID:668-http://middbeat.org/2013/05/09/how-did-you-get-here-showcase-sneakpeak/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130514T210000Z
+DTEND;VALUE=DATE-TIME:20130514T230000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Studio Art Senior Show (right now!)
+URL;VALUE=URI:http://middbeat.org/2013/05/16/studio-art-senior-show-right-now/
+UID:700-http://middbeat.org/2013/05/16/studio-art-senior-show-right-now/
+DESCRIPTION:[by: turpentine]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130516T213000Z
+DTEND;VALUE=DATE-TIME:20130516T233000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Porter Yard Sale
+URL;VALUE=URI:http://middbeat.org/2013/05/18/porter-yard-sale/
+UID:702-http://middbeat.org/2013/05/18/porter-yard-sale/
+DESCRIPTION:[by: pringles]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130519T143000Z
+DTEND;VALUE=DATE-TIME:20130519T173000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Porter Yard Sale
+URL;VALUE=URI:http://middbeat.org/2013/05/18/porter-yard-sale/
+UID:704-http://middbeat.org/2013/05/18/porter-yard-sale/
+DESCRIPTION:[by: pringles]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130519T143000Z
+DTEND;VALUE=DATE-TIME:20130519T173000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Summer ZUMBA with Lindsey!
+URL;VALUE=URI:http://middbeat.org/2013/05/16/summer-zumba-with-lindsey/
+UID:696-http://middbeat.org/2013/05/16/summer-zumba-with-lindsey/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130618T163000Z
+DTEND;VALUE=DATE-TIME:20130618T173000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Summer ZUMBA with Lindsey!
+URL;VALUE=URI:http://middbeat.org/2013/05/16/summer-zumba-with-lindsey/
+UID:698-http://middbeat.org/2013/05/16/summer-zumba-with-lindsey/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130618T163000Z
+DTEND;VALUE=DATE-TIME:20130618T173000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Cappella Tryouts 
+URL;VALUE=URI:http://middbeat.org/2013/09/10/a-cappella-tryouts/
+UID:706-http://middbeat.org/2013/09/10/a-cappella-tryouts/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130910
+DTEND;VALUE=DATE:20130911
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wanna radio show?
+URL;VALUE=URI:http://middbeat.org/2013/09/11/wanna-radio-show/
+UID:708-http://middbeat.org/2013/09/11/wanna-radio-show/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130913T013000Z
+DTEND;VALUE=DATE-TIME:20130913T033000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Film Club Screening: Dead Ringers
+URL;VALUE=URI:http://middbeat.org/2013/09/12/film-club-screening-dead-ringers/
+UID:710-http://middbeat.org/2013/09/12/film-club-screening-dead-ringers/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130913T220000Z
+DTEND;VALUE=DATE-TIME:20130914T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blacklight/Glow Party in the Bunker Tonight
+URL;VALUE=URI:http://middbeat.org/2013/09/13/blacklightglow-party-in-the-bunker-tonight/
+UID:712-http://middbeat.org/2013/09/13/blacklightglow-party-in-the-bunker-tonight/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130914T020000Z
+DTEND;VALUE=DATE-TIME:20130914T050000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riddim Auditions
+URL;VALUE=URI:http://middbeat.org/2013/09/13/riddim-auditions/
+UID:716-http://middbeat.org/2013/09/13/riddim-auditions/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130914T140000Z
+DTEND;VALUE=DATE-TIME:20130914T180000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WOC & DMC Welcome Back BBQ 
+URL;VALUE=URI:http://middbeat.org/2013/09/14/woc-dmc-welcome-back-bbq/
+UID:718-http://middbeat.org/2013/09/14/woc-dmc-welcome-back-bbq/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130914T173000Z
+DTEND;VALUE=DATE-TIME:20130914T193000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WRMC's "The Campus Voice" Premieres Today w/ Media & Sexual Assault Discussion
+URL;VALUE=URI:http://middbeat.org/2013/09/15/wrmcs-the-campus-voice-premieres-today-w-media-sexual-assault-discussion/
+UID:720-http://middbeat.org/2013/09/15/wrmcs-the-campus-voice-premieres-today-w-media-sexual-assault-discussion/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130915T180000Z
+DTEND;VALUE=DATE-TIME:20130915T190000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women's Rugby Info Session
+URL;VALUE=URI:http://middbeat.org/2013/09/14/womens-rugby-info-session/
+UID:714-http://middbeat.org/2013/09/14/womens-rugby-info-session/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130915T233000Z
+DTEND;VALUE=DATE-TIME:20130916T013000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Activities Fair Today
+URL;VALUE=URI:http://middbeat.org/2013/09/16/activities-fair-today/
+UID:722-http://middbeat.org/2013/09/16/activities-fair-today/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130916T203000Z
+DTEND;VALUE=DATE-TIME:20130916T223000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Middlebury Debate Society Demo Round
+URL;VALUE=URI:http://middbeat.org/2013/09/16/middlebury-debate-society-demo-round/
+UID:724-http://middbeat.org/2013/09/16/middlebury-debate-society-demo-round/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130917T210000Z
+DTEND;VALUE=DATE-TIME:20130917T230000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MiddAction Fair (Get your volunteer on)
+URL;VALUE=URI:http://middbeat.org/2013/09/16/middaction-fair-get-your-volunteer-on/
+UID:726-http://middbeat.org/2013/09/16/middaction-fair-get-your-volunteer-on/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130917T220000Z
+DTEND;VALUE=DATE-TIME:20130918T000000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free tickets for Angelique Kidjo tonight at midnight
+URL;VALUE=URI:http://middbeat.org/2013/09/18/free-tickets-for-angelique-kidjo-tonight-at-midnight/
+UID:748-http://middbeat.org/2013/09/18/free-tickets-for-angelique-kidjo-tonight-at-midnight/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130918T040000Z
+DTEND;VALUE=DATE-TIME:20130919T050000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free tickets for Angelique Kidjo tonight at midnight
+URL;VALUE=URI:http://middbeat.org/2013/09/18/free-tickets-for-angelique-kidjo-tonight-at-midnight/
+UID:750-http://middbeat.org/2013/09/18/free-tickets-for-angelique-kidjo-tonight-at-midnight/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130918T040000Z
+DTEND;VALUE=DATE-TIME:20130919T050000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Midd Retreat (Applications Due Friday)
+URL;VALUE=URI:http://middbeat.org/2013/09/18/my-midd-retreat-applications-due-friday/
+UID:742-http://middbeat.org/2013/09/18/my-midd-retreat-applications-due-friday/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130918
+DTEND;VALUE=DATE:20130919
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Midd Retreat (Applications Due Friday)
+URL;VALUE=URI:http://middbeat.org/2013/09/18/my-midd-retreat-applications-due-friday/
+UID:743-http://middbeat.org/2013/09/18/my-midd-retreat-applications-due-friday/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130918
+DTEND;VALUE=DATE:20130919
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Midd Retreat (Applications Due Friday)
+URL;VALUE=URI:http://middbeat.org/2013/09/18/my-midd-retreat-applications-due-friday/
+UID:744-http://middbeat.org/2013/09/18/my-midd-retreat-applications-due-friday/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130918
+DTEND;VALUE=DATE:20130919
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Otter Nonsense Improv in Johnson
+URL;VALUE=URI:http://middbeat.org/2013/09/18/otter-nonsense-improv-in-johnson/
+UID:728-http://middbeat.org/2013/09/18/otter-nonsense-improv-in-johnson/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130919T020000Z
+DTEND;VALUE=DATE-TIME:20130920T015900Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Otter Nonsense Improv in Johnson
+URL;VALUE=URI:http://middbeat.org/2013/09/18/otter-nonsense-improv-in-johnson/
+UID:730-http://middbeat.org/2013/09/18/otter-nonsense-improv-in-johnson/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130919T020000Z
+DTEND;VALUE=DATE-TIME:20130920T015900Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DMC Disucssion on Patriotism
+URL;VALUE=URI:http://middbeat.org/2013/09/18/dmc-disucssion-on-patriotism/
+UID:746-http://middbeat.org/2013/09/18/dmc-disucssion-on-patriotism/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130919T230000Z
+DTEND;VALUE=DATE-TIME:20130920T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verbal Onslaught ft. Word Becomes Flesh
+URL;VALUE=URI:http://middbeat.org/2013/09/19/verbal-onslaught-ft-word-becomes-flesh/
+UID:752-http://middbeat.org/2013/09/19/verbal-onslaught-ft-word-becomes-flesh/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130920T010000Z
+DTEND;VALUE=DATE-TIME:20130920T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Audition for Hep Zoo Play 'Cock' 
+URL;VALUE=URI:http://middbeat.org/2013/09/19/audition-for-hep-zoo-play-cock/
+UID:754-http://middbeat.org/2013/09/19/audition-for-hep-zoo-play-cock/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130920T220000Z
+DTEND;VALUE=DATE-TIME:20130921T000000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Living Word Project: Word Becomes Flesh 
+URL;VALUE=URI:http://middbeat.org/2013/09/18/the-living-word-project-word-becomes-flesh/
+UID:733-http://middbeat.org/2013/09/18/the-living-word-project-word-becomes-flesh/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130921T000000Z
+DTEND;VALUE=DATE-TIME:20130921T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Living Word Project: Word Becomes Flesh 
+URL;VALUE=URI:http://middbeat.org/2013/09/18/the-living-word-project-word-becomes-flesh/
+UID:737-http://middbeat.org/2013/09/18/the-living-word-project-word-becomes-flesh/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130921T000000Z
+DTEND;VALUE=DATE-TIME:20130921T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Living Word Project: Word Becomes Flesh 
+URL;VALUE=URI:http://middbeat.org/2013/09/18/the-living-word-project-word-becomes-flesh/
+UID:734-http://middbeat.org/2013/09/18/the-living-word-project-word-becomes-flesh/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130922T000000Z
+DTEND;VALUE=DATE-TIME:20130922T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Living Word Project: Word Becomes Flesh 
+URL;VALUE=URI:http://middbeat.org/2013/09/18/the-living-word-project-word-becomes-flesh/
+UID:738-http://middbeat.org/2013/09/18/the-living-word-project-word-becomes-flesh/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130922T000000Z
+DTEND;VALUE=DATE-TIME:20130922T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screening: The House I Live In
+URL;VALUE=URI:http://middbeat.org/2013/09/21/screening-the-house-i-live-in/
+UID:756-http://middbeat.org/2013/09/21/screening-the-house-i-live-in/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130922T000000Z
+DTEND;VALUE=DATE-TIME:20130922T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screening: The House I Live In
+URL;VALUE=URI:http://middbeat.org/2013/09/21/screening-the-house-i-live-in/
+UID:758-http://middbeat.org/2013/09/21/screening-the-house-i-live-in/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130922T000000Z
+DTEND;VALUE=DATE-TIME:20130922T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last Chance for Student Exhibition 'Portraits: Power and Influence'
+URL;VALUE=URI:http://middbeat.org/2013/09/23/last-chance-for-student-exhibition-portraits-power-and-influence/
+UID:761-http://middbeat.org/2013/09/23/last-chance-for-student-exhibition-portraits-power-and-influence/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130923
+DTEND;VALUE=DATE:20130924
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Talk: Eugene Jarecki\, Director of 'The House I Live In'
+URL;VALUE=URI:http://middbeat.org/2013/09/23/talk-eugene-jarecki-director-of-the-house-i-live-in/
+UID:764-http://middbeat.org/2013/09/23/talk-eugene-jarecki-director-of-the-house-i-live-in/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130923T203000Z
+DTEND;VALUE=DATE-TIME:20130923T223000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last Chance for Student Exhibition 'Portraits: Power and Influence'
+URL;VALUE=URI:http://middbeat.org/2013/09/23/last-chance-for-student-exhibition-portraits-power-and-influence/
+UID:762-http://middbeat.org/2013/09/23/last-chance-for-student-exhibition-portraits-power-and-influence/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130924
+DTEND;VALUE=DATE:20130925
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clifford Symposium -  Translation in a Global Community: Theory and Practice
+URL;VALUE=URI:http://middbeat.org/2013/09/23/clifford-symposium-translation-in-a-global-community-theory-and-practice/
+UID:766-http://middbeat.org/2013/09/23/clifford-symposium-translation-in-a-global-community-theory-and-practice/
+DESCRIPTION:[by: zee]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130924
+DTEND;VALUE=DATE:20130929
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TONIGHT: QSH's 5th Birthday Dinner at Atwater
+URL;VALUE=URI:http://middbeat.org/2013/09/25/tonight-qshs-5th-birthday-dinner-at-atwater/
+UID:773-http://middbeat.org/2013/09/25/tonight-qshs-5th-birthday-dinner-at-atwater/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130925T220000Z
+DTEND;VALUE=DATE-TIME:20130925T233000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Film Club Screening: 'Seconds'
+URL;VALUE=URI:http://middbeat.org/2013/09/27/film-club-screening-seconds/
+UID:779-http://middbeat.org/2013/09/27/film-club-screening-seconds/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130927T233000Z
+DTEND;VALUE=DATE-TIME:20130928T013000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Film Club Screening: 'Seconds'
+URL;VALUE=URI:http://middbeat.org/2013/09/27/film-club-screening-seconds/
+UID:781-http://middbeat.org/2013/09/27/film-club-screening-seconds/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130927T233000Z
+DTEND;VALUE=DATE-TIME:20130928T013000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Film Club Screening: 'Seconds'
+URL;VALUE=URI:http://middbeat.org/2013/09/27/film-club-screening-seconds/
+UID:783-http://middbeat.org/2013/09/27/film-club-screening-seconds/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130927T233000Z
+DTEND;VALUE=DATE-TIME:20130928T013000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TOMORROW: Porter Stoop Sale
+URL;VALUE=URI:http://middbeat.org/2013/09/27/tomorrow-porter-stoop-sale/
+UID:775-http://middbeat.org/2013/09/27/tomorrow-porter-stoop-sale/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130928T160000Z
+DTEND;VALUE=DATE-TIME:20130928T200000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weybridge Feast: why you should go and why I'm already in line
+URL;VALUE=URI:http://middbeat.org/2013/09/24/weybridge-feast-why-you-should-go-why-im-already-in-line/
+UID:768-http://middbeat.org/2013/09/24/weybridge-feast-why-you-should-go-why-im-already-in-line/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20130928T200000Z
+DTEND;VALUE=DATE-TIME:20130928T220000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ride\, Roast & Rock to Support Addison Central Teens
+URL;VALUE=URI:http://middbeat.org/2013/09/27/ride-roast-rock-to-support-addison-cental-teens/
+UID:777-http://middbeat.org/2013/09/27/ride-roast-rock-to-support-addison-cental-teens/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20130928
+DTEND;VALUE=DATE:20130929
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angelique Kidjo\, "Queen of African Music"\, in Concert 10/3
+URL;VALUE=URI:http://middbeat.org/2013/09/30/angelique-kidjo-queen-of-african-music-in-concert-103/
+UID:787-http://middbeat.org/2013/09/30/angelique-kidjo-queen-of-african-music-in-concert-103/
+DESCRIPTION:[by: wawaweewa]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131002T203000Z
+DTEND;VALUE=DATE-TIME:20131002T220000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midd Alternative Break Trips (MAlt) Info Session
+URL;VALUE=URI:http://middbeat.org/2013/10/01/midd-alternative-break-trips-malt-info-session/
+UID:789-http://middbeat.org/2013/10/01/midd-alternative-break-trips-malt-info-session/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131002T220000Z
+DTEND;VALUE=DATE-TIME:20131003T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midd Alternative Break Trips (MAlt) Info Session
+URL;VALUE=URI:http://middbeat.org/2013/10/01/midd-alternative-break-trips-malt-info-session/
+UID:791-http://middbeat.org/2013/10/01/midd-alternative-break-trips-malt-info-session/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131002T220000Z
+DTEND;VALUE=DATE-TIME:20131003T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angelique Kidjo\, "Queen of African Music"\, in Concert 10/3
+URL;VALUE=URI:http://middbeat.org/2013/09/30/angelique-kidjo-queen-of-african-music-in-concert-103/
+UID:785-http://middbeat.org/2013/09/30/angelique-kidjo-queen-of-african-music-in-concert-103/
+DESCRIPTION:[by: wawaweewa]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131004T000000Z
+DTEND;VALUE=DATE-TIME:20131004T013000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cider-Making Day at Charter House's Nash Farm
+URL;VALUE=URI:http://middbeat.org/2013/10/05/cider-making-day-at-charter-houses-nash-farm/
+UID:793-http://middbeat.org/2013/10/05/cider-making-day-at-charter-houses-nash-farm/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131005T170000Z
+DTEND;VALUE=DATE-TIME:20131005T190000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAST CHANCE: TEDxMiddlebury Student Speaker Applications Due Tonight
+URL;VALUE=URI:http://middbeat.org/2013/10/07/last-chance-tedxmiddlebury-student-speaker-applications-due-tonight/
+UID:799-http://middbeat.org/2013/10/07/last-chance-tedxmiddlebury-student-speaker-applications-due-tonight/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20131007
+DTEND;VALUE=DATE:20131008
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAST CHANCE: TEDxMiddlebury Student Speaker Applications Due Tonight
+URL;VALUE=URI:http://middbeat.org/2013/10/07/last-chance-tedxmiddlebury-student-speaker-applications-due-tonight/
+UID:801-http://middbeat.org/2013/10/07/last-chance-tedxmiddlebury-student-speaker-applications-due-tonight/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20131007
+DTEND;VALUE=DATE:20131008
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAST CHANCE: TEDxMiddlebury Student Speaker Applications Due Tonight
+URL;VALUE=URI:http://middbeat.org/2013/10/07/last-chance-tedxmiddlebury-student-speaker-applications-due-tonight/
+UID:803-http://middbeat.org/2013/10/07/last-chance-tedxmiddlebury-student-speaker-applications-due-tonight/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20131007
+DTEND;VALUE=DATE:20131008
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LAST CHANCE: TEDxMiddlebury Student Speaker Applications Due Tonight
+URL;VALUE=URI:http://middbeat.org/2013/10/07/last-chance-tedxmiddlebury-student-speaker-applications-due-tonight/
+UID:805-http://middbeat.org/2013/10/07/last-chance-tedxmiddlebury-student-speaker-applications-due-tonight/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20131007
+DTEND;VALUE=DATE:20131008
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Time to Think! Balance\, Technology and Academic Life
+URL;VALUE=URI:http://middbeat.org/2013/10/07/no-time-to-think-balance-technology-and-academic-life/
+UID:797-http://middbeat.org/2013/10/07/no-time-to-think-balance-technology-and-academic-life/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131007T230000Z
+DTEND;VALUE=DATE-TIME:20131008T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learn to Brew Beer! (Middlebury Fermenters Guild)
+URL;VALUE=URI:http://middbeat.org/2013/10/11/learn-to-brew-beer-middlebury-fermenters-guild/
+UID:809-http://middbeat.org/2013/10/11/learn-to-brew-beer-middlebury-fermenters-guild/
+DESCRIPTION:[by: yeastczar]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131011T180000Z
+DTEND;VALUE=DATE-TIME:20131011T203000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:35th Annual Ward Prize Presentation in Twilight
+URL;VALUE=URI:http://middbeat.org/2013/10/11/35th-annaul-ward-prize-presentation-in-twilight/
+UID:817-http://middbeat.org/2013/10/11/35th-annaul-ward-prize-presentation-in-twilight/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131011T203000Z
+DTEND;VALUE=DATE-TIME:20131011T223000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:35th Annual Ward Prize Presentation in Twilight
+URL;VALUE=URI:http://middbeat.org/2013/10/11/35th-annaul-ward-prize-presentation-in-twilight/
+UID:819-http://middbeat.org/2013/10/11/35th-annaul-ward-prize-presentation-in-twilight/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131011T203000Z
+DTEND;VALUE=DATE-TIME:20131011T223000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:M Gallery Opening: Body Blueprint (TONIGHT!)
+URL;VALUE=URI:http://middbeat.org/2013/10/11/m-gallery-opening-body-blueprint-tonight/
+UID:811-http://middbeat.org/2013/10/11/m-gallery-opening-body-blueprint-tonight/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131011T210000Z
+DTEND;VALUE=DATE-TIME:20131011T230000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:M Gallery Opening: Body Blueprint (TONIGHT!)
+URL;VALUE=URI:http://middbeat.org/2013/10/11/m-gallery-opening-body-blueprint-tonight/
+UID:813-http://middbeat.org/2013/10/11/m-gallery-opening-body-blueprint-tonight/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131011T210000Z
+DTEND;VALUE=DATE-TIME:20131011T230000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:M Gallery Opening: Body Blueprint (TONIGHT!)
+URL;VALUE=URI:http://middbeat.org/2013/10/11/m-gallery-opening-body-blueprint-tonight/
+UID:815-http://middbeat.org/2013/10/11/m-gallery-opening-body-blueprint-tonight/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131011T210000Z
+DTEND;VALUE=DATE-TIME:20131011T230000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Snow Bowl Family Bash (10/12)
+URL;VALUE=URI:http://middbeat.org/2013/10/11/snow-bowl-family-bash-1012/
+UID:821-http://middbeat.org/2013/10/11/snow-bowl-family-bash-1012/
+DESCRIPTION:[by: petemurray]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131012T160000Z
+DTEND;VALUE=DATE-TIME:20131012T200000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midd Students at Vermont International Film Festival
+URL;VALUE=URI:http://middbeat.org/2013/10/12/midd-students-at-vermont-international-film-festival/
+UID:830-http://middbeat.org/2013/10/12/midd-students-at-vermont-international-film-festival/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131012T201500Z
+DTEND;VALUE=DATE-TIME:20131012T221500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midd Students at Vermont International Film Festival
+URL;VALUE=URI:http://middbeat.org/2013/10/12/midd-students-at-vermont-international-film-festival/
+UID:834-http://middbeat.org/2013/10/12/midd-students-at-vermont-international-film-festival/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131012T201500Z
+DTEND;VALUE=DATE-TIME:20131012T221500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midd Students at Vermont International Film Festival
+URL;VALUE=URI:http://middbeat.org/2013/10/12/midd-students-at-vermont-international-film-festival/
+UID:838-http://middbeat.org/2013/10/12/midd-students-at-vermont-international-film-festival/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131012T201500Z
+DTEND;VALUE=DATE-TIME:20131012T221500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Music in Munford: Caroline and the Good Night Sleeps
+URL;VALUE=URI:http://middbeat.org/2013/10/12/music-in-munford-caroline-and-the-good-night-sleeps/
+UID:823-http://middbeat.org/2013/10/12/music-in-munford-caroline-and-the-good-night-sleeps/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131013T003000Z
+DTEND;VALUE=DATE-TIME:20131013T033000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Music in Munford: Caroline and the Good Night Sleeps
+URL;VALUE=URI:http://middbeat.org/2013/10/12/music-in-munford-caroline-and-the-good-night-sleeps/
+UID:825-http://middbeat.org/2013/10/12/music-in-munford-caroline-and-the-good-night-sleeps/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131013T003000Z
+DTEND;VALUE=DATE-TIME:20131013T033000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Music in Munford: Caroline and the Good Night Sleeps
+URL;VALUE=URI:http://middbeat.org/2013/10/12/music-in-munford-caroline-and-the-good-night-sleeps/
+UID:827-http://middbeat.org/2013/10/12/music-in-munford-caroline-and-the-good-night-sleeps/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131013T003000Z
+DTEND;VALUE=DATE-TIME:20131013T033000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:This guy is kind of a big deal...
+URL;VALUE=URI:http://middbeat.org/2013/10/14/this-guy-is-kind-of-a-big-deal/
+UID:843-http://middbeat.org/2013/10/14/this-guy-is-kind-of-a-big-deal/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131014T203000Z
+DTEND;VALUE=DATE-TIME:20131014T223000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last Chance: JusTalks Facilitator Sign up
+URL;VALUE=URI:http://middbeat.org/2013/10/06/last-chance-justalks-facilitator-sign-up/
+UID:795-http://middbeat.org/2013/10/06/last-chance-justalks-facilitator-sign-up/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20131014
+DTEND;VALUE=DATE:20131015
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Homophobia at Middlebury: Are We Going to Talk About It?
+URL;VALUE=URI:http://middbeat.org/2013/10/14/homophobia-at-middlebury-are-we-going-to-talk-about-it/
+UID:841-http://middbeat.org/2013/10/14/homophobia-at-middlebury-are-we-going-to-talk-about-it/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131015T230000Z
+DTEND;VALUE=DATE-TIME:20131016T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:REMINDER: Q&A Discussion Today
+URL;VALUE=URI:http://middbeat.org/2013/10/15/reminder-qa-discussion-today/
+UID:845-http://middbeat.org/2013/10/15/reminder-qa-discussion-today/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131015T230000Z
+DTEND;VALUE=DATE-TIME:20131015T230000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midd Students at Vermont International Film Festival
+URL;VALUE=URI:http://middbeat.org/2013/10/12/midd-students-at-vermont-international-film-festival/
+UID:831-http://middbeat.org/2013/10/12/midd-students-at-vermont-international-film-festival/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131020T181500Z
+DTEND;VALUE=DATE-TIME:20131020T201500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midd Students at Vermont International Film Festival
+URL;VALUE=URI:http://middbeat.org/2013/10/12/midd-students-at-vermont-international-film-festival/
+UID:835-http://middbeat.org/2013/10/12/midd-students-at-vermont-international-film-festival/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131020T181500Z
+DTEND;VALUE=DATE-TIME:20131020T201500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midd Students at Vermont International Film Festival
+URL;VALUE=URI:http://middbeat.org/2013/10/12/midd-students-at-vermont-international-film-festival/
+UID:839-http://middbeat.org/2013/10/12/midd-students-at-vermont-international-film-festival/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131020T181500Z
+DTEND;VALUE=DATE-TIME:20131020T201500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Students Resisting TFA Meeting
+URL;VALUE=URI:http://middbeat.org/2013/10/16/students-resisting-tfa-meeting/
+UID:847-http://middbeat.org/2013/10/16/students-resisting-tfa-meeting/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131023T060000Z
+DTEND;VALUE=DATE-TIME:20131023T230000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Students Resisting TFA Meeting
+URL;VALUE=URI:http://middbeat.org/2013/10/16/students-resisting-tfa-meeting/
+UID:849-http://middbeat.org/2013/10/16/students-resisting-tfa-meeting/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131023T220000Z
+DTEND;VALUE=DATE-TIME:20131023T230000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atwater Dinner Tonight 6pm
+URL;VALUE=URI:http://middbeat.org/2013/10/23/atwater-dinner-tonight-6pm/
+UID:851-http://middbeat.org/2013/10/23/atwater-dinner-tonight-6pm/
+DESCRIPTION:[by: lieutenantthebrain]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131023T220000Z
+DTEND;VALUE=DATE-TIME:20131024T000000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:100% CHANCE TO GET MIDDLEBROW TICKETS (for tonight's show)
+URL;VALUE=URI:http://middbeat.org/2013/10/23/every-change-to-get-middlebrow-tickets-for-tonights-show/
+UID:853-http://middbeat.org/2013/10/23/every-change-to-get-middlebrow-tickets-for-tonights-show/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131024T013000Z
+DTEND;VALUE=DATE-TIME:20131024T013000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peter Savodnik '94: Why We Need a New Media Now\, and What It Will Look Like
+URL;VALUE=URI:http://middbeat.org/2013/10/24/peter-savodnik-94-why-we-need-a-new-media-now-and-what-it-will-look-like/
+UID:863-http://middbeat.org/2013/10/24/peter-savodnik-94-why-we-need-a-new-media-now-and-what-it-will-look-like/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131024T203000Z
+DTEND;VALUE=DATE-TIME:20131024T223000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venture for America Information Session
+URL;VALUE=URI:http://middbeat.org/2013/10/23/venture-for-america-information-session/
+UID:855-http://middbeat.org/2013/10/23/venture-for-america-information-session/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131024T230000Z
+DTEND;VALUE=DATE-TIME:20131025T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venture for America Information Session
+URL;VALUE=URI:http://middbeat.org/2013/10/23/venture-for-america-information-session/
+UID:857-http://middbeat.org/2013/10/23/venture-for-america-information-session/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131024T230000Z
+DTEND;VALUE=DATE-TIME:20131025T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Venture for America Information Session
+URL;VALUE=URI:http://middbeat.org/2013/10/23/venture-for-america-information-session/
+UID:859-http://middbeat.org/2013/10/23/venture-for-america-information-session/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131024T230000Z
+DTEND;VALUE=DATE-TIME:20131025T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Pearl Ball On Saturday
+URL;VALUE=URI:http://middbeat.org/2013/10/24/black-pearl-ball-on-saturday/
+UID:861-http://middbeat.org/2013/10/24/black-pearl-ball-on-saturday/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131026T040000Z
+DTEND;VALUE=DATE-TIME:20131027T060000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Comedy Central on Campus ft. Jermaine Fowler\, Rory Scovel\, and Nick Thune
+URL;VALUE=URI:http://middbeat.org/2013/10/26/comedy-central-on-campus-ft-jermaine-fowler-rory-scovel-and-nick-thune/
+UID:865-http://middbeat.org/2013/10/26/comedy-central-on-campus-ft-jermaine-fowler-rory-scovel-and-nick-thune/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131026T040000Z
+DTEND;VALUE=DATE-TIME:20131026T040000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WRMC presents homecoming 
+URL;VALUE=URI:http://middbeat.org/2013/10/26/wrmc-presents-homecoming/
+UID:867-http://middbeat.org/2013/10/26/wrmc-presents-homecoming/
+DESCRIPTION:[by: lieutenantthebrain]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131027T000000Z
+DTEND;VALUE=DATE-TIME:20131027T050000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Lecture) Ali Abunimah: Palestinians\, Israeli Jews\, and the One-State Solution
+URL;VALUE=URI:http://middbeat.org/2013/10/29/lecture-ali-abunimah-palestinians-israeli-jews-and-the-one-state-solution/
+UID:871-http://middbeat.org/2013/10/29/lecture-ali-abunimah-palestinians-israeli-jews-and-the-one-state-solution/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131029T203000Z
+DTEND;VALUE=DATE-TIME:20131029T223000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Lecture) Ali Abunimah: Palestinians\, Israeli Jews\, and the One-State Solution
+URL;VALUE=URI:http://middbeat.org/2013/10/29/lecture-ali-abunimah-palestinians-israeli-jews-and-the-one-state-solution/
+UID:873-http://middbeat.org/2013/10/29/lecture-ali-abunimah-palestinians-israeli-jews-and-the-one-state-solution/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131029T203000Z
+DTEND;VALUE=DATE-TIME:20131029T223000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Improv Performance Tuesday Night
+URL;VALUE=URI:http://middbeat.org/2013/10/29/improv-performance-tuesday-night/
+UID:869-http://middbeat.org/2013/10/29/improv-performance-tuesday-night/
+DESCRIPTION:[by: watts]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131030T030000Z
+DTEND;VALUE=DATE-TIME:20131030T033200Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Faculty Theater Production: Vinegar Tom
+URL;VALUE=URI:http://middbeat.org/2013/10/31/faculty-theater-production-vinegar-tom/
+UID:883-http://middbeat.org/2013/10/31/faculty-theater-production-vinegar-tom/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131101T010000Z
+DTEND;VALUE=DATE-TIME:20131101T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VACA Halloween Party: DARKPLACE at the Mill
+URL;VALUE=URI:http://middbeat.org/2013/11/01/vaca-halloween-party-darkplace-at-the-mill/
+UID:899-http://middbeat.org/2013/11/01/vaca-halloween-party-darkplace-at-the-mill/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131101T040000Z
+DTEND;VALUE=DATE-TIME:20131102T060000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The USA Women's National Hockey Team is Playing. HERE. TOMORROW. 
+URL;VALUE=URI:http://middbeat.org/2013/10/31/the-usa-womens-national-hockey-team-is-playing-here-tomorrow/
+UID:877-http://middbeat.org/2013/10/31/the-usa-womens-national-hockey-team-is-playing-here-tomorrow/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131101T160000Z
+DTEND;VALUE=DATE-TIME:20131101T160000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Faculty Theater Production: Vinegar Tom
+URL;VALUE=URI:http://middbeat.org/2013/10/31/faculty-theater-production-vinegar-tom/
+UID:884-http://middbeat.org/2013/10/31/faculty-theater-production-vinegar-tom/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131102T010000Z
+DTEND;VALUE=DATE-TIME:20131102T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Debate - Is Facebook good for individuals and society?
+URL;VALUE=URI:http://middbeat.org/2013/10/31/debate-is-facebook-good-for-individuals-and-society/
+UID:887-http://middbeat.org/2013/10/31/debate-is-facebook-good-for-individuals-and-society/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131102T200000Z
+DTEND;VALUE=DATE-TIME:20131102T220000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Faculty Theater Production: Vinegar Tom
+URL;VALUE=URI:http://middbeat.org/2013/10/31/faculty-theater-production-vinegar-tom/
+UID:885-http://middbeat.org/2013/10/31/faculty-theater-production-vinegar-tom/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131103T010000Z
+DTEND;VALUE=DATE-TIME:20131103T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chance The Rapper to Come to Middlebury
+URL;VALUE=URI:http://middbeat.org/2013/09/24/chance-the-rapper-to-come-to-middlebury/
+UID:771-http://middbeat.org/2013/09/24/chance-the-rapper-to-come-to-middlebury/
+DESCRIPTION:[by: watts]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20131102
+DTEND;VALUE=DATE:20131103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alpenglow at Higher Ground on Sunday
+URL;VALUE=URI:http://middbeat.org/2013/11/01/alpenglow-at-higher-ground-on-sunday/
+UID:889-http://middbeat.org/2013/11/01/alpenglow-at-higher-ground-on-sunday/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131104T010000Z
+DTEND;VALUE=DATE-TIME:20131104T040000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alpenglow at Higher Ground on Sunday
+URL;VALUE=URI:http://middbeat.org/2013/11/01/alpenglow-at-higher-ground-on-sunday/
+UID:891-http://middbeat.org/2013/11/01/alpenglow-at-higher-ground-on-sunday/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131104T010000Z
+DTEND;VALUE=DATE-TIME:20131104T040000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alpenglow at Higher Ground on Sunday
+URL;VALUE=URI:http://middbeat.org/2013/11/01/alpenglow-at-higher-ground-on-sunday/
+UID:893-http://middbeat.org/2013/11/01/alpenglow-at-higher-ground-on-sunday/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131104T010000Z
+DTEND;VALUE=DATE-TIME:20131104T040000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alpenglow at Higher Ground on Sunday
+URL;VALUE=URI:http://middbeat.org/2013/11/01/alpenglow-at-higher-ground-on-sunday/
+UID:895-http://middbeat.org/2013/11/01/alpenglow-at-higher-ground-on-sunday/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131104T010000Z
+DTEND;VALUE=DATE-TIME:20131104T040000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alpenglow at Higher Ground on Sunday
+URL;VALUE=URI:http://middbeat.org/2013/11/01/alpenglow-at-higher-ground-on-sunday/
+UID:897-http://middbeat.org/2013/11/01/alpenglow-at-higher-ground-on-sunday/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131104T010000Z
+DTEND;VALUE=DATE-TIME:20131104T040000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop Traffick's "Humans Not for Sale" Symposium Schedule
+URL;VALUE=URI:http://middbeat.org/2013/11/05/stop-trafficks-humans-not-for-sale-symposium-schedule/
+UID:903-http://middbeat.org/2013/11/05/stop-trafficks-humans-not-for-sale-symposium-schedule/
+DESCRIPTION:[by: cailey]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20131104
+DTEND;VALUE=DATE:20131105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Updated w/link to recording) "Unpacking Chance the Rapper" Forum
+URL;VALUE=URI:http://middbeat.org/2013/11/06/tonight-unpacking-chance-the-rapper-forum/
+UID:901-http://middbeat.org/2013/11/06/tonight-unpacking-chance-the-rapper-forum/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131105T000000Z
+DTEND;VALUE=DATE-TIME:20131105T013000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop Traffick's "Humans Not for Sale" Symposium Schedule
+URL;VALUE=URI:http://middbeat.org/2013/11/05/stop-trafficks-humans-not-for-sale-symposium-schedule/
+UID:924-http://middbeat.org/2013/11/05/stop-trafficks-humans-not-for-sale-symposium-schedule/
+DESCRIPTION:[by: cailey]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20131105
+DTEND;VALUE=DATE:20131106
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Improv Show Tonight: Otter Nonsense
+URL;VALUE=URI:http://middbeat.org/2013/11/06/improv-show-tonight-otter-nonsense/
+UID:913-http://middbeat.org/2013/11/06/improv-show-tonight-otter-nonsense/
+DESCRIPTION:[by: watts]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131106T053000Z
+DTEND;VALUE=DATE-TIME:20131106T053000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop Traffick's "Humans Not for Sale" Symposium Schedule
+URL;VALUE=URI:http://middbeat.org/2013/11/05/stop-trafficks-humans-not-for-sale-symposium-schedule/
+UID:925-http://middbeat.org/2013/11/05/stop-trafficks-humans-not-for-sale-symposium-schedule/
+DESCRIPTION:[by: cailey]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20131106
+DTEND;VALUE=DATE:20131107
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TOMORROW\, 11/6: "Hip-Hop: Beyond Beats and Rhymes" Screening
+URL;VALUE=URI:http://middbeat.org/2013/10/29/tomorrow-1030-hip-hop-beyond-beats-and-rhymes-screening/
+UID:875-http://middbeat.org/2013/10/29/tomorrow-1030-hip-hop-beyond-beats-and-rhymes-screening/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131107T000000Z
+DTEND;VALUE=DATE-TIME:20131107T013000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop Traffick's "Humans Not for Sale" Symposium Schedule
+URL;VALUE=URI:http://middbeat.org/2013/11/05/stop-trafficks-humans-not-for-sale-symposium-schedule/
+UID:926-http://middbeat.org/2013/11/05/stop-trafficks-humans-not-for-sale-symposium-schedule/
+DESCRIPTION:[by: cailey]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20131107
+DTEND;VALUE=DATE:20131108
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:World Renowned Artist and Designer Speaking at Middlebury and It's Going to Be Amazing
+URL;VALUE=URI:http://middbeat.org/2013/11/07/world-renowned-artist-and-designer-speaking-at-middlebury-and-its-going-to-be-amazing/
+UID:915-http://middbeat.org/2013/11/07/world-renowned-artist-and-designer-speaking-at-middlebury-and-its-going-to-be-amazing/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131108T000000Z
+DTEND;VALUE=DATE-TIME:20131108T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:World Renowned Artist and Designer Speaking at Middlebury and It's Going to Be Amazing
+URL;VALUE=URI:http://middbeat.org/2013/11/07/world-renowned-artist-and-designer-speaking-at-middlebury-and-its-going-to-be-amazing/
+UID:917-http://middbeat.org/2013/11/07/world-renowned-artist-and-designer-speaking-at-middlebury-and-its-going-to-be-amazing/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131108T000000Z
+DTEND;VALUE=DATE-TIME:20131108T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:World Renowned Artist and Designer Speaking at Middlebury and It's Going to Be Amazing
+URL;VALUE=URI:http://middbeat.org/2013/11/07/world-renowned-artist-and-designer-speaking-at-middlebury-and-its-going-to-be-amazing/
+UID:919-http://middbeat.org/2013/11/07/world-renowned-artist-and-designer-speaking-at-middlebury-and-its-going-to-be-amazing/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131108T000000Z
+DTEND;VALUE=DATE-TIME:20131108T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hepburn Zoo Play: 'Cock'
+URL;VALUE=URI:http://middbeat.org/2013/11/06/hepburn-zoo-play-cock/
+UID:908-http://middbeat.org/2013/11/06/hepburn-zoo-play-cock/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131108T010000Z
+DTEND;VALUE=DATE-TIME:20131108T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gamut Room Presents: Bring It All Back Home
+URL;VALUE=URI:http://middbeat.org/2013/11/08/gamut-room-presents-bring-it-all-back-home/
+UID:931-http://middbeat.org/2013/11/08/gamut-room-presents-bring-it-all-back-home/
+DESCRIPTION:[by: mitchito12]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131108T050000Z
+DTEND;VALUE=DATE-TIME:20131109T040000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hepburn Zoo Play: 'Cock'
+URL;VALUE=URI:http://middbeat.org/2013/11/06/hepburn-zoo-play-cock/
+UID:911-http://middbeat.org/2013/11/06/hepburn-zoo-play-cock/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131108T053000Z
+DTEND;VALUE=DATE-TIME:20131108T053000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop Traffick's "Humans Not for Sale" Symposium Schedule
+URL;VALUE=URI:http://middbeat.org/2013/11/05/stop-trafficks-humans-not-for-sale-symposium-schedule/
+UID:927-http://middbeat.org/2013/11/05/stop-trafficks-humans-not-for-sale-symposium-schedule/
+DESCRIPTION:[by: cailey]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20131108
+DTEND;VALUE=DATE:20131109
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Middentity: Intersectionality of Identity (Panel and Discussion)
+URL;VALUE=URI:http://middbeat.org/2013/11/07/middentity-intersectionality-of-identity-panel-and-discussion/
+UID:929-http://middbeat.org/2013/11/07/middentity-intersectionality-of-identity-panel-and-discussion/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131108T223000Z
+DTEND;VALUE=DATE-TIME:20131109T000000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hepburn Zoo Play: 'Cock'
+URL;VALUE=URI:http://middbeat.org/2013/11/06/hepburn-zoo-play-cock/
+UID:909-http://middbeat.org/2013/11/06/hepburn-zoo-play-cock/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131109T010000Z
+DTEND;VALUE=DATE-TIME:20131109T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(UPDATE: Lineup Released) TEDxMiddlebury tickets are on sale!
+URL;VALUE=URI:http://middbeat.org/2013/10/31/tedxmiddlebury-tickets-are-on-sale-now/
+UID:879-http://middbeat.org/2013/10/31/tedxmiddlebury-tickets-are-on-sale-now/
+DESCRIPTION:[by: zee]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131109T150000Z
+DTEND;VALUE=DATE-TIME:20131109T203000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Don't Miss TEDxMiddlebury: Saturday 10am-4pm
+URL;VALUE=URI:http://middbeat.org/2013/11/09/dont-miss-tedx-midd-saturday-10-4/
+UID:933-http://middbeat.org/2013/11/09/dont-miss-tedx-midd-saturday-10-4/
+DESCRIPTION:[by: tutankhamen]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131109T150000Z
+DTEND;VALUE=DATE-TIME:20131109T210000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hepburn Zoo Play: 'Cock'
+URL;VALUE=URI:http://middbeat.org/2013/11/06/hepburn-zoo-play-cock/
+UID:910-http://middbeat.org/2013/11/06/hepburn-zoo-play-cock/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131110T010000Z
+DTEND;VALUE=DATE-TIME:20131110T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alchemistry pHun! An Exciting Demonstration of Chemical Experiments
+URL;VALUE=URI:http://middbeat.org/2013/11/13/alchemistry-phun-an-exciting-demonstration-of-chemical-experiments/
+UID:937-http://middbeat.org/2013/11/13/alchemistry-phun-an-exciting-demonstration-of-chemical-experiments/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131113T233000Z
+DTEND;VALUE=DATE-TIME:20131114T013000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Middlebury Moth: Burning Bridges (Tonight)
+URL;VALUE=URI:http://middbeat.org/2013/11/14/middlebury-moth-burning-bridges-tonight/
+UID:941-http://middbeat.org/2013/11/14/middlebury-moth-burning-bridges-tonight/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131114T050000Z
+DTEND;VALUE=DATE-TIME:20131115T040000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Invisible War Screening
+URL;VALUE=URI:http://middbeat.org/2013/11/13/the-invisible-war-screening/
+UID:939-http://middbeat.org/2013/11/13/the-invisible-war-screening/
+DESCRIPTION:[by: zee]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131115T000000Z
+DTEND;VALUE=DATE-TIME:20131115T000000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Big Sports Weekend Nov. 15-17
+URL;VALUE=URI:http://middbeat.org/2013/11/15/big-sports-weekend-nov-15-17/
+UID:947-http://middbeat.org/2013/11/15/big-sports-weekend-nov-15-17/
+DESCRIPTION:[by: mitchito12]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20131115
+DTEND;VALUE=DATE:20131116
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tour de Fracked (Protest Bike Ride)
+URL;VALUE=URI:http://middbeat.org/2013/11/15/tour-de-fracked-protest-bike-ride/
+UID:951-http://middbeat.org/2013/11/15/tour-de-fracked-protest-bike-ride/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131116T160000Z
+DTEND;VALUE=DATE-TIME:20131116T190000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Big Sports Weekend Nov. 15-17
+URL;VALUE=URI:http://middbeat.org/2013/11/15/big-sports-weekend-nov-15-17/
+UID:948-http://middbeat.org/2013/11/15/big-sports-weekend-nov-15-17/
+DESCRIPTION:[by: mitchito12]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20131116
+DTEND;VALUE=DATE:20131117
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An Evening of (student) Art (ft. Alpenglow and student artists)
+URL;VALUE=URI:http://middbeat.org/2013/11/15/an-evening-of-student-art-ft-alpenglow-and-student-artists/
+UID:943-http://middbeat.org/2013/11/15/an-evening-of-student-art-ft-alpenglow-and-student-artists/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131117T010000Z
+DTEND;VALUE=DATE-TIME:20131117T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Night of Spoken Word
+URL;VALUE=URI:http://middbeat.org/2013/11/16/a-night-of-spoken-word/
+UID:953-http://middbeat.org/2013/11/16/a-night-of-spoken-word/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131117T013000Z
+DTEND;VALUE=DATE-TIME:20131117T033000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Big Sports Weekend Nov. 15-17
+URL;VALUE=URI:http://middbeat.org/2013/11/15/big-sports-weekend-nov-15-17/
+UID:949-http://middbeat.org/2013/11/15/big-sports-weekend-nov-15-17/
+DESCRIPTION:[by: mitchito12]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20131117
+DTEND;VALUE=DATE:20131118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAlt Dominican Republic Atwater Dinner
+URL;VALUE=URI:http://middbeat.org/2013/11/19/malt-dominican-republic-atwater-dinner/
+UID:959-http://middbeat.org/2013/11/19/malt-dominican-republic-atwater-dinner/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131119T230000Z
+DTEND;VALUE=DATE-TIME:20131120T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Talk: Jay Michaelson--Queer Jewish Scholar and Activist
+URL;VALUE=URI:http://middbeat.org/2013/11/21/talk-jay-michaelson-queer-jewish-scholar-and-activist/
+UID:961-http://middbeat.org/2013/11/21/talk-jay-michaelson-queer-jewish-scholar-and-activist/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20131121
+DTEND;VALUE=DATE:20131122
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black People are Lazy\, and Gays are Bad Parents? (updated w/audio) 
+URL;VALUE=URI:http://middbeat.org/2013/11/21/today-black-people-are-lazy-and-gays-are-bad-parents/
+UID:965-http://middbeat.org/2013/11/21/today-black-people-are-lazy-and-gays-are-bad-parents/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131121T213000Z
+DTEND;VALUE=DATE-TIME:20131121T213000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:M Gallery Opening: WE DIDN'T KNOW WE WERE FEMINISTS
+URL;VALUE=URI:http://middbeat.org/2013/11/21/m-gallery-we-didnt-know-we-were-feminists/
+UID:955-http://middbeat.org/2013/11/21/m-gallery-we-didnt-know-we-were-feminists/
+DESCRIPTION:[by: lucious]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131121T220000Z
+DTEND;VALUE=DATE-TIME:20131122T000000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:M Gallery Opening: WE DIDN'T KNOW WE WERE FEMINISTS
+URL;VALUE=URI:http://middbeat.org/2013/11/21/m-gallery-we-didnt-know-we-were-feminists/
+UID:957-http://middbeat.org/2013/11/21/m-gallery-we-didnt-know-we-were-feminists/
+DESCRIPTION:[by: lucious]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131121T220000Z
+DTEND;VALUE=DATE-TIME:20131122T000000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New England Review Reading @ Carol's
+URL;VALUE=URI:http://middbeat.org/2013/11/21/new-england-review-reading-series/
+UID:963-http://middbeat.org/2013/11/21/new-england-review-reading-series/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131122T000000Z
+DTEND;VALUE=DATE-TIME:20131122T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5 Reasons to go to the CFA This Weekend
+URL;VALUE=URI:http://middbeat.org/2013/11/22/5-reasons-to-go-to-the-cfa-this-weekend/
+UID:975-http://middbeat.org/2013/11/22/5-reasons-to-go-to-the-cfa-this-weekend/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20131122
+DTEND;VALUE=DATE:20131123
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joint Islamic New Year + Diwali Atwater Dinner
+URL;VALUE=URI:http://middbeat.org/2013/11/22/joint-islamic-new-year-diwali-atwater-dinner/
+UID:967-http://middbeat.org/2013/11/22/joint-islamic-new-year-diwali-atwater-dinner/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131122T233000Z
+DTEND;VALUE=DATE-TIME:20131123T013000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Pentecost" a Thought-Provoking and Fascinating Production 
+URL;VALUE=URI:http://middbeat.org/2013/11/22/pentecost-a-thought-provoking-and-fascinating-production/
+UID:970-http://middbeat.org/2013/11/22/pentecost-a-thought-provoking-and-fascinating-production/
+DESCRIPTION:[by: the_iguana]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131123T003000Z
+DTEND;VALUE=DATE-TIME:20131123T033000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5 Reasons to go to the CFA This Weekend
+URL;VALUE=URI:http://middbeat.org/2013/11/22/5-reasons-to-go-to-the-cfa-this-weekend/
+UID:976-http://middbeat.org/2013/11/22/5-reasons-to-go-to-the-cfa-this-weekend/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20131123
+DTEND;VALUE=DATE:20131124
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Pentecost" a Thought-Provoking and Fascinating Production 
+URL;VALUE=URI:http://middbeat.org/2013/11/22/pentecost-a-thought-provoking-and-fascinating-production/
+UID:971-http://middbeat.org/2013/11/22/pentecost-a-thought-provoking-and-fascinating-production/
+DESCRIPTION:[by: the_iguana]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131124T003000Z
+DTEND;VALUE=DATE-TIME:20131124T023000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5 Reasons to go to the CFA This Weekend
+URL;VALUE=URI:http://middbeat.org/2013/11/22/5-reasons-to-go-to-the-cfa-this-weekend/
+UID:977-http://middbeat.org/2013/11/22/5-reasons-to-go-to-the-cfa-this-weekend/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20131124
+DTEND;VALUE=DATE:20131125
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Riddim Tickets on sale at MIDNIGHT Tonight
+URL;VALUE=URI:http://middbeat.org/2013/11/24/riddim-tickets-on-sale-at-midnight-tonight/
+UID:981-http://middbeat.org/2013/11/24/riddim-tickets-on-sale-at-midnight-tonight/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131125T050100Z
+DTEND;VALUE=DATE-TIME:20131125T050100Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First Years and Sophomore Febs: Last Chance to Sign Up For JusTalks
+URL;VALUE=URI:http://middbeat.org/2013/11/23/first-years-and-sophomore-febs-last-chance-to-sign-up-for-justalks/
+UID:979-http://middbeat.org/2013/11/23/first-years-and-sophomore-febs-last-chance-to-sign-up-for-justalks/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20131125
+DTEND;VALUE=DATE:20131126
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FMMC Fall Film Screening 
+URL;VALUE=URI:http://middbeat.org/2013/12/03/fmmc-fall-film-screening/
+UID:983-http://middbeat.org/2013/12/03/fmmc-fall-film-screening/
+DESCRIPTION:[by: zee]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131205T003000Z
+DTEND;VALUE=DATE-TIME:20131205T023000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Middlebury Students for Sensible Drug Policy Meeting
+URL;VALUE=URI:http://middbeat.org/2013/12/04/middlebury-students-for-sensible-drug-policy-meeting/
+UID:985-http://middbeat.org/2013/12/04/middlebury-students-for-sensible-drug-policy-meeting/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131205T220000Z
+DTEND;VALUE=DATE-TIME:20131206T000000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tickets on sale for Senior Thesis Dance Concert
+URL;VALUE=URI:http://middbeat.org/2013/11/12/tickets-on-sale-for-senior-thesis-dance-concert/
+UID:935-http://middbeat.org/2013/11/12/tickets-on-sale-for-senior-thesis-dance-concert/
+DESCRIPTION:[by: cailey]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131206T010000Z
+DTEND;VALUE=DATE-TIME:20131207T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Don't Miss These Weekend Events
+URL;VALUE=URI:http://middbeat.org/2013/12/05/dont-miss-these-weekend-events/
+UID:987-http://middbeat.org/2013/12/05/dont-miss-these-weekend-events/
+DESCRIPTION:[by: tutankhamen]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20131205
+DTEND;VALUE=DATE:20131208
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TONIGHT: The Holly Ball
+URL;VALUE=URI:http://middbeat.org/2013/12/07/tonight-the-holly-ball/
+UID:989-http://middbeat.org/2013/12/07/tonight-the-holly-ball/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131208T030000Z
+DTEND;VALUE=DATE-TIME:20131208T070000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TONIGHT: Latkes at Crossroads
+URL;VALUE=URI:http://middbeat.org/2013/12/08/tonight-latkes-at-crossroads/
+UID:991-http://middbeat.org/2013/12/08/tonight-latkes-at-crossroads/
+DESCRIPTION:[by: th3littleone]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131208T223000Z
+DTEND;VALUE=DATE-TIME:20131209T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TONIGHT: Latkes at Crossroads
+URL;VALUE=URI:http://middbeat.org/2013/12/08/tonight-latkes-at-crossroads/
+UID:993-http://middbeat.org/2013/12/08/tonight-latkes-at-crossroads/
+DESCRIPTION:[by: th3littleone]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131208T223000Z
+DTEND;VALUE=DATE-TIME:20131209T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Otter Nonsense Tonight! 
+URL;VALUE=URI:http://middbeat.org/2013/12/08/5616/
+UID:995-http://middbeat.org/2013/12/08/5616/
+DESCRIPTION:[by: zee]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131209T033000Z
+DTEND;VALUE=DATE-TIME:20131209T033000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Middlebrow\, Fine Al Show of the Semester TONIGHT\, 10
+URL;VALUE=URI:http://middbeat.org/2013/12/10/middlebrow-fine-al-show-of-the-semester-tonight-10/
+UID:997-http://middbeat.org/2013/12/10/middlebrow-fine-al-show-of-the-semester-tonight-10/
+DESCRIPTION:[by: watts]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20131211T030000Z
+DTEND;VALUE=DATE-TIME:20131211T034000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Angela Davis in Mead Chapel\, Tonight
+URL;VALUE=URI:http://middbeat.org/2014/01/09/angela-davis-in-mead-chapel-tonight/
+UID:999-http://middbeat.org/2014/01/09/angela-davis-in-mead-chapel-tonight/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140110T000000Z
+DTEND;VALUE=DATE-TIME:20140110T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mamajamas at Crossroads\, Tonight
+URL;VALUE=URI:http://middbeat.org/2014/01/10/mamajamas-at-crossroads-tonight/
+UID:1001-http://middbeat.org/2014/01/10/mamajamas-at-crossroads-tonight/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140111T013000Z
+DTEND;VALUE=DATE-TIME:20140215T023000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mamajamas at Crossroads\, Tonight
+URL;VALUE=URI:http://middbeat.org/2014/01/10/mamajamas-at-crossroads-tonight/
+UID:1003-http://middbeat.org/2014/01/10/mamajamas-at-crossroads-tonight/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140111T013000Z
+DTEND;VALUE=DATE-TIME:20140215T023000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mamajamas at Crossroads\, Tonight
+URL;VALUE=URI:http://middbeat.org/2014/01/10/mamajamas-at-crossroads-tonight/
+UID:1005-http://middbeat.org/2014/01/10/mamajamas-at-crossroads-tonight/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140111T013000Z
+DTEND;VALUE=DATE-TIME:20140215T023000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mamajamas at Crossroads\, Tonight
+URL;VALUE=URI:http://middbeat.org/2014/01/10/mamajamas-at-crossroads-tonight/
+UID:1007-http://middbeat.org/2014/01/10/mamajamas-at-crossroads-tonight/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140111T013000Z
+DTEND;VALUE=DATE-TIME:20140215T023000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dena Simmons '05 On How To Be Successful
+URL;VALUE=URI:http://middbeat.org/2014/01/12/dena-simmons-05-on-how-to-be-successful/
+UID:1011-http://middbeat.org/2014/01/12/dena-simmons-05-on-how-to-be-successful/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140113T190000Z
+DTEND;VALUE=DATE-TIME:20140113T210000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dena Simmons '05 On How To Be Successful
+URL;VALUE=URI:http://middbeat.org/2014/01/12/dena-simmons-05-on-how-to-be-successful/
+UID:1013-http://middbeat.org/2014/01/12/dena-simmons-05-on-how-to-be-successful/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140113T190000Z
+DTEND;VALUE=DATE-TIME:20140113T210000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dena Simmons '05 On How To Be Successful
+URL;VALUE=URI:http://middbeat.org/2014/01/12/dena-simmons-05-on-how-to-be-successful/
+UID:1015-http://middbeat.org/2014/01/12/dena-simmons-05-on-how-to-be-successful/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140113T190000Z
+DTEND;VALUE=DATE-TIME:20140113T210000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screening and Discussion: 'United We Ski'
+URL;VALUE=URI:http://middbeat.org/2014/01/13/screening-and-discussion-united-we-ski/
+UID:1017-http://middbeat.org/2014/01/13/screening-and-discussion-united-we-ski/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140115T003000Z
+DTEND;VALUE=DATE-TIME:20140115T023000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screening and Discussion: 'United We Ski'
+URL;VALUE=URI:http://middbeat.org/2014/01/13/screening-and-discussion-united-we-ski/
+UID:1019-http://middbeat.org/2014/01/13/screening-and-discussion-united-we-ski/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140115T003000Z
+DTEND;VALUE=DATE-TIME:20140115T023000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screening and Panel Discussion: 'Pandora's Promise'
+URL;VALUE=URI:http://middbeat.org/2014/01/15/screening-and-panel-discussion-pandoras-promise/
+UID:1023-http://middbeat.org/2014/01/15/screening-and-panel-discussion-pandoras-promise/
+DESCRIPTION:[by: orangepeel]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140116T200000Z
+DTEND;VALUE=DATE-TIME:20140116T223000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE SWEET REMAINS\, MCAB Small Concert Series\, Tonight
+URL;VALUE=URI:http://middbeat.org/2014/01/16/the-sweet-remains-mcab-small-concert-series-tonight/
+UID:1025-http://middbeat.org/2014/01/16/the-sweet-remains-mcab-small-concert-series-tonight/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140117T010000Z
+DTEND;VALUE=DATE-TIME:20140117T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THE SWEET REMAINS\, MCAB Small Concert Series\, Tonight
+URL;VALUE=URI:http://middbeat.org/2014/01/16/the-sweet-remains-mcab-small-concert-series-tonight/
+UID:1027-http://middbeat.org/2014/01/16/the-sweet-remains-mcab-small-concert-series-tonight/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140117T010000Z
+DTEND;VALUE=DATE-TIME:20140117T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poetry Reading and Conversation with John Elder at Munford
+URL;VALUE=URI:http://middbeat.org/2014/01/16/poetry-reading-and-conversation-with-john-elder-at-munford/
+UID:1029-http://middbeat.org/2014/01/16/poetry-reading-and-conversation-with-john-elder-at-munford/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140117T210000Z
+DTEND;VALUE=DATE-TIME:20140117T210000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poetry Reading and Conversation with John Elder at Munford
+URL;VALUE=URI:http://middbeat.org/2014/01/16/poetry-reading-and-conversation-with-john-elder-at-munford/
+UID:1031-http://middbeat.org/2014/01/16/poetry-reading-and-conversation-with-john-elder-at-munford/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140117T210000Z
+DTEND;VALUE=DATE-TIME:20140117T210000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poetry Reading and Conversation with John Elder at Munford
+URL;VALUE=URI:http://middbeat.org/2014/01/16/poetry-reading-and-conversation-with-john-elder-at-munford/
+UID:1033-http://middbeat.org/2014/01/16/poetry-reading-and-conversation-with-john-elder-at-munford/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140117T210000Z
+DTEND;VALUE=DATE-TIME:20140117T210000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dance Marathon\, Today All Day
+URL;VALUE=URI:http://middbeat.org/2014/01/18/dance-marathon-today-all-day/
+UID:1035-http://middbeat.org/2014/01/18/dance-marathon-today-all-day/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140118T210000Z
+DTEND;VALUE=DATE-TIME:20140119T070000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dance Marathon\, Today All Day
+URL;VALUE=URI:http://middbeat.org/2014/01/18/dance-marathon-today-all-day/
+UID:1037-http://middbeat.org/2014/01/18/dance-marathon-today-all-day/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140118T210000Z
+DTEND;VALUE=DATE-TIME:20140119T070000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dance Marathon\, Today All Day
+URL;VALUE=URI:http://middbeat.org/2014/01/18/dance-marathon-today-all-day/
+UID:1039-http://middbeat.org/2014/01/18/dance-marathon-today-all-day/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140118T210000Z
+DTEND;VALUE=DATE-TIME:20140119T070000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Martin Luther King Day Oratorio\, Tonight
+URL;VALUE=URI:http://middbeat.org/2014/01/20/martin-luther-king-day-oratorio-tonight/
+UID:1045-http://middbeat.org/2014/01/20/martin-luther-king-day-oratorio-tonight/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140121T000000Z
+DTEND;VALUE=DATE-TIME:20140121T011500Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Interference: When Masculinity and Being Gay Collide: Wade Davis former NFL Cornerback
+URL;VALUE=URI:http://middbeat.org/2014/01/20/interference-when-masculinity-and-being-gay-collide-wade-davis-former-nfl-cornerback/
+UID:1047-http://middbeat.org/2014/01/20/interference-when-masculinity-and-being-gay-collide-wade-davis-former-nfl-cornerback/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140121T000000Z
+DTEND;VALUE=DATE-TIME:20140121T013000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:'It Happens Here'\, TONIGHT
+URL;VALUE=URI:http://middbeat.org/2014/01/20/it-happens-here-tonight/
+UID:1043-http://middbeat.org/2014/01/20/it-happens-here-tonight/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140121T013000Z
+DTEND;VALUE=DATE-TIME:20140121T033000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atwater Dinner Tonight: Sunlight Theme
+URL;VALUE=URI:http://middbeat.org/2014/01/21/atwater-dinner-tonight-sunlight-theme/
+UID:1051-http://middbeat.org/2014/01/21/atwater-dinner-tonight-sunlight-theme/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140121T210000Z
+DTEND;VALUE=DATE-TIME:20140121T210000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Califra Concert in the Gamut Room\, Tonight
+URL;VALUE=URI:http://middbeat.org/2014/01/21/califra-concert-in-the-gamut-room-tonight/
+UID:1053-http://middbeat.org/2014/01/21/califra-concert-in-the-gamut-room-tonight/
+DESCRIPTION:[by: watts]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140122T020000Z
+DTEND;VALUE=DATE-TIME:20140122T030000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Author Mitchell Jackson on Campus\, Today
+URL;VALUE=URI:http://middbeat.org/2014/01/22/author-mitchell-jackson-on-campus-today/
+UID:1055-http://middbeat.org/2014/01/22/author-mitchell-jackson-on-campus-today/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140122T173000Z
+DTEND;VALUE=DATE-TIME:20140122T230000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Author Mitchell Jackson on Campus\, Today
+URL;VALUE=URI:http://middbeat.org/2014/01/22/author-mitchell-jackson-on-campus-today/
+UID:1057-http://middbeat.org/2014/01/22/author-mitchell-jackson-on-campus-today/
+DESCRIPTION:[by: leahfessler]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140122T173000Z
+DTEND;VALUE=DATE-TIME:20140122T230000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Middlebury in the 60s: Student Resistance and Social Change
+URL;VALUE=URI:http://middbeat.org/2014/01/21/middlebury-in-the-60s-student-resistance-and-social-change/
+UID:1041-http://middbeat.org/2014/01/21/middlebury-in-the-60s-student-resistance-and-social-change/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140123T000000Z
+DTEND;VALUE=DATE-TIME:20140123T020000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Middlebrow Improv Comedy Tonight!
+URL;VALUE=URI:http://middbeat.org/2014/01/22/middlebrow-improv-comedy-tonight/
+UID:1059-http://middbeat.org/2014/01/22/middlebrow-improv-comedy-tonight/
+DESCRIPTION:[by: watts]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140123T030000Z
+DTEND;VALUE=DATE-TIME:20140123T033600Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Isabelle Faust\, Violin and Alexander Melnikov\, Piano\, Tonight
+URL;VALUE=URI:http://middbeat.org/2014/01/23/isabelle-faust-violin-and-alexander-melnikov-piano-tonight/
+UID:1061-http://middbeat.org/2014/01/23/isabelle-faust-violin-and-alexander-melnikov-piano-tonight/
+DESCRIPTION:[by: orangepeel]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140124T003000Z
+DTEND;VALUE=DATE-TIME:20140124T023000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Middlebury Center for Social Entrepreneurship - Google Hangouts
+URL;VALUE=URI:http://middbeat.org/2014/01/21/middlebury-center-for-social-entrepreneurship-google-hangouts/
+UID:1049-http://middbeat.org/2014/01/21/middlebury-center-for-social-entrepreneurship-google-hangouts/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20140124
+DTEND;VALUE=DATE:20140125
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midd Safe Launch Event Tonight 
+URL;VALUE=URI:http://middbeat.org/2014/01/24/midd-safe-launch-event-tonight/
+UID:1063-http://middbeat.org/2014/01/24/midd-safe-launch-event-tonight/
+DESCRIPTION:[by: tutankhamen]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140125T000000Z
+DTEND;VALUE=DATE-TIME:20140125T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midd Safe Launch Event Tonight 
+URL;VALUE=URI:http://middbeat.org/2014/01/24/midd-safe-launch-event-tonight/
+UID:1065-http://middbeat.org/2014/01/24/midd-safe-launch-event-tonight/
+DESCRIPTION:[by: tutankhamen]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140125T000000Z
+DTEND;VALUE=DATE-TIME:20140125T010000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Otter Nonsense Improv Comedy Tonight: Benay's Farewell
+URL;VALUE=URI:http://middbeat.org/2014/01/27/otter-nonsense-tonight-benays-farewell/
+UID:1069-http://middbeat.org/2014/01/27/otter-nonsense-tonight-benays-farewell/
+DESCRIPTION:[by: tutankhamen]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140128T013000Z
+DTEND;VALUE=DATE-TIME:20140128T023000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Otter Nonsense Improv Comedy Tonight: Benay's Farewell
+URL;VALUE=URI:http://middbeat.org/2014/01/27/otter-nonsense-tonight-benays-farewell/
+UID:1071-http://middbeat.org/2014/01/27/otter-nonsense-tonight-benays-farewell/
+DESCRIPTION:[by: tutankhamen]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140128T013000Z
+DTEND;VALUE=DATE-TIME:20140128T023000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tonight: Dr. Dog at Higher Ground
+URL;VALUE=URI:http://middbeat.org/2014/01/28/tonight-dr-dog-at-higher-ground/
+UID:1073-http://middbeat.org/2014/01/28/tonight-dr-dog-at-higher-ground/
+DESCRIPTION:[by: tutankhamen]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140128T180000Z
+DTEND;VALUE=DATE-TIME:20140128T180000Z
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Choreopoem: for colored girls who have considered suicide/when the rainbow is enuf
+URL;VALUE=URI:http://middbeat.org/2014/01/26/choreopoem-for-colored-girls-who-have-considered-suicidewhen-the-rainbow-is-enuf/
+UID:1067-http://middbeat.org/2014/01/26/choreopoem-for-colored-girls-who-have-considered-suicidewhen-the-rainbow-is-enuf/
+DESCRIPTION:[by: luke-whelan]
+TRANSP:OPAQUE
+DTSTART;VALUE=DATE-TIME:20140128T233000Z
+DTEND;VALUE=DATE-TIME:20140129T023000Z
+END:VEVENT
+END:VCALENDAR

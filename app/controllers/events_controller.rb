@@ -1,7 +1,11 @@
 require 'feedzirra'
+require 'net/http'
+require 'icalendar'
+include Icalendar
 
 class EventsController < ApplicationController
   include EventsHelper
+
   def index
     @events = Event.where("s_time >= ?", Time.now)
     @response = { :count => @events.length, :events => @events }
@@ -11,7 +15,7 @@ class EventsController < ApplicationController
     end
   end
 
-  def feed
+  def college
     feed = Feedzirra::Feed.fetch_and_parse("http://25livepub.collegenet.com/calendars/featured-title-events-calendar-search.rss")
     entries = []
     locations = {}
@@ -50,6 +54,13 @@ class EventsController < ApplicationController
       entries.push({:title => e.title, :content => summary, :time => date, :location => location})
     end
     render json: {:count => entries.length, :locations => locations, :entries => entries}
+  end
+
+  def middbeat
+    calendar = Net::HTTP.get(URI('http://middbeat.org/wp-rss.php?ec3_ical'))
+    cal = Icalendar.parse(calendar)
+
+    render json: {:cal => cal}
   end
 
 

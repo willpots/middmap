@@ -53,10 +53,8 @@ WP.YellowIcon = new WP.icon({
 
 WP.Event = function(data, reader) {
   this.data = data;
-  console.log(data);
   this.hoursUntil = moment(this.data.s_time).diff(moment()) / (1000 * 60 * 60);
   this.time = moment(this.data.s_time).fromNow();
-  console.log(this.time);
   if (this.data.place !== undefined) {
     this.latlng = new L.LatLng(this.data.place.lat, this.data.place.lng);
     this.marker = new L.Marker(this.latlng, {icon: WP.BlackIcon});
