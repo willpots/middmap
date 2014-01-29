@@ -1,10 +1,9 @@
 <header class="main">
-  <h1>Middlebury</h1>
-
+  <img src="/assets/logo.png" alt="MiddMap" width="200">
 </header>
 <div id="map"></div>
 <footer class="main">
-  <!-- <input type="text" name="search" id="search"> -->
+  <div id="slider"></div>
 </footer>
 
 <script>
@@ -28,6 +27,20 @@ function initmap() {
 
 }
 $(function() {
+  var date = new Date();
   initmap();
+  $("#slider").dateRangeSlider({
+    bounds:{
+      min: moment().toDate(),
+      max: moment().add('days', 21).toDate()
+    },
+    defaultValues:{
+      min: moment().toDate(),
+      max: moment().add('days', 7).toDate()
+    }
+  });
+  $("#slider").bind("valuesChanged", function(e, data){
+    reader.showBetween(moment(data.values.min), moment(data.values.max));
+  });
 })
 </script>

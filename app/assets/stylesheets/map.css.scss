@@ -2,7 +2,10 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
-html { height: 100% }
+html { 
+  height: 100%;
+  font-family: "Helvetica Neue", sans-serif;
+}
 body { height: 100%; margin: 0; padding: 0 }
 #map { height: 100%; }
 
@@ -13,9 +16,11 @@ header.main {
   right:0;
   margin:0 auto;
   width:220px;
+  padding:10px;
+  background:white;
   font-family: "Bembo Std Regular";
+  text-align: center;
   h1 {
-    text-align: center;
     margin:0 auto;
     font-size: 30px;
     width:200px;
@@ -30,9 +35,14 @@ footer.main {
   bottom:0;
   height:50px;
   width:100%;
+  padding:20px;
   #search {
     position:absolute;
     bottom:0;
     right:0;
+  }
+  #slider {
+    width: 90%;
+    margin:-10px auto;
   }
 }

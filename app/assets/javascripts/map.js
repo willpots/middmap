@@ -4,7 +4,9 @@ WP.EventReader = function(fn, map)  {
   this.onload = fn || function(){console.log("Loaded");};
   this.map = map;
   this.events = [];
-  this.cluster = new L.MarkerClusterGroup();
+  this.cluster = new L.MarkerClusterGroup({
+    spiderfyOnMaxZoom:true
+  });
 
 };
 
@@ -25,6 +27,23 @@ WP.EventReader.prototype.fetch = function() {
 };
 WP.EventReader.prototype.show = function() {
   this.map.addLayer(this.cluster);
+};
+WP.EventReader.prototype.showBetween = function(start, end) {
+  for(var x in this.events) {
+    var ev = this.events[x];
+    var count = 0;
+    console.log(ev.getStart().toDate(), start.toDate());
+    if(moment(ev.getStart()).isAfter(start) && moment(ev.getStart()).isBefore(end)) {
+
+      if(ev.latlng !== undefined && !this.cluster.hasLayer(ev.marker)) {
+        this.cluster.addLayer(ev.marker);
+      }
+      count += 1;
+    } else if(ev.latlng !== undefined) {
+      this.cluster.removeLayer(ev.marker);
+    }
+  }
+  console.log(count);
 };
 WP.icon = L.Icon.extend({
   options: {
@@ -87,3 +106,6 @@ WP.Event.prototype.hide = function() {
 WP.Event.prototype.show = function() {
   // this.map.add(this.marker);
 };
+WP.Event.prototype.getStart = function() {
+  return moment(this.data.s_time);
+}

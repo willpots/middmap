@@ -1,12 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Middlebury Now</title>
+  <title>MiddMap</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta property="og:title" content="MiddMap" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="http://www.middmap.com" />
+  <meta property="og:image" content="http://www.middmap.com/assets/logo.png" />
 
   <%= stylesheet_link_tag "application", media: "all", "data-turbolinks-track" => true %>
   <%= stylesheet_link_tag "jquery-ui", media: "all", "data-turbolinks-track" => true %>
   <%= stylesheet_link_tag "leaflet", media: "all", "data-turbolinks-track" => true %>
+  <%= stylesheet_link_tag "dateslider/iThing", media: "all", "data-turbolinks-track" => true %>
   <%= stylesheet_link_tag "MarkerCluster", media: "all", "data-turbolinks-track" => true %>
   <%= stylesheet_link_tag "MarkerCluster.Default", media: "all", "data-turbolinks-track" => true %>
   <%= stylesheet_link_tag "map", media: "all", "data-turbolinks-track" => true %>
@@ -16,6 +21,7 @@
   <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
   <%= javascript_include_tag "jquery.min", "data-turbolinks-track" => true %>
   <%= javascript_include_tag "jquery-ui", "data-turbolinks-track" => true %>
+  <%= javascript_include_tag "jQDateRangeSlider-min", "data-turbolinks-track" => true %>
   <%= javascript_include_tag "leaflet", "data-turbolinks-track" => true %>
   <%= javascript_include_tag "leaflet.markercluster", "data-turbolinks-track" => true %>
   <%= javascript_include_tag "moment.min", "data-turbolinks-track" => true %>
