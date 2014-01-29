@@ -19,6 +19,7 @@ WP.EventReader.prototype.fetch = function() {
     for (var e in data.events) {
       var ev = data.events[e];
       reader.events.push(new WP.Event( ev, reader, reader.map));
+      reader.showBetween(moment().toDate(), moment().add('days', 7).toDate());
       reader.map.addLayer(reader.cluster);
     }
   };
@@ -32,9 +33,7 @@ WP.EventReader.prototype.showBetween = function(start, end) {
   for(var x in this.events) {
     var ev = this.events[x];
     var count = 0;
-    console.log(ev.getStart().toDate(), start.toDate());
     if(moment(ev.getStart()).isAfter(start) && moment(ev.getStart()).isBefore(end)) {
-
       if(ev.latlng !== undefined && !this.cluster.hasLayer(ev.marker)) {
         this.cluster.addLayer(ev.marker);
       }
@@ -43,7 +42,6 @@ WP.EventReader.prototype.showBetween = function(start, end) {
       this.cluster.removeLayer(ev.marker);
     }
   }
-  console.log(count);
 };
 WP.icon = L.Icon.extend({
   options: {
