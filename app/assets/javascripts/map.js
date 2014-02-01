@@ -47,25 +47,41 @@ WP.icon = L.Icon.extend({
   options: {
     iconUrl: '/assets/icon.png',
     iconRetinaUrl: '/assets/icon.png',
-    iconSize: [30, 30],
-    iconAnchor: [15, 15],
-    popupAnchor: [0,-10],
-    shadowUrl: "/assets/icon-shadow.png",
-    shadowAnchor: [14, 14],
-    shadowSize: [30, 30]
+    iconSize: [50, 50],
+    iconAnchor: [14, 43],
+    popupAnchor: [0,-40]
+    // shadowUrl: "/assets/icon-shadow.png",
+    // shadowAnchor: [14, 14],
+    // shadowSize: [30, 30]
   }
 });
-WP.GreenIcon = new WP.icon({
-    iconUrl: '/assets/icon-green.png',
-    iconRetinaUrl: '/assets/icon-green.png'
+WP.Icon1 = new WP.icon({
+    iconUrl: '/assets/priority-1.png',
+    iconRetinaUrl: '/assets/priority-1.png'
 });
-WP.RedIcon = new WP.icon({
-    iconUrl: '/assets/icon-red.png',
-    iconRetinaUrl: '/assets/icon-red.png'
+WP.Icon2 = new WP.icon({
+    iconUrl: '/assets/priority-2.png',
+    iconRetinaUrl: '/assets/priority-2.png'
 });
-WP.YellowIcon = new WP.icon({
-    iconUrl: '/assets/icon-yellow.png',
-    iconRetinaUrl: '/assets/icon-yellow.png'
+WP.Icon3 = new WP.icon({
+    iconUrl: '/assets/priority-3.png',
+    iconRetinaUrl: '/assets/priority-3.png'
+});
+WP.Icon4 = new WP.icon({
+    iconUrl: '/assets/priority-4.png',
+    iconRetinaUrl: '/assets/priority-4.png'
+});
+WP.Icon5 = new WP.icon({
+    iconUrl: '/assets/priority-5.png',
+    iconRetinaUrl: '/assets/priority-5.png'
+});
+WP.Icon6 = new WP.icon({
+    iconUrl: '/assets/priority-6.png',
+    iconRetinaUrl: '/assets/priority-6.png'
+});
+WP.Icon7 = new WP.icon({
+    iconUrl: '/assets/priority-7.png',
+    iconRetinaUrl: '/assets/priority-7.png'
 });
 
 WP.Event = function(data, reader) {
@@ -75,12 +91,20 @@ WP.Event = function(data, reader) {
   if (this.data.place !== undefined) {
     this.latlng = new L.LatLng(this.data.place.lat, this.data.place.lng);
     this.marker = new L.Marker(this.latlng, {icon: WP.BlackIcon});
-    if(this.hoursUntil < 12) {
-      this.marker.setIcon(WP.RedIcon);
-    } else if(this.hoursUntil < 72) {
-      this.marker.setIcon(WP.YellowIcon);
+    if(this.hoursUntil < 4) {
+      this.marker.setIcon(WP.Icon1);
+    } else if(this.hoursUntil < 8) {
+      this.marker.setIcon(WP.Icon2);
+    } else if(this.hoursUntil < 12) {
+      this.marker.setIcon(WP.Icon3);
+    } else if(this.hoursUntil < 48) {
+      this.marker.setIcon(WP.Icon4);
+    } else if(this.hoursUntil < 96) {
+      this.marker.setIcon(WP.Icon5);
+    } else if(this.hoursUntil < 192) {
+      this.marker.setIcon(WP.Icon6);
     } else {
-      this.marker.setIcon(WP.GreenIcon);
+      this.marker.setIcon(WP.Icon7);
     }
     this.marker.bindPopup(this.template());
     this.map = reader.map;
